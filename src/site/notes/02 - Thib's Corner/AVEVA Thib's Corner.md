@@ -22,5 +22,6 @@
 >> - [Help Desk](https://aveva.oak.com/ServiceDesk#/home/581d1473-8f9d-479c-ba65-7558dcbb9b43/)
 >> - [Concur](https://us2.concursolutions.com/nui/signin/hrd)
 
+# Architecture
 
 [[02 - Thib's Corner/AVEVA PI System Architecture\|AVEVA PI System Architecture]]
