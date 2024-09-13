@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/the-true-potential-of-your-data-management-strategy/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/the-true-potential-of-your-data-management-strategy/","noteIcon":""}
 ---
 
 

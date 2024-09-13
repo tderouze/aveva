@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/","noteIcon":""}
 ---
 
 # 📚 Qu'est-ce qu'un chef

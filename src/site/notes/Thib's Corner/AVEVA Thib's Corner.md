@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/aveva-thib-s-corner/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/thib-s-corner/aveva-thib-s-corner/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 # Welcome to Thib's Corner

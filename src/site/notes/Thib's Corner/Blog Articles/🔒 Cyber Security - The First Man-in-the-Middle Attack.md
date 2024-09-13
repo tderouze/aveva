@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/cyber-security-the-first-man-in-the-middle-attack/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/cyber-security-the-first-man-in-the-middle-attack/","noteIcon":""}
 ---
 
 # The First Man-in-the-Middle Attack

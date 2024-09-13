@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/pi-system-et-aws-outposts/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/pi-system-et-aws-outposts/","noteIcon":""}
 ---
 
 # 🕵️ PI System et AWS Outposts

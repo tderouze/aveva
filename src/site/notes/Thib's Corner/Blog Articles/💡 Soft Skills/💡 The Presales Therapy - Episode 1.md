@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/the-presales-therapy-episode-1/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/the-presales-therapy-episode-1/","noteIcon":""}
 ---
 
 # 💡 The Presales Therapy - Episode 1

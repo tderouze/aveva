@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/sympathie-vs-empathie/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/sympathie-vs-empathie/","noteIcon":""}
 ---
 
 

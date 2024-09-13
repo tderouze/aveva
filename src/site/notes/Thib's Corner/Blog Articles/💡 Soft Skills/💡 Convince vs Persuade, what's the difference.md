@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/convince-vs-persuade-what-s-the-difference/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/convince-vs-persuade-what-s-the-difference/","noteIcon":""}
 ---
 
 

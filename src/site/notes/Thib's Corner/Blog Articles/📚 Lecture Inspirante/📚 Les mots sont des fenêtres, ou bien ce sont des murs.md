@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/lecture-inspirante/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/lecture-inspirante/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/","noteIcon":""}
 ---
 
 # 📚 Les mots sont des fenêtres, ou bien ce sont des murs

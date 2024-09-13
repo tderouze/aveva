@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/a-data-management-xmas-tale/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/a-data-management-xmas-tale/","noteIcon":""}
 ---
 
 

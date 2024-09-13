@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/","noteIcon":""}
 ---
 
 # 🍃 La sobriété numérique, ça vous parle

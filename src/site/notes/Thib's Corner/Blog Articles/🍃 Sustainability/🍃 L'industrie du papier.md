@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/sustainability/l-industrie-du-papier/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/sustainability/l-industrie-du-papier/","noteIcon":""}
 ---
 
 # 🍃 L'industrie du papier

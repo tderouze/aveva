@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/a-brief-history-of-po-cs/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/a-brief-history-of-po-cs/","noteIcon":""}
 ---
 
 

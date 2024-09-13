@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/l-art-de-la-communication/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/soft-skills/l-art-de-la-communication/","noteIcon":""}
 ---
 
 

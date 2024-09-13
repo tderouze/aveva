@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/unlocking-data-management-excellence/"}
+{"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/data/unlocking-data-management-excellence/","noteIcon":""}
 ---
 
 # 🕵️ Unlocking Data Management Excellence!
