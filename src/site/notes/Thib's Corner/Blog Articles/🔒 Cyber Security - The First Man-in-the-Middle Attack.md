@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/thib-s-corner/blog-articles/cyber-security-the-first-man-in-the-middle-attack/"}
 ---
 
-Happy New Year and best wishes for 2024! 🎉
+# The First Man-in-the-Middle Attack
 
 As we step into the new year, I'm thrilled to share a captivating story gifted by my brother [Geoffroy](https://www.linkedin.com/in/tderouze/overlay/create-post/#), a cybersecurity expert. I've chosen this tale for two main reasons.
 1. Traditionally, January is the time to embrace new resolutions. Vigilance in cybersecurity is one resolution we should promptly adopt or consistently renew.

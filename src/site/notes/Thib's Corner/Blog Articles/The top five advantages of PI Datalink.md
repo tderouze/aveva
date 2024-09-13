@@ -13,3 +13,5 @@ Let's jump together into the top five advantages of PI Datalink.
 And here's the icing on the cake: PI Datalink reduces the need for raw data in your spreadsheets. This means smaller, more efficient reports that run faster. Plus, it seamlessly integrates with Excel's familiar formatting features.
 
 So there you have it, the incredible advantages of PI Datalink, your Excel superpower for harnessing the full potential of your PI system data. Stay tuned for more insights, and don't forget to subscribe for the latest updates.
+
+#AVEVA #PIDatalink 
