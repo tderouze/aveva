@@ -14,7 +14,7 @@
 #Screenshot/Architecture #BusinessImpact/Sustainability #Screenshot/PIAF  #Screenshot/PIVision #BusinessImpact/Sustainability/GHGEmissions #Screenshot/PIDataLink #BusinessImpact/Standardization 
 
 ---
-## `=this.Customer`'s Results
+## Vale's Results
 ![](https://i.imgur.com/xnhzz0D.jpg)
 ![](https://i.imgur.com/9YdjfAH.png)
 

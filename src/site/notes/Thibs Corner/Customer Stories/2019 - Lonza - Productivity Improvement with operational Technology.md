@@ -13,7 +13,7 @@
 [Screenshots:: #Product/Seeq #Product/RCIP] 
 
 ---
-## `=this.Customer`'s Results
+## Lonza's Results
 ![](https://i.imgur.com/QimnP62.png)
 
 ---

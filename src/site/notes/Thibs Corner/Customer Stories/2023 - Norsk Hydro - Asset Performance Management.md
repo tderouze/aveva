@@ -14,7 +14,7 @@
 #Screenshot/Architecture  #Screenshot/PIVision #Product/AVEVA/Notifications #Product/AVEVA/APA_PRiSM #Screenshot/APA
 
 ---
-## `=this.Customer`'s Results
+## Norsk Hydro's Results
 ![](https://i.imgur.com/RemOxUa.png)
 ![](https://i.imgur.com/Wqgphkq.png)
 

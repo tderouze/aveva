@@ -15,7 +15,7 @@
 
 
 ---
-## `=this.Customer`'s Results
+## Liberty Ostrava's Results
 ![](https://i.imgur.com/mSdYcQF.png)
 ![](https://i.imgur.com/0bCjUgc.png)
 

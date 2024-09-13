@@ -14,7 +14,7 @@
 #Asset/Incinerator
 
 ---
-## `=this.Customer`'s Results
+## Vattenfall's Results
 
 ---
 ## Screenshots

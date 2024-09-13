@@ -15,7 +15,7 @@
 #Heatmap
 
 ---
-## `=this.Customer`'s Results
+## Klabin's Results
 ![](https://i.imgur.com/Rd3yoTo.png)
 
 ---

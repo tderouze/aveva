@@ -15,7 +15,7 @@
 #Asset/Vaccines   
 
 ---
-## `=this.Customer`'s Results
+## GSK's Results
 ![](https://i.imgur.com/9RuwGwx.png)
 
 

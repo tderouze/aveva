@@ -15,7 +15,7 @@
 #Asset/Battery 
 
 ---
-## `=this.Customer`'s Results
+## RWTH's Results
 ![](https://i.imgur.com/hQOqrCw.png)
 
 ---

@@ -15,7 +15,7 @@
 #Product/DataSource/DeltaV #Product/AVEVA/RtReports 
 
 ---
-## `=this.Customer`'s Results
+## GSK's Results
 ![](https://i.imgur.com/Hxu13EI.png)
 
 ---

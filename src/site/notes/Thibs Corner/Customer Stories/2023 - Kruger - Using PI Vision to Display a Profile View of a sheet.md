@@ -14,7 +14,7 @@
 [Screenshots:: #Screenshot/PIAF #Screenshot/PIVision] 
 
 ---
-## `=this.Customer`'s Results
+## Kruger's Results
 ![](https://i.imgur.com/62vRUSq.png)
 ![](https://i.imgur.com/8QnVOrk.png)
 

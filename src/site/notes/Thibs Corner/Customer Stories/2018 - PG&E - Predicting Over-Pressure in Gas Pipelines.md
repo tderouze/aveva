@@ -13,7 +13,7 @@
 [Screenshots:: ] 
 
 ---
-## `=this.Customer`'s Results
+## PG&E's Results
 ![](https://i.imgur.com/4RBLBxr.png)
 
 ---

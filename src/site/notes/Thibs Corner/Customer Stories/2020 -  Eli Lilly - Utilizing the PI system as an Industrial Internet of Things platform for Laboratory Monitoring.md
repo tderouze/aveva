@@ -14,7 +14,7 @@
 #Asset/Battery  #Product/DataSource/HARTIP  #Technology/CMMS
 
 ---
-## `=this.Customer`'s Results
+## Eli Lilly's Results
 
 ---
 ## Screenshots

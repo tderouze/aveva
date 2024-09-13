@@ -14,7 +14,7 @@
 #Product/Mipac/MPA  #Product/AVEVA/PIAFSDK 
 
 ---
-## `=this.Customer`'s Results
+## Newmont's Results
 ![](https://i.imgur.com/1wQYDsW.png)
 
 ---

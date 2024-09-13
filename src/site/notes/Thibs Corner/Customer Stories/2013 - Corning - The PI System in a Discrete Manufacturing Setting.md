@@ -14,7 +14,7 @@
 #Product/AVEVA/PIHA #Technology/CMMS #Product/AVEVA/PI-MES #Product/DataSource/Kepware #Product/Tabware
 
 ---
-## `=this.Customer`'s Results
+## Corning's Results
 
 ---
 ## Screenshots

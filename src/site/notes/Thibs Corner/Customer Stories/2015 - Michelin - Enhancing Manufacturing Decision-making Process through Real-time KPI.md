@@ -14,7 +14,7 @@
 [Screenshots:: ] 
 
 ---
-## `=this.Customer`'s Results
+## Michelin's Results
 <!--⚠️Imgur upload failed, check dev console-->
 ![Pasted image 20231206153509.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153509.png)
 

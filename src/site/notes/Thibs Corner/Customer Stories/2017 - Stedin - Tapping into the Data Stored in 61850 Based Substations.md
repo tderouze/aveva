@@ -16,7 +16,7 @@
 #Asset/Substation
 
 ---
-## `=this.Customer`'s Results
+## Stedin's Results
 ![](https://i.imgur.com/welC3mO.png)
 
 ---

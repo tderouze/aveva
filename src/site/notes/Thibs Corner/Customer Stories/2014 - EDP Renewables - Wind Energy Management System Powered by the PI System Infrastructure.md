@@ -13,7 +13,7 @@
 [Screenshots:: #Screenshot/Architecture] 
 
 ---
-## `=this.Customer`'s Results
+## EDP Renewables's Results
 ![](https://i.imgur.com/1GHNWEJ.png)
 ![](https://i.imgur.com/vLQERfN.png)
 

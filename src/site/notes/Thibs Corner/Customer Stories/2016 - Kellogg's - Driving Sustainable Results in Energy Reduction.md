@@ -19,7 +19,7 @@
 { .block-language-dataview}
 
 ---
-## `=this.Customer`'s Results
+## Kellogg's's Results
 ![](https://i.imgur.com/1HC2jVZ.png)
 ![](https://i.imgur.com/BBa2mLl.png)
 

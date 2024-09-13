@@ -17,7 +17,7 @@
 
 
 ---
-## `=this.Customer`'s Results
+## Quebec Iron Ore's Results
 ![](https://i.imgur.com/u4Zaa5X.png)
 ![](https://i.imgur.com/VcDIQWs.jpg)
 

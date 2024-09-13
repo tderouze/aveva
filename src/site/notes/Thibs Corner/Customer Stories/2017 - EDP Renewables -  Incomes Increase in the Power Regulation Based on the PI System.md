@@ -15,7 +15,7 @@
 [Screenshots:: #Screenshot/Architecture #Screenshot/PIAF]
 
 ---
-## `=this.Customer`'s Results
+## EDP Renewables's Results
 ![](https://i.imgur.com/eK6U8M3.png)
 ![](https://i.imgur.com/CS1GjbO.png)
 

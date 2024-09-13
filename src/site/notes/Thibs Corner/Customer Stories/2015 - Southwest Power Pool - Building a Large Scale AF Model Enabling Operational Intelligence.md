@@ -13,7 +13,7 @@
 
 
 ---
-## `=this.Customer`'s Results
+## Southwest Power Pool's Results
 ![](https://i.imgur.com/riiVrlM.png)
 ![](https://i.imgur.com/ipz9eek.png)
 ![](https://i.imgur.com/NXDOmsK.png)

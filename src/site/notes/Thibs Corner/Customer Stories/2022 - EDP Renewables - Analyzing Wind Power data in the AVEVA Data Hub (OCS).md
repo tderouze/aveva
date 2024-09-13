@@ -13,7 +13,7 @@
 #Screenshot/Architecture  #Product/AVEVA/ADH  #BusinessImpact/Maintenance/PredictiveMaintenance 
 
 ---
-## `=this.Customer`'s Results
+## EDP Renewables's Results
 ![](https://i.imgur.com/wE2oCDK.png)
 ![](https://i.imgur.com/iJMVl9C.png)
 

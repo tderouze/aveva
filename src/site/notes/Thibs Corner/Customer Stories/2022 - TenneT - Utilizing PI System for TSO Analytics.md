@@ -15,7 +15,7 @@
 #CyberSecurity/DataDiode #CyberSecurity  #Product/DataSource/Siemens 
 
 ---
-## `=this.Customer`'s Results
+## Tennet's Results
 ![](https://i.imgur.com/LYEbrkH.png)
 
 ---

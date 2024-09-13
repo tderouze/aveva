@@ -15,7 +15,7 @@
 #Asset/Pipelines #Product/SAS #Product/PowerBI 
 
 ---
-## `=this.Customer`'s Results
+## Enbridge's Results
 ![](https://i.imgur.com/wSuSYjm.png)
 
 ---

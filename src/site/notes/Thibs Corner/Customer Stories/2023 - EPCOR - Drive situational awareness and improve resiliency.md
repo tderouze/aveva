@@ -14,7 +14,7 @@
 
 
 ---
-## `=this.Customer`'s Results
+## EPCOR's Results
 ![](https://i.imgur.com/65EuuYe.png)
 
 ---

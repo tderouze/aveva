@@ -12,7 +12,7 @@
 #BusinessImpact/EventFrames/CIP  #BusinessImpact/Standardization/cGMP #BusinessImpact/Standardization/ISA88  #Screenshot/PIAF #Screenshot/PIVision #Screenshot/PIDataLink #Screenshot/RtReport #BusinessImpact/Standardization/ISA95  
 
 ---
-## `=this.Customer`'s Results
+## B Braun's Results
 ![](https://i.imgur.com/NSWGNzS.png)
 ![](https://i.imgur.com/uJRX7ED.png)
 ![](https://i.imgur.com/gee2C9U.png)

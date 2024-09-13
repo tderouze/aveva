@@ -14,7 +14,7 @@
 [Screenshots:: ] 
 
 ---
-## `=this.Customer`'s Results
+## Bayer's Results
 ![](https://i.imgur.com/SqbWtwM.png)
 
 ---

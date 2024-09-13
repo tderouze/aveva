@@ -13,7 +13,7 @@
 [Screenshots:: ] 
 
 ---
-## `=this.Customer`'s Results
+## Hershey's Results
 ![](https://i.imgur.com/MWxWI6e.png)
 
 ---

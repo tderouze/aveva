@@ -14,7 +14,7 @@
 #Product/DataSource/MTConnect  #Product/SAP #Product/AVEVA/PI-MES #Product/DataSource/Siemens   #Product/AVEVA/DataCollectionManager #Product/SAP/MII   #Product/AVEVA/PI-MES #Asset/Fanuc
 
 ---
-## `=this.Customer`'s Results
+## Sandvik's Results
 
 ---
 ## Screenshots

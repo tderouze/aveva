@@ -16,7 +16,7 @@
 #Product/PowerRunner  
 
 ---
-## `=this.Customer`'s Results
+## ComEd's Results
 ![](https://i.imgur.com/KiExgHo.png)
 
 ---

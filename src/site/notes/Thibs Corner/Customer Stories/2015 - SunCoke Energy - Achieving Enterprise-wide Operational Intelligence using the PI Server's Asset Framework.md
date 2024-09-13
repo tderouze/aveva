@@ -14,7 +14,7 @@
 #Asset/Boiler #Asset/Oven  
 
 ---
-## `=this.Customer`'s Results
+## SunCoke Energy's Results
 ![](https://i.imgur.com/O9hkDEl.png)
 ![](https://i.imgur.com/5VN20Yo.png)
 ![](https://i.imgur.com/jBrAROs.png)

@@ -14,7 +14,7 @@
 #Product/AVEVA/Notifications   #Product/Telegram #Product/AWS  #Product/Alexa  #Asset/Sugar
 
 ---
-## `=this.Customer`'s Results
+## Tereos's Results
 ![](https://i.imgur.com/FrNSL0b.png)
 
 ---

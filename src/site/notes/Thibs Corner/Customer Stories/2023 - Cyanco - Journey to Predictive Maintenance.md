@@ -14,7 +14,7 @@
 #BusinessImpact/Sustainability  
 
 ---
-## `=this.Customer`'s Results
+## Cyanco's Results
 ![](https://i.imgur.com/UDRqOSQ.png)
 
 ---

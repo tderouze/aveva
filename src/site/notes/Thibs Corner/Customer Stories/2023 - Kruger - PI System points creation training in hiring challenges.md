@@ -14,7 +14,7 @@
 
 
 ---
-## `=this.Customer`'s Results
+## Kruger's Results
 ![](https://i.imgur.com/8FVsRRe.png)
 
 ---

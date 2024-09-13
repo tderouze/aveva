@@ -12,7 +12,7 @@
 [Business Impacts:: [[BusinessImpacts\|BusinessImpacts]]]
 
 ---
-## `=this.Customer`'s Results
+## Yorkshire Water's Results
 ![](https://i.imgur.com/t1mMboG.png)
 ![](https://i.imgur.com/SDCD80q.png)
 

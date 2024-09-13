@@ -14,7 +14,7 @@
 #Asset/Battery 
 
 ---
-## `=this.Customer`'s Results
+## Blue Solutions's Results
 
 ---
 ## Screenshots

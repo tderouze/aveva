@@ -13,7 +13,7 @@
 [Screenshots:: #Screenshot/Architecture #Screenshot/CustomApp]
 
 ---
-## `=this.Customer`'s Results
+## SNCF's Results
 ![](https://i.imgur.com/kweLISt.png)
 
 ---

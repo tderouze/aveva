@@ -15,7 +15,7 @@
 #Product/ShiftConnector
 
 ---
-## `=this.Customer`'s Results
+## Bayer's Results
 ![](https://i.imgur.com/wsJw7f6.png)
 
 ---

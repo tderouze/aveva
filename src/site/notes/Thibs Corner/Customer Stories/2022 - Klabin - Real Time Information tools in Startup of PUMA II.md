@@ -13,7 +13,7 @@
 #Screenshot/Architecture  #Screenshot/PIAF  #Screenshot/PIVision #Product/PowerBI #BusinessImpact/Quality/SPC #Product/DataSource/Foxboro #Product/SAP #Product/AWS #Product/DataSource/ABB  #Product/DataSource/Labware #Product/DataSource/Siemens #Product/DataSource/Valmet  
 
 ---
-## `=this.Customer`'s Results
+## Klabin's Results
 ![](https://i.imgur.com/Tdw8Ahf.png)
 ![](https://i.imgur.com/d9Zb2wv.png)
 ![](https://i.imgur.com/ugKcQYV.png)

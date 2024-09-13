@@ -15,7 +15,7 @@
 #BusinessImpact/Standardization/Organization #Screenshot/Architecture #BusinessImpact/Standardization/GlobalDeployment #BusinessImpact/Energy #BusinessImpact/EventFrames/CycleTime #BusinessImpact/Maintenance #Screenshot/PIVision #Screenshot/PIAF 
 
 ---
-## `=this.Customer`'s Results
+## Michelin's Results
 ![](https://i.imgur.com/SWAZRzh.png)
 
 ---

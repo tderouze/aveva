@@ -15,7 +15,7 @@
 [Screenshots:: #Screenshot/PIVision]
 
 ---
-## `=this.Customer`'s Results
+## Stedin's Results
 ![](https://i.imgur.com/gNKr5Cr.png)
 
 ---

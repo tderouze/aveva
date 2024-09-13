@@ -15,7 +15,7 @@
 #Asset/Boiler #Asset/Furnace 
 
 ---
-## `=this.Customer`'s Results
+## Total Energies's Results
 ![](https://i.imgur.com/0DZTdw7.png)
 ![](https://i.imgur.com/mJC1Kyk.png)
 ![](https://i.imgur.com/YVSxCBs.png)

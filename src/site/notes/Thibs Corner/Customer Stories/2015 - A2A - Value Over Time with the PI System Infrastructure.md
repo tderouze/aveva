@@ -14,7 +14,7 @@
 [Screenshots:: #Screenshot/Architecture  ] 
 
 ---
-## `=this.Customer`'s Results
+## A2A's Results
 ![](https://i.imgur.com/7adL2hD.png)
 
 ---

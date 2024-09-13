@@ -12,7 +12,7 @@
 [Business Impacts:: [[BusinessImpacts\|BusinessImpacts]]]
 
 ---
-## `=this.Customer`'s Results
+## Lilly's Results
 ![](https://i.imgur.com/Y6MkBsH.png)
 
 ---

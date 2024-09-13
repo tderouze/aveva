@@ -14,7 +14,7 @@
 #Product/Tableau #Product/Databricks #Product/SAP 
 
 ---
-## `=this.Customer`'s Results
+## Uniper's Results
 ![](https://i.imgur.com/j2kk4a2.png)
 
 ---

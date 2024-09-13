@@ -13,7 +13,7 @@
 #Asset/Motor #Asset/HVPanels #Asset/Boiler #Asset/Refiner #Asset/Pump #Asset/PaperMachine #Asset/Gearbox #Industry/Pulp-Paper 
 
 ---
-## `=this.Customer`'s Results
+## Klabin's Results
 ![](https://i.imgur.com/DJkZfbl.png)
 
 ---
