@@ -6,7 +6,7 @@
 [Industry:: #Industry/Power ]
 [Year:: 2023]
 [Title:: [AVEVA Predictive Analytics in the energy-from-waste industry](https://resources.osisoft.com/presentations/suez-uk--aveva-predictive-analytics-in-the-energy-from-waste-industry/)]
-[PDF:: [PDF](Home.md)]
+[PDF:: [PDF](Homepage%20Example.md)]
 [Business Impacts:: ]
 [Country:: UK]
 [Benefits:: ]

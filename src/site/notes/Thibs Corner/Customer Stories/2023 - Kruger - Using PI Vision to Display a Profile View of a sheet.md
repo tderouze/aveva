@@ -6,7 +6,7 @@
 [Industry:: #Industry/Pulp-Paper]
 [Year:: 2023]
 [Title:: [Using PI Vision to Display a Profile View of a sheet](https://resources.osisoft.com/presentations/kruger--using-aveva%E2%84%A2-pi-vision%E2%84%A2-to-display-a-profile-view-of-a-sheet/)]
-[PDF:: [PDF](Home.md)]
+[PDF:: [PDF](Homepage%20Example.md)]
 [Products:: Product]
 [Business Impacts:: BusinessImpacts]
 [Benefits:: ]

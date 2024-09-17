@@ -14,4 +14,8 @@ And here's the icing on the cake: PI Datalink reduces the need for raw data in y
 
 So there you have it, the incredible advantages of PI Datalink, your Excel superpower for harnessing the full potential of your PI system data. Stay tuned for more insights, and don't forget to subscribe for the latest updates.
 
-#AVEVA #PIDatalink 
+![](https://www.youtube.com/watch?v=l8Cpq6hN_ag)
+
+#AVEVA #PIDatalink #YTVideo
+
+

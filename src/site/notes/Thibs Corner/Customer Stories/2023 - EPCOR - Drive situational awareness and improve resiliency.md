@@ -6,7 +6,7 @@
 [Industry:: #Industry/Infrastructure/Water]
 [Year:: 2023]
 [Title:: [Drive situational awareness and improve resiliency](https://resources.osisoft.com/presentations/epcor--using-geo-spatial-and-real-time-data-to-create-situational-awareness/)]
-[PDF:: [PDF](Home.md)]
+[PDF:: [PDF](Homepage%20Example.md)]
 [Products:: Product]
 [Business Impacts:: BusinessImpacts]
 [Benefits:: ]

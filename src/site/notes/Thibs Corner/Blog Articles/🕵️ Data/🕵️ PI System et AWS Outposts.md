@@ -18,3 +18,5 @@ Or, AWS Outposts y échappe en offrant une expérience hybride vraiment cohéren
 Voyez donc le résultat avec cette architecture de référence OSIsoft & AWS !
 
 ![](https://i.imgur.com/qs7y1np.png)
+
+#YTVideo
