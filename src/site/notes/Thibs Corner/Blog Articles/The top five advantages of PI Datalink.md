@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/thibs-corner/blog-articles/the-top-five-advantages-of-pi-datalink/","noteIcon":""}
 ---
 
+# The top five advantages of PI Datalink
+
 Let's jump together into the top five advantages of PI Datalink.
 
 1. **Data Retrieval.** Gone are the days of manually copying and pasting data or importing them from text files into Excel. With PI Datalink, your spreadsheets update in real time, giving you access to the latest data effortlessly.
