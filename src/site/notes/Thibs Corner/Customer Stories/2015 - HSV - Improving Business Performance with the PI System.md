@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-hsv-improving-business-performance-with-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-hsv-improving-business-performance-with-the-pi-system/"}
 ---
 
 [Company:: HSV]

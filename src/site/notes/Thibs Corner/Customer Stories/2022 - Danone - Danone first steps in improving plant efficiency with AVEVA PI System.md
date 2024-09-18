@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-danone-danone-first-steps-in-improving-plant-efficiency-with-aveva-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-danone-danone-first-steps-in-improving-plant-efficiency-with-aveva-pi-system/"}
 ---
 
 [Company:: Danone]

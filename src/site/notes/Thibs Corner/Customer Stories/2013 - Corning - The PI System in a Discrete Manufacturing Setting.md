@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/"}
 ---
 
 [Company:: Corning]

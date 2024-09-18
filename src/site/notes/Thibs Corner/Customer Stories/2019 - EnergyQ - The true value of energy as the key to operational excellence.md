@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/"}
 ---
 
 [Company:: EnergyQ]

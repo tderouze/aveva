@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/"}
 ---
 
 [Company:: Company]

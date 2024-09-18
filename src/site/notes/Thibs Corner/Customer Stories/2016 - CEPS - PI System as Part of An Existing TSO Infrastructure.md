@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/"}
 ---
 
 [Company:: CEPS]

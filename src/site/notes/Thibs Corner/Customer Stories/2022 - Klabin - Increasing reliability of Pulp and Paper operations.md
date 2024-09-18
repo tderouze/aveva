@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-klabin-increasing-reliability-of-pulp-and-paper-operations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-klabin-increasing-reliability-of-pulp-and-paper-operations/"}
 ---
 
 [Company:: Klabin]

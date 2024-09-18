@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-bayer-oee-an-important-kpi-to-achieve-operational-intelligence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-bayer-oee-an-important-kpi-to-achieve-operational-intelligence/"}
 ---
 
 [Company:: Bayer]

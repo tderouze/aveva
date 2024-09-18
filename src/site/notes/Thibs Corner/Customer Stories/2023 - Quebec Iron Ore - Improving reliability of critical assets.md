@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-quebec-iron-ore-improving-reliability-of-critical-assets/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-quebec-iron-ore-improving-reliability-of-critical-assets/"}
 ---
 
 [Company:: Quebec Iron Ore]

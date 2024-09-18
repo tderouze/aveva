@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/a-data-management-xmas-tale/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/a-data-management-xmas-tale/"}
 ---
 
-
-# 🎅🎄**A Data Management Xmas Tale **🎁
 
 I love stories, especially those echoing from the past! May it my passion for the PI System that reflects on me? Who could tell...
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-sncf-using-operational-data-for-the-future-maintenance-of-the-french-rail-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-sncf-using-operational-data-for-the-future-maintenance-of-the-french-rail-infrastructure/"}
 ---
 
 [Company:: SNCF]

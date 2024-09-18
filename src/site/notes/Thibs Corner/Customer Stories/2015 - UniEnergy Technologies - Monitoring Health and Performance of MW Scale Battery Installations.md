@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/"}
 ---
 
 [Company:: UniEnergy Technologies]

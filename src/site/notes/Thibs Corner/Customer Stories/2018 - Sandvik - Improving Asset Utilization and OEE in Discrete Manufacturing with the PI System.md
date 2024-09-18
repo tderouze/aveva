@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-sandvik-improving-asset-utilization-and-oee-in-discrete-manufacturing-with-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-sandvik-improving-asset-utilization-and-oee-in-discrete-manufacturing-with-the-pi-system/"}
 ---
 
 [Company:: Sandvik]

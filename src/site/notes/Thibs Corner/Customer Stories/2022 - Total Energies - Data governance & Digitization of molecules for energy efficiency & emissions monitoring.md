@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-total-energies-data-governance-and-digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-total-energies-data-governance-and-digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring/"}
 ---
 
 [Company:: Total Energies]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/"}
 ---
 
 [Company:: Lilly]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-arcelor-mittal-implementation-of-energy-management-information-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-arcelor-mittal-implementation-of-energy-management-information-system/"}
 ---
 
 [Company:: Arcelor Mittal]

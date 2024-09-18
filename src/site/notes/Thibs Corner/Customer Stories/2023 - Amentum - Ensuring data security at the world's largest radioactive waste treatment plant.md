@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/"}
 ---
 
 [Company:: Amentum]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-csl-a-successful-journey-through-advanced-analytics-and-toward-ai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-csl-a-successful-journey-through-advanced-analytics-and-toward-ai/"}
 ---
 
 [Company:: CSL]

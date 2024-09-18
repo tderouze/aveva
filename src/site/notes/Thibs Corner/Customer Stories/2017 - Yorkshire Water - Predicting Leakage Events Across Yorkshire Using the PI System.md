@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/"}
 ---
 
 [Company:: Yorkshire Water]

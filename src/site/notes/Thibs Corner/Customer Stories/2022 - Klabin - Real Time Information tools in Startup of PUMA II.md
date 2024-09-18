@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-klabin-real-time-information-tools-in-startup-of-puma-ii/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-klabin-real-time-information-tools-in-startup-of-puma-ii/"}
 ---
 
 [Company:: Klabin]

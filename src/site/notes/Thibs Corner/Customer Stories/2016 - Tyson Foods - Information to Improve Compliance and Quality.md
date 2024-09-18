@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-tyson-foods-information-to-improve-compliance-and-quality/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-tyson-foods-information-to-improve-compliance-and-quality/"}
 ---
 
 [Company:: Tyson Foods]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-exelon-corporation-advanced-performance-monitoring/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-exelon-corporation-advanced-performance-monitoring/"}
 ---
 
 [Company:: Exelon]

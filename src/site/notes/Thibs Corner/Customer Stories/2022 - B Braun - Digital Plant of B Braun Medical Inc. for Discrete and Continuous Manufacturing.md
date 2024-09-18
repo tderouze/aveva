@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-b-braun-digital-plant-of-b-braun-medical-inc-for-discrete-and-continuous-manufacturing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-b-braun-digital-plant-of-b-braun-medical-inc-for-discrete-and-continuous-manufacturing/"}
 ---
 
 [Company:: B Braun]

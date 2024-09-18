@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-liberty-ostrava-automation-via-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-liberty-ostrava-automation-via-pi-system/"}
 ---
 
 [Company:: Liberty Ostrava]

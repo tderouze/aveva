@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/the-top-five-advantages-of-pi-datalink/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/the-top-five-advantages-of-pi-datalink/"}
 ---
 
-# The top five advantages of PI Datalink
 
 Let's jump together into the top five advantages of PI Datalink.
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-dolphin-energy-pi-system-for-reliable-environmental-and-sustainability-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-dolphin-energy-pi-system-for-reliable-environmental-and-sustainability-management/"}
 ---
 
 [Company:: Dolphin Energy]

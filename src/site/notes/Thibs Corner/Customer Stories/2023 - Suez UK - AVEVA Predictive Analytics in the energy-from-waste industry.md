@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-suez-uk-aveva-predictive-analytics-in-the-energy-from-waste-industry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-suez-uk-aveva-predictive-analytics-in-the-energy-from-waste-industry/"}
 ---
 
 [Company:: Suez UK]

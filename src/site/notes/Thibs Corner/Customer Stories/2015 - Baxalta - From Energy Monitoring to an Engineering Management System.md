@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/"}
 ---
 
 [Company:: Baxalta]

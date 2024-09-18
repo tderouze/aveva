@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-international-paper-an-equipment-health-journey/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-international-paper-an-equipment-health-journey/"}
 ---
 
 [Company:: International Paper]

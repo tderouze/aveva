@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-afton-chemical-operational-data-in-action-leveraging-asset-framework-for-product-traceability/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-afton-chemical-operational-data-in-action-leveraging-asset-framework-for-product-traceability/"}
 ---
 
 [Company:: Afton Chemical]

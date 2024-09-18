@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-kellogg-s-driving-sustainable-results-in-energy-reduction/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-kellogg-s-driving-sustainable-results-in-energy-reduction/"}
 ---
 
 [Company:: Kellogg's]

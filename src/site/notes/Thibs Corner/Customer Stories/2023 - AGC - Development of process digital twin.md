@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-agc-development-of-process-digital-twin/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-agc-development-of-process-digital-twin/"}
 ---
 
 [Company:: AGC]

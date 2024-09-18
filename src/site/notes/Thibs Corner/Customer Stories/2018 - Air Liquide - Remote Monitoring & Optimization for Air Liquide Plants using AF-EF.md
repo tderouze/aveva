@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-air-liquide-remote-monitoring-and-optimization-for-air-liquide-plants-using-af-ef/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-air-liquide-remote-monitoring-and-optimization-for-air-liquide-plants-using-af-ef/"}
 ---
 
 [Company:: Air Liquide]

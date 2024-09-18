@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-deschutes-what-s-really-going-on-with-your-beer-s-fermentation/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-deschutes-what-s-really-going-on-with-your-beer-s-fermentation/"}
 ---
 
 [Company:: Deschutes]

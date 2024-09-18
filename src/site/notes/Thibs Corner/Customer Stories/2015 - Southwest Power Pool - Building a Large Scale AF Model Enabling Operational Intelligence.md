@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-southwest-power-pool-building-a-large-scale-af-model-enabling-operational-intelligence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-southwest-power-pool-building-a-large-scale-af-model-enabling-operational-intelligence/"}
 ---
 
 [Company:: Southwest Power Pool]

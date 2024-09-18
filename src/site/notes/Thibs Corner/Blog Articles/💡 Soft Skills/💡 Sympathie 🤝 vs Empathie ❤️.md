@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/sympathie-vs-empathie/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/sympathie-vs-empathie/"}
 ---
 
-
-# 💡Sympathie 🤝 vs Empathie ❤️
 
 Dans un monde qui se professionnalise, où l'empathie est servie à toutes les sauces, gardons-nous encore de la place pour la sympathie ?  
   

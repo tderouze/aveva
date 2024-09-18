@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-norsk-hydro-asset-performance-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-norsk-hydro-asset-performance-management/"}
 ---
 
 [Company:: Norsk Hydro]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-basf-how-shift-teams-use-aveva-pi-system-to-collaborate-and-boost-asset-utilization/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-basf-how-shift-teams-use-aveva-pi-system-to-collaborate-and-boost-asset-utilization/"}
 ---
 
 [Company:: BASF]

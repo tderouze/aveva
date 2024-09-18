@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/unlocking-data-management-excellence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/unlocking-data-management-excellence/"}
 ---
 
-# 🕵️ Unlocking Data Management Excellence!
 
 Let's talk data tools, and there's one we're all itching to bid farewell: Microsoft Excel. 🤯 While it's undeniably famous, it's notorious for the chaos it can cause in knowledge management. Who hasn't spent days deciphering complex Excel workbooks and dissecting functions? 🕵️‍♂️  
   

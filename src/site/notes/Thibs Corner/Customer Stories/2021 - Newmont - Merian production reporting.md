@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-newmont-merian-production-reporting/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-newmont-merian-production-reporting/"}
 ---
 
 [Company:: Newmont]

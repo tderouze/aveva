@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-hershey-pursuit-of-operational-excellence-at-the-hershey-company/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-hershey-pursuit-of-operational-excellence-at-the-hershey-company/"}
 ---
 
 [Company:: Hershey]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/"}
 ---
 
 [Company:: Blue Solutions]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/"}
 ---
 
 [Company:: KeySpan]

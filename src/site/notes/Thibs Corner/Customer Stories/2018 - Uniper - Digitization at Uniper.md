@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-uniper-digitization-at-uniper/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-uniper-digitization-at-uniper/"}
 ---
 
 [Company:: Uniper]

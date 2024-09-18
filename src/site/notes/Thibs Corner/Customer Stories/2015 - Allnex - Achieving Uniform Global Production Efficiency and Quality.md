@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-allnex-achieving-uniform-global-production-efficiency-and-quality/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-allnex-achieving-uniform-global-production-efficiency-and-quality/"}
 ---
 
 [Company:: Allnex]

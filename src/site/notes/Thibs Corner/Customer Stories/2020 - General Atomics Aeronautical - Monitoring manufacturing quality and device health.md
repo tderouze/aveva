@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/"}
 ---
 
 [Company:: General Atomics Aeronautical]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/"}
 ---
 
 [Company:: Cemex]

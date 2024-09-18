@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-wheelabrator-technologies-improving-operational-performance-with-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-wheelabrator-technologies-improving-operational-performance-with-the-pi-system/"}
 ---
 
 [Company:: Wheelabrator Technologies]

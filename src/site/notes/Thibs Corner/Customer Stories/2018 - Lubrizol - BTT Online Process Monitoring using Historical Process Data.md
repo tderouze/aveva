@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-lubrizol-btt-online-process-monitoring-using-historical-process-data/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-lubrizol-btt-online-process-monitoring-using-historical-process-data/"}
 ---
 
 [Company:: Lubrizol]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2012-bayer-requirements-and-benefits-of-an-energy-management-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2012-bayer-requirements-and-benefits-of-an-energy-management-system/"}
 ---
 
 [Company:: Bayer]

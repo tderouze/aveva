@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/"}
 ---
 
 [Company:: CORESO]

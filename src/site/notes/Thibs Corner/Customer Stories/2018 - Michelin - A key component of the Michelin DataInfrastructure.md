@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/"}
 ---
 
 [Company:: Michelin]

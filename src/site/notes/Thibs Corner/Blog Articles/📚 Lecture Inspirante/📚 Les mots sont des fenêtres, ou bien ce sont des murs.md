@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/lecture-inspirante/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/lecture-inspirante/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/"}
 ---
 
-# 📚 Les mots sont des fenêtres, ou bien ce sont des murs
 
 Alors que l'été touche à sa fin (si l'on admet qu'il y ait eu un été ), je vous propose de (re-)découvrir une lecture qui, il y a quelques années, a réellement changé ma perception de la communication : "Les mots sont des fenêtres (ou bien ce sont des murs)" par Marshall Rosenberg 📚  
   

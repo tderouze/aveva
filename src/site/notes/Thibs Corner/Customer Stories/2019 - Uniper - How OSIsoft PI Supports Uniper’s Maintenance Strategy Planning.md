@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/"}
 ---
 
 [Company:: Uniper]

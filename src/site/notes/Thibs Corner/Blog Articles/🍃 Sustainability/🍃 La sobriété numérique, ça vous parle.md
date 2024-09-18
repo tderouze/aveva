@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/"}
 ---
 
-# 🍃 La sobriété numérique, ça vous parle
 
 Depuis une petite décennie, les entreprises prennent conscience des impacts environnementaux des technologies numériques :  
 🔌 Consommation énergétique  

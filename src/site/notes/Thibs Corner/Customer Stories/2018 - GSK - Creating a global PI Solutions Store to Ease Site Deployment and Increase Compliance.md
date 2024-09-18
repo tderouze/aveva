@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-gsk-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-gsk-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/"}
 ---
 
 [Company:: GSK]

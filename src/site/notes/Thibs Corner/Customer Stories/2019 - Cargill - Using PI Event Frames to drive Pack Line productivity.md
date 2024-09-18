@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-cargill-using-pi-event-frames-to-drive-pack-line-productivity/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-cargill-using-pi-event-frames-to-drive-pack-line-productivity/"}
 ---
 
 [Company:: Cargill]

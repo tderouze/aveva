@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-lonza-productivity-improvement-with-operational-technology/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-lonza-productivity-improvement-with-operational-technology/"}
 ---
 
 [Company:: Lonza]

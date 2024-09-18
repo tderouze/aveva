@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-michelin-enhancing-manufacturing-decision-making-process-through-real-time-kpi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-michelin-enhancing-manufacturing-decision-making-process-through-real-time-kpi/"}
 ---
 
 [Company:: Michelin]

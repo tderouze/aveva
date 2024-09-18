@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-aes-jordan-the-pi-system-paves-the-way-for-iso-50001-and-iso-55001-certifications/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-aes-jordan-the-pi-system-paves-the-way-for-iso-50001-and-iso-55001-certifications/"}
 ---
 
 [Company:: AES Jordan]

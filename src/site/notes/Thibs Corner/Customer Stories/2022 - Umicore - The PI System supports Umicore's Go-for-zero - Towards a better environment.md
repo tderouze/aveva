@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/"}
 ---
 
 [Company:: Umicore]

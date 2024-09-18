@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-merck-advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-merck-advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system/"}
 ---
 
 [Company:: Merck]

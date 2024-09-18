@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-arcelor-mittal-wire-rod-mill-analysis-of-rolling-speed-parameters/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-arcelor-mittal-wire-rod-mill-analysis-of-rolling-speed-parameters/"}
 ---
 
 [Company:: Arcelor Mittal]

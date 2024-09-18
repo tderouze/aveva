@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-luminant-advanced-monitoring-and-diagnostics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-luminant-advanced-monitoring-and-diagnostics/"}
 ---
 
 [Company:: Luminant]

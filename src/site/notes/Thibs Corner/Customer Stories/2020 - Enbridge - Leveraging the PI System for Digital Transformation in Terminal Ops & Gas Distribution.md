@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/"}
 ---
 
 [Company:: Enbridge]

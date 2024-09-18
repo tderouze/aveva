@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/"}
 ---
 
 [Company:: Wood]

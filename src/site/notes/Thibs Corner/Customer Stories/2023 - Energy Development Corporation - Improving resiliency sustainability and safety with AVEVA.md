@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-energy-development-corporation-improving-resiliency-sustainability-and-safety-with-aveva/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-energy-development-corporation-improving-resiliency-sustainability-and-safety-with-aveva/"}
 ---
 
 [Company:: Energy Development Corporation]

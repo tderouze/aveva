@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/"}
 ---
 
 [Company:: Tereos]

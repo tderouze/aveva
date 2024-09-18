@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-new-gold-iso-50001-focused-energy-management-information-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2013-new-gold-iso-50001-focused-energy-management-information-system/"}
 ---
 
 [Company:: New Gold]

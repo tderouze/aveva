@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-deschutes-reducing-beer-production-time-with-predictions/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-deschutes-reducing-beer-production-time-with-predictions/"}
 ---
 
 [Company:: Deschutes]

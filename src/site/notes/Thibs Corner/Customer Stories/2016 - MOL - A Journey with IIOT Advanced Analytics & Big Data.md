@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-mol-a-journey-with-iiot-advanced-analytics-and-big-data/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-mol-a-journey-with-iiot-advanced-analytics-and-big-data/"}
 ---
 
 [Company:: MOL]

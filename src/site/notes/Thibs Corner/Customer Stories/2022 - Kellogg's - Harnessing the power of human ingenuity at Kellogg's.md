@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-kellogg-s-harnessing-the-power-of-human-ingenuity-at-kellogg-s/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-kellogg-s-harnessing-the-power-of-human-ingenuity-at-kellogg-s/"}
 ---
 
 [Company:: Kellogg's]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-agl-agl-energy-s-real-time-data-journey-continues/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-agl-agl-energy-s-real-time-data-journey-continues/"}
 ---
 
 [Company:: AGL]

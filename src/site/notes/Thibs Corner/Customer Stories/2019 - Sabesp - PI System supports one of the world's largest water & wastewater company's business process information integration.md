@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-sabesp-pi-system-supports-one-of-the-world-s-largest-water-and-wastewater-company-s-business-process-information-integration/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-sabesp-pi-system-supports-one-of-the-world-s-largest-water-and-wastewater-company-s-business-process-information-integration/"}
 ---
 
 [Company:: Sabesp]

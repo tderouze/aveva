@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/pi-system-et-aws-outposts/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/data/pi-system-et-aws-outposts/"}
 ---
 
-# 🕵️ PI System et AWS Outposts
 
 Quand arrivent les sujets chauds de Data Science autour des séries de données temporelles, les préoccupations de nos interlocuteurs sont clairement différentes.  
   
@@ -19,4 +18,3 @@ Voyez donc le résultat avec cette architecture de référence OSIsoft & AWS !
 
 ![](https://i.imgur.com/qs7y1np.png)
 
-#YTVideo

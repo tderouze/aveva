@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/the-presales-therapy-episode-1/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/the-presales-therapy-episode-1/"}
 ---
 
-# 💡 The Presales Therapy - Episode 1
 
 🚀 Exciting News! 🚀 I am thrilled to announce that I have officially finished the first episode of the Presales Therapy: a soft skills webinar series for presales! 🌟🎉
 

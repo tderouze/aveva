@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/"}
 ---
 
 [Company:: ComEd]

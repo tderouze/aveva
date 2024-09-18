@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-devon-tank-level-management-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-devon-tank-level-management-system/"}
 ---
 
 [Company:: Devon]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/"}
 ---
 
 [Company:: Saudi Aramco]

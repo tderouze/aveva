@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-kellogg-s-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-kellogg-s-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/"}
 ---
 
 [Company:: Kellogg's]

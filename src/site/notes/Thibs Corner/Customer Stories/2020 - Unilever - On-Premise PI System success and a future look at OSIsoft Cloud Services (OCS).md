@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/"}
 ---
 
 [Company:: Unilever]

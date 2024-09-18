@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-aps-event-frames-for-more-effective-decision-making/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-aps-event-frames-for-more-effective-decision-making/"}
 ---
 
 [Company:: APS]

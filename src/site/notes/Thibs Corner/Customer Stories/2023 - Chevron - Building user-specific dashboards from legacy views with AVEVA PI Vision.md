@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-chevron-building-user-specific-dashboards-from-legacy-views-with-aveva-pi-vision/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-chevron-building-user-specific-dashboards-from-legacy-views-with-aveva-pi-vision/"}
 ---
 
 [Company:: Chevron]

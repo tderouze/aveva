@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/"}
 ---
 
 [Company:: Air Liquide]

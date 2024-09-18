@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-eli-lilly-utilizing-the-pi-system-as-an-industrial-internet-of-things-platform-for-laboratory-monitoring/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-eli-lilly-utilizing-the-pi-system-as-an-industrial-internet-of-things-platform-for-laboratory-monitoring/"}
 ---
 
 [Company:: Eli Lilly]

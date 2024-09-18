@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-vale-pollution-prevention-and-netzero-carbon/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-vale-pollution-prevention-and-netzero-carbon/"}
 ---
 
 [Company:: Vale]

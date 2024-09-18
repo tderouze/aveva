@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-air-liquide-pi-af-our-cornerstone-to-leverage-smart-innovative-operations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-air-liquide-pi-af-our-cornerstone-to-leverage-smart-innovative-operations/"}
 ---
 
 [Company:: Air Liquide]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/"}
 ---
 
 [Company:: Alliander]

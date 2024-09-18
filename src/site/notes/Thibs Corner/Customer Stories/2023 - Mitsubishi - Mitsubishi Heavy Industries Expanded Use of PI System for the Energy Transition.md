@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-mitsubishi-mitsubishi-heavy-industries-expanded-use-of-pi-system-for-the-energy-transition/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-mitsubishi-mitsubishi-heavy-industries-expanded-use-of-pi-system-for-the-energy-transition/"}
 ---
 
 [Company:: Mitsubishi]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-odec-s-ea-journey-from-challenge-to-enterprise-view/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-odec-s-ea-journey-from-challenge-to-enterprise-view/"}
 ---
 
 [Company:: ODEC]

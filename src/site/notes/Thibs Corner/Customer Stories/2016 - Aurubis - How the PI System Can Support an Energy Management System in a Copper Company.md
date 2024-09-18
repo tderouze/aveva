@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-aurubis-how-the-pi-system-can-support-an-energy-management-system-in-a-copper-company/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-aurubis-how-the-pi-system-can-support-an-energy-management-system-in-a-copper-company/"}
 ---
 
 [Company:: Aurubis]

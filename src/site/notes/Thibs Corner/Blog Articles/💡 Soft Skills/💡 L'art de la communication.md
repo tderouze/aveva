@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/l-art-de-la-communication/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/soft-skills/l-art-de-la-communication/"}
 ---
 
-
-# 💡L'art de la communication
 
 « Michael ? Il excelle en communication. »  
   

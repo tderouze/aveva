@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/"}
 ---
 
 [Company:: Kruger]

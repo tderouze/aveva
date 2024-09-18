@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-pepco-the-ultimate-tool-for-ems-data-both-inside-and-outside-the-control-room/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-pepco-the-ultimate-tool-for-ems-data-both-inside-and-outside-the-control-room/"}
 ---
 
 [Company:: Pepco]

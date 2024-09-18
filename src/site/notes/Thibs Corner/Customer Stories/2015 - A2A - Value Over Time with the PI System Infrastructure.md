@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/"}
 ---
 
 [Company:: A2A]

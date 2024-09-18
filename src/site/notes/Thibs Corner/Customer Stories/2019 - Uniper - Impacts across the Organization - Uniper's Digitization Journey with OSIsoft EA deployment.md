@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/"}
 ---
 
 [Company:: Uniper]

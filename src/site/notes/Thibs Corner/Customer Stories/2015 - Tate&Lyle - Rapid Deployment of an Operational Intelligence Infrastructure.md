@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-tate-and-lyle-rapid-deployment-of-an-operational-intelligence-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-tate-and-lyle-rapid-deployment-of-an-operational-intelligence-infrastructure/"}
 ---
 
 [Company:: Tale&Lyle]

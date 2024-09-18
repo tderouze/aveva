@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/"}
 ---
 
-# 📚 Qu'est-ce qu'un chef
 
 Je viens de finir ce matin la lecture de "Qu'est-ce qu'un chef ?" de l'ancien chef d'état-major des armées françaises, Pierre de Villiers. Ce livre m'a profondément marqué par sa réflexion sur l'importance des relations humaines et le leadership dans un monde en constante évolution, où les machines prennent de plus en plus de place. Paru en 2018, les sujets discutés sont d'autant plus vrai aujourd'hui, avec l'apparation de nouveaux conflits et nouvelles avancées technologiques. 
 

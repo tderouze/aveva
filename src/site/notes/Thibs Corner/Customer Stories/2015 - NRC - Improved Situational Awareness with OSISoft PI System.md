@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/"}
 ---
 
 [Company:: NRC]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-sun-coke-energy-achieving-enterprise-wide-operational-intelligence-using-the-pi-server-s-asset-framework/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-sun-coke-energy-achieving-enterprise-wide-operational-intelligence-using-the-pi-server-s-asset-framework/"}
 ---
 
 [Company:: SunCoke Energy]

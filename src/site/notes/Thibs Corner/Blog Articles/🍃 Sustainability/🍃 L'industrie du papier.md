@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/sustainability/l-industrie-du-papier/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/blog-articles/sustainability/l-industrie-du-papier/"}
 ---
 
-# 🍃 L'industrie du papier
 
 Il y a des industries encore bien mal connues au 21e siècle.  
   

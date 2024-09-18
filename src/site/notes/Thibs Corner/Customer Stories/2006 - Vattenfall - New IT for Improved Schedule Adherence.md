@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/"}
 ---
 
 [Company:: Vattenfall]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-edp-renewables-wind-energy-management-system-powered-by-the-pi-system-infrastructure/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-edp-renewables-wind-energy-management-system-powered-by-the-pi-system-infrastructure/"}
 ---
 
 [Company:: EDP Renewables]

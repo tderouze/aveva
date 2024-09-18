@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-maynilad-managing-io-t-with-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2016-maynilad-managing-io-t-with-the-pi-system/"}
 ---
 
 [Company:: Maynilad]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/"}
 ---
 
 [Company:: ComEd]

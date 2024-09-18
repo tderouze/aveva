@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-bayer-best-practices-on-standardizing-pi-system-data-and-empowering-plant-workers-to-boost-oee/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-bayer-best-practices-on-standardizing-pi-system-data-and-empowering-plant-workers-to-boost-oee/"}
 ---
 
 [Company:: Bayer]

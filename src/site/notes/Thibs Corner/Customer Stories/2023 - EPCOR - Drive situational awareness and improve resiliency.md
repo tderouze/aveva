@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-epcor-drive-situational-awareness-and-improve-resiliency/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-epcor-drive-situational-awareness-and-improve-resiliency/"}
 ---
 
 [Company:: EPCOR]

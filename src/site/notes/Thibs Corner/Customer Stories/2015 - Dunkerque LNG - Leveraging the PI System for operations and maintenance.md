@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/"}
 ---
 
 [Company:: Dunkerque LNG]

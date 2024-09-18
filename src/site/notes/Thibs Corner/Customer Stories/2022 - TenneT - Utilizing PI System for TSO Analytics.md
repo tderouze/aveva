@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-tenne-t-utilizing-pi-system-for-tso-analytics/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-tenne-t-utilizing-pi-system-for-tso-analytics/"}
 ---
 
 [Company:: Tennet]

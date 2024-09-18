@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-stedin-dso-grid-analytics-around-the-clock/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2020-stedin-dso-grid-analytics-around-the-clock/"}
 ---
 
 [Company:: Stedin]

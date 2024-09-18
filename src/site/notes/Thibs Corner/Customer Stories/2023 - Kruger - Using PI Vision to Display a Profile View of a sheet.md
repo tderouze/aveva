@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/"}
 ---
 
 [Company:: Kruger]

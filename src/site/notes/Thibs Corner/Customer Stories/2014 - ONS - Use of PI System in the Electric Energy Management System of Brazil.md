@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/"}
 ---
 
 [Company:: ONS]

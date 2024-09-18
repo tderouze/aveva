@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/"}
 ---
 
 [Company:: EDP Renewables]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-pg-and-e-predicting-over-pressure-in-gas-pipelines/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2018-pg-and-e-predicting-over-pressure-in-gas-pipelines/"}
 ---
 
 [Company:: PG&E]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-albemarle-economies-of-scale-with-ai/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-albemarle-economies-of-scale-with-ai/"}
 ---
 
 [Company:: Albemarle]

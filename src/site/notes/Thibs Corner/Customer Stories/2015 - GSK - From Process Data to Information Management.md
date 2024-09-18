@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-gsk-from-process-data-to-information-management/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2015-gsk-from-process-data-to-information-management/"}
 ---
 
 [Company:: GSK]

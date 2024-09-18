@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-arkema-smart-batch-monitoring-with-vba-improves-problem-identification/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2014-arkema-smart-batch-monitoring-with-vba-improves-problem-identification/"}
 ---
 
 [Company:: Arkema]

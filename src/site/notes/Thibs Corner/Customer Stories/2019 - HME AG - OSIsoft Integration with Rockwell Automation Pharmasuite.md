@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-hme-ag-os-isoft-integration-with-rockwell-automation-pharmasuite/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-hme-ag-os-isoft-integration-with-rockwell-automation-pharmasuite/"}
 ---
 
 [Company:: HME AG]

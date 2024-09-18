@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/"}
 ---
 
 [Company:: RWTH]

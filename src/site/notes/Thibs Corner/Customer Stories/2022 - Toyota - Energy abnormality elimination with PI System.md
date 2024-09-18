@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-toyota-energy-abnormality-elimination-with-pi-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-toyota-energy-abnormality-elimination-with-pi-system/"}
 ---
 
 [Company:: Toyota]

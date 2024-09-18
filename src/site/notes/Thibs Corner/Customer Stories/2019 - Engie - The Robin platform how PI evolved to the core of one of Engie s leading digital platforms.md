@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/"}
 ---
 
 [Company:: Engie]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-cyanco-journey-to-predictive-maintenance/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2023-cyanco-journey-to-predictive-maintenance/"}
 ---
 
 [Company:: Cyanco]

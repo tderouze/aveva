@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/"}
 ---
 
 [Company:: Stedin]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-klabin-cloud-process-analytics-system/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2021-klabin-cloud-process-analytics-system/"}
 ---
 
 [Company:: Klabin]

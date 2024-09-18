@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/"}
 ---
 
 [Company:: Michelin]

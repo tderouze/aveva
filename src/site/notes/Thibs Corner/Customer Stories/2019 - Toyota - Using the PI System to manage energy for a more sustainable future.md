@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-toyota-using-the-pi-system-to-manage-energy-for-a-more-sustainable-future/","noteIcon":""}
+{"dg-publish":true,"permalink":"/thibs-corner/customer-stories/2019-toyota-using-the-pi-system-to-manage-energy-for-a-more-sustainable-future/"}
 ---
 
 [Company:: Toyota]
