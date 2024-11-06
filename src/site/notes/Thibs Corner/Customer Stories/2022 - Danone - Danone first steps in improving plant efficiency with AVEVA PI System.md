@@ -19,9 +19,6 @@
 ![](https://i.imgur.com/2VgO9SR.png)
 ![](https://i.imgur.com/8164fmL.png)
 ![](https://i.imgur.com/zEybsLg.png)
-
-
-
 ---
 ## Screenshots
 ![](https://i.imgur.com/5mmopMp.png)
@@ -37,13 +34,7 @@
 ![](https://i.imgur.com/4Liyu6z.png)
 
 > [!Info] OEE
-![](https://i.imgur.com/VdAeArJ.png)
-
-
-
-
-
----
+![](https://i.imgur.com/VdAeArJ.png)---
 ## Description
 This presentation will explain how to provide visibility of manufacturing data to the entire plant organization, and how to give the right information to the right people at the right time in order to make the right decisions.
 

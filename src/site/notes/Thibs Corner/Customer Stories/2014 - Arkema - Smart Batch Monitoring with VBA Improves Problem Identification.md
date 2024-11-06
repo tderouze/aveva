@@ -21,10 +21,7 @@
 ![](https://i.imgur.com/dVMUGwU.png)
 ![](https://i.imgur.com/XAZ9gBc.png)
 ![](https://i.imgur.com/Tmwqa5U.png)
-![](https://i.imgur.com/K2kPQnA.png)
-
-
----
+![](https://i.imgur.com/K2kPQnA.png)---
 ## Screenshots
 
 ---

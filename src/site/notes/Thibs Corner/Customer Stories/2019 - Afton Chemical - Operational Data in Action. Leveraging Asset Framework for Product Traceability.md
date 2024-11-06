@@ -23,9 +23,6 @@
 ![](https://i.imgur.com/xbGibzw.png)
 ![](https://i.imgur.com/CWs6sgY.png)
 ![](https://i.imgur.com/e20si0T.png)
-![](https://i.imgur.com/CYokWCR.png)
-
-
----
+![](https://i.imgur.com/CYokWCR.png)---
 ## Description
 Building an electronic record of your product’s critical control points and production is a challenge most Food, Beverage, Consumer Products, and Fine Chemical companies share. The sustainable solution needs to be based on your enterprise model, production methods, and transfers, and most of all, be flexible/expandable to handle future products and processes. Stone Technologies has built a Traceability Solution based on the flexible foundation of OSIsoft’s Asset Framework. Through the use of AF Event Frames, custom AF Data References, and SSRS Reporting, the solution calculates the lot component composition of product transfers in real time. The Event Frames are warehoused using Microsoft SQL Server and accessible through SQL Server Reporting Services, reporting on full genealogy from raw materials to finished goods as well as finished goods back to the raw materials. During this session, learn about the design process, critical design decisions, and the implementation approach to your traceability solution challenges.

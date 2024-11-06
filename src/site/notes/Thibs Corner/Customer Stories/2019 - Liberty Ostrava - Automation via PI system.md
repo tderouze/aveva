@@ -11,10 +11,7 @@
 [Business Impacts:: #BusinessImpact/Maintenance/Vibrations]
 [Benefits:: +15% quality; -10% loss]
 [Screenshots:: #Screenshot/PIProcessBook #Screenshot/PIVision #Screenshot/Architecture] 
-#Asset/HVAC #Asset/Furnace 
-
-
----
+#Asset/HVAC #Asset/Furnace ---
 ## Liberty Ostrava's Results
 ![](https://i.imgur.com/mSdYcQF.png)
 ![](https://i.imgur.com/0bCjUgc.png)

@@ -12,10 +12,7 @@
 [CO2e:: -3500 tons/y]
 [Business Impacts:: #BusinessImpact/DigitalTwin #BusinessImpact/RTO ]
 [Screenshots:: #Screenshot/PIVision]
-#Product/AVEVA/Notifications 
-
-
----
+#Product/AVEVA/Notifications ---
 ## AGC's Results
 ![](https://i.imgur.com/6p1AptN.png)
 

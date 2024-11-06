@@ -27,10 +27,7 @@
 ![](https://i.imgur.com/wjC7j3x.png)
 ![](https://i.imgur.com/DYdAOmg.png)
 ![](https://i.imgur.com/dlQqPoU.png)
-![](https://i.imgur.com/vgYeFgY.png)
-
-
----
+![](https://i.imgur.com/vgYeFgY.png)---
 ## Description
 
 Air Liquide is the world leader in gases, technologies & services for Industry and Health, present in 80 countries with around 65,000 employees. In 2017, the Group’s revenues were €20.3 billion. The World Business Line 'Large Industries' (LI) provides Air Liquide's customers with industrial gas solutions essential to their own production & technologies that deliver performance and energy efficiency. Thanks to OSIsoft technologies, the South East Asia remote operation control center has a centralized vision of customer needs for oxygen, nitrogen, argon & hydrogen. Like a control tower, the workflows of each unit are monitored & adapted in real time to the needs of each customer. With the implementation of SIO.Optim program, the production & delivery of gases to customers are optimized throughout the countries. Algorithms devised by Air Liquide engineers are used to fine-tune equipment adjustments, to optimize energy consumption, leveraging on data collected in real time on all pl

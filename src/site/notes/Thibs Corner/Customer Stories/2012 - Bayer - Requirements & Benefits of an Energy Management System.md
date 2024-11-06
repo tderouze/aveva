@@ -41,8 +41,5 @@
 > ![](https://i.imgur.com/jL7v5iK.png)
 
 ![](https://i.imgur.com/0BwuFg3.png)
-![](https://i.imgur.com/pn78pgf.png)
-
-
----
+![](https://i.imgur.com/pn78pgf.png)---
 ## Description

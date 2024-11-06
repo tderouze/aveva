@@ -11,7 +11,6 @@
 [Country:: Neitherland]
 [Business Impacts:: [[Business Impacts\|Business Impacts]]]
 
-
 ---
 ## EnergyQ's Results
 

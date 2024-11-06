@@ -30,10 +30,7 @@
 ![](https://i.imgur.com/Ik4rA2n.png)
 ![](https://i.imgur.com/wDurqRd.png)
 ![](https://i.imgur.com/Rpz1z8L.png)
-![](https://i.imgur.com/M4OJfNU.png)
-
-
----
+![](https://i.imgur.com/M4OJfNU.png)---
 ## Description
 
 Craft breweries frequently release new beers to maintain customer interest. The fermentation process for each of these beers is different. That process can be separated into nine distinct phases, and different beers transition from one phase to the next at different times. Typically, at Deschutes, it required regular manual readings and analysis to know when to move a particular beer from one phase to the next.

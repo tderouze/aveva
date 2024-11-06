@@ -31,9 +31,6 @@
 ![](https://i.imgur.com/La4o0xl.png)
 ![](https://i.imgur.com/qr8QdzQ.png)
 ![](https://i.imgur.com/EY27E1N.png)
-
-
-
 ---
 ## Description
 Sandvik is a High-Tech Engineering company that develops machine milling, drilling, and toning tools for metal cutting, metal and rock technology, and advanced materials. A companywide initiative to standardize asset data collection is being rolled out using PI Asset Framework and PI Connector technology. PI Connectors interface with CNC machines to automatically create an asset hierarchy and maintain PI Point lists. PI Asset Analytics create Event Frames to standardize OEE calculations that specifically categorizes downtime of the CNC machines giving workers a local improvement system that allows them to improve asset utilization.

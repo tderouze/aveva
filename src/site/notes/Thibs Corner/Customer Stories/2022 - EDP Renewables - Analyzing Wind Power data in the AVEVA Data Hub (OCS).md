@@ -30,9 +30,6 @@
 ![](https://i.imgur.com/v1bCusz.png)
 ![](https://i.imgur.com/mFjOPTP.png)
 ![](https://i.imgur.com/95lhYBc.png)
-
-
-
 ---
 ## Description
 Successful story during the Lighthouse Program to store into OCS data for 2,000,000 data streams coming from wind farms located in different regions (from the PI Server but also directly from the field using adapters technology). Streaming data collection and history recovery capabilities were used to analyze Wind Power data and obtain operational KPIs. Exposed data using views to gather information from different applications using API calls. PowerBI was used as a reporting tool to access data from data views prepared in OCS.

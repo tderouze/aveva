@@ -39,10 +39,7 @@
 ![](https://i.imgur.com/w5MWdik.png)
 ![](https://i.imgur.com/4dz9y9l.png)
 ![](https://i.imgur.com/DlRh8rU.png)
-![](https://i.imgur.com/rRguHVw.png)
-
-
----
+![](https://i.imgur.com/rRguHVw.png)---
 ## Description
 There will be 2 TotalEnergies presentations in the 45 minute period:
 

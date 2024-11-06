@@ -18,9 +18,6 @@
 
 ---
 ## Screenshots
-![](https://i.imgur.com/hDrI4pJ.png)
-
-
----
+![](https://i.imgur.com/hDrI4pJ.png)---
 ## Description
 Eli Lilly has implemented a Lab Monitoring System that delivers data monitoring, alarming, and historization reliably and efficiently only utilizing the PI system; no DCS or PLC is required. The previous system consisted of electronic chart recorders and hard-wired temperature sensors. This solution sends wireless data directly from a wireless system to PI utilizing the HART-IP Connector. Once this data is in the Asset Framework, the PI Analysis service generates Event Frames for out of range events. These Event Frames trigger PI Notifications for affected users to check their PI Vision displays. In PI Vision, users can then acknowledge their alarm and take proper action. As the system is wireless and easily deployable, any lab operation can be monitored by PI. Inputs include temperature, flow, pressure, or any discrete input. PI provides a fast and economical monitoring solution. The system is scalable to other parts of the lab and has been copied to other parts of the company

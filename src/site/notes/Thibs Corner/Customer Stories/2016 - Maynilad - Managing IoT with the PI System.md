@@ -25,9 +25,6 @@
 ![](https://i.imgur.com/5VjNXUA.png)
 ![](https://i.imgur.com/YXjodU7.png)
 ![](https://i.imgur.com/LnaYCJq.png)
-![](https://i.imgur.com/eww2o6q.png)
-
-
----
+![](https://i.imgur.com/eww2o6q.png)---
 ## Description
 In this presentation we will share our experience on how we used the PI System as the central technology in managing IoT for signals coming from the our Industrial systems and beyond, including meters, telemetry, etc. This includes retrieving signals from locations using M2M communication through 3G/GPRS, which is now coming of age, and using this information in our Central Control Room to take decisions. Beyond the control room, the PI System acts as a central repository for IoT data that can be used for many different analysis applications such as hydraulic modeling, leak management, energy management. We are also developing applications for customer service, fault management and integration with our GIS and facilities. Tangible benefits includes reduced cost of leak repairs (in some cases up to 90%), better customer service in faster reaction time to low pressure complaints (by 35%) and more efficient energy management (including a 10% reduction in energy costs).

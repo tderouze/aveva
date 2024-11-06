@@ -32,9 +32,6 @@
 ![](https://i.imgur.com/a2U20Dj.png)
 ![](https://i.imgur.com/NRjOqBM.png)
 ![](https://i.imgur.com/3RZhgJV.png)
-
-
-
 ---
 ## Description
 Migration from Excel-based production reporting to web-based production reporting with the PI System as a backend: -Integrating various external systems such as lab assays, gold bullion databases, environmental database and mining databases. -Leveraging Asset Framework tables, Event Frames, Asset Analytics, and value retrieval methods to calculate production reporting KPIs -Validation of production reporting data using analytics -Using MPA (a Mipac product) as a front end to present the Production Reports and allow data entry for logsheets

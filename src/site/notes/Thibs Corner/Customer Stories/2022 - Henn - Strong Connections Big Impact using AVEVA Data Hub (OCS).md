@@ -22,9 +22,6 @@
 ![](https://i.imgur.com/L0XuT5q.png)
 ![](https://i.imgur.com/jcSHSEM.png)
 ![](https://i.imgur.com/LSL9OVV.png)
-![](https://i.imgur.com/WFdQlZz.png)
-
-
----
+![](https://i.imgur.com/WFdQlZz.png)---
 ## Description
 OCS used within HENN's value chain / community feature HENN uses OSIsoft Cloud Services to optimize the performance and reliability on their assembly machines.

@@ -30,9 +30,6 @@
 ![](https://i.imgur.com/YqsjUMB.png)
 ![](https://i.imgur.com/ganRszE.png)
 ![](https://i.imgur.com/wdtIf3k.png)
-![](https://i.imgur.com/3YnfoFK.png)
-
-
----
+![](https://i.imgur.com/3YnfoFK.png)---
 ## Description
 It has been 2 years since Uniper s Digitization journey began, with PI positioned as the backbone of fleet wide real-time data infrastructure. In this presentation, we will demonstrate the tangible value we have achieved during the program, including how PI has been embedded in different processes and departments across the whole organization. Its out-of-box functionalities in data analytics and visualization, and its capabilities to be easily integrated with other platforms such as Data Lakes in MS Azure has allowed Uniper to automate and standardize reports across sites and at a central level. With the PI System, industry subject matter experts and engineers are fully empowered to perform advanced, contextualized analyses to solve their daily business challenges. Finally we will show a demo of how PI System contributes to plant reliability management, using PI Asset Framework, Event Frame, Notification, PI Vision, and the PI Integrator for Business Analytics.

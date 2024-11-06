@@ -33,9 +33,6 @@
 ![](https://i.imgur.com/3Aaa4fl.png)
 ![](https://i.imgur.com/TIJrlDk.png)
 ![](https://i.imgur.com/NeTkQ2l.png)
-![](https://i.imgur.com/O9uQsFa.png)
-
-
----
+![](https://i.imgur.com/O9uQsFa.png)---
 ## Description
 This presentation will provide an overview of the vision, goals, architecture, and status of the POC at MOL for enablement of real-time remote monitoring of Axens catalyst performances using either Axens Connect’In™ solution on Gasoline Selective Desulfurisation and Continuous Catalytic Reforming units or PI System on a Hydrocracker Unit at the Danube Refinery. Key topics of data ownership, quality, solution’s functionalities, governance, security, and cyber security will be discussed to provide attendees insight to how these challenges are being addressed, purpose of this cooperation between Axens and MOL being to use the most advanced communication tools enabling to leverage unit profitability.

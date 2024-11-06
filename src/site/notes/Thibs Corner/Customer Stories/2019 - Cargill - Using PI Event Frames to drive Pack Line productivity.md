@@ -27,10 +27,7 @@
 ![](https://i.imgur.com/ZMFXxxK.png)
 ![](https://i.imgur.com/dIYbuG2.png)
 ![](https://i.imgur.com/j0rCwBy.png)
-![](https://i.imgur.com/dG82Apz.png)
-
-
----
+![](https://i.imgur.com/dG82Apz.png)---
 ## Description
 Cargill is one of the largest privately held businesses in the world, with a diverse portfolio ranging from Agriculture and Food to Industrial and Financial businesses. Working across so many varied businesses means standardization can be a challenge. Cargill wants to share how localized efforts in the use of PI AF, Event Frames, and Data Link can lead to new insights that drive tangible action to improve pack line productivity. In many Cargill facilities, downtime is tracked for events greater than 1 minute and sites record context around these events. But what about micro stops? During daily production meetings,one facility consistently tracked micro stops as a top contributor to production loss. As a result, the site utilized PI Event Frames to gain more granular insight to those losses and drive the team from a reactive to a proactive culture. This talk will take you through the journey of solution implementation, quantifying the data, the findings and the value realized.
 

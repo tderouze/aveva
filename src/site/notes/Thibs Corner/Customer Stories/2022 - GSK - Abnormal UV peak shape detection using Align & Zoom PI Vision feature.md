@@ -16,10 +16,7 @@
 
 ---
 ## GSK's Results
-![](https://i.imgur.com/9RuwGwx.png)
-
-
----
+![](https://i.imgur.com/9RuwGwx.png)---
 ## Screenshots
 ![](https://i.imgur.com/SucZMhe.png)
 ![](https://i.imgur.com/anJHnEe.png)

@@ -32,9 +32,6 @@
 ![](https://i.imgur.com/ArQut1i.png)
 ![](https://i.imgur.com/CUIB8dT.png)
 ![](https://i.imgur.com/gzLpi58.png)
-
-
-
 ---
 ## Description
 With annual sales over $14 billion in more than 180 countries, the Kellogg Company is the world's leading producer of cereal and a leader in cookies, crackers, and savory snacks productions. In 2005, in an effort to reduce their bottom line as well as their footprint, Kellogg set 10-year targeted reductions for electricity, gas, and water. Since 2005, Kellogg's Battle Creek Plant has met two of the three reduction targets returning $2 million per year to the business and an additional $1 million in utility rebates. The PI System has been the fuel for continuous improvement. Of the 35 projects responsible for the savings, only five projects did not use PI System data to measure results.

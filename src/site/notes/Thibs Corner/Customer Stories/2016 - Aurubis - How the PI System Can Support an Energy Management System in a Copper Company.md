@@ -24,10 +24,7 @@
 ![](https://i.imgur.com/5gDY4v2.png)
 ![](https://i.imgur.com/701za1f.png)
 ![](https://i.imgur.com/QxpEU78.png)
-![](https://i.imgur.com/7NZUXyF.png)
-
-
----
+![](https://i.imgur.com/7NZUXyF.png)---
 ## Description
 Headquartered in Hamburg, Germany, the Aurubis group is a leading global copper producer. Their core business is producing copper cathodes from copper concentrates and processing scrap into continuous cast wire rod, shapes and rolled products all of which is very energy-intensive. Aurubis' business challenges are to:
 

@@ -13,7 +13,6 @@
 [Benefits:: -3-5% fuel; -120 Mtons CO2e/y]
 [CO2e:: -120 Mtons/y]
 
-
 ---
 ## CSL's Results
 ![](https://i.imgur.com/Bey3Kvl.png)

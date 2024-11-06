@@ -19,10 +19,7 @@
 ## Heineken's Results
 ![](https://i.imgur.com/I6JzAU2.png)
 ![](https://i.imgur.com/y3rXU2K.png)
-![](https://i.imgur.com/64H7lbG.png)
-
-
----
+![](https://i.imgur.com/64H7lbG.png)---
 ## Screenshots
 ![](https://i.imgur.com/hIEh7cO.png)
 ![](https://i.imgur.com/Z8la4i2.png)
@@ -37,9 +34,6 @@
 ![](https://i.imgur.com/NSUw6uT.png)
 ![](https://i.imgur.com/o8QsyTq.png)
 ![](https://i.imgur.com/qjK7R0H.png)
-
-
-
 ---
 ## Description
 Heineken introduced a sustainability program in 2010. The targets for the Seville brewery included a 25% reduction in water consumption and 40% reduction in CO2 emission. 

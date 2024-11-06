@@ -29,9 +29,6 @@
 ![](https://i.imgur.com/N0ILS0W.png)
 ![](https://i.imgur.com/uqnajYT.png)
 ![](https://i.imgur.com/fMd4FDH.png)
-![](https://i.imgur.com/CfIkkEW.png)
-
-
----
+![](https://i.imgur.com/CfIkkEW.png)---
 ## Description
 AGL is continuing its real-time data journey empowered by OSI Soft and the Enterprise Agreement. AGL has now built its Operational Technology Platform with OSI PI at its heart. Its Operation Diagnostics Centre is mature and adding massive value. Now AGL is developing its own solutions for thermodynamic performance optimisation and wind yield optimisation, that will be built using only OSI PI technology. Hear our story of how these capabilities have been developed and deployed, and the positive affects our business has experienced.

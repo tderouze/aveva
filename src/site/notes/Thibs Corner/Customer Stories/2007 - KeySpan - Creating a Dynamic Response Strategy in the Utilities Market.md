@@ -26,10 +26,7 @@
 ![](https://i.imgur.com/cSuu06O.png)
 ![](https://i.imgur.com/vGJ8GGm.png)
 ![](https://i.imgur.com/7cbjX2U.png)
-![](https://i.imgur.com/Vcqz27Q.png)
-
-
----
+![](https://i.imgur.com/Vcqz27Q.png)---
 ## Description
 Whether you’re a technician up on a stack monitoring emissions, an operations manager off-duty over the weekend, or an executive on business travel, you need to take your data with you. Mobility is critical to decision making in the utilities market; it’s no longer viable to have business-critical data limited to desktop-only viewing. Employees at all levels of the organization need on-demand, actionable information at their fingertips and exactly when and where they need it. In mid-2006, New York’s largest utility, KeySpan, teamed up with Transpara to enable its workers to access OSIsoft’s PI data from any web browser or any handheld device (PDA, SmartPhone, Pocket PC) or desktop. At KeySpan, the PI database interfaces to all systems across six plants, storing real-time data on temperatures, fluid pressures, equipment vibrations, etc. Because of the tight integration between Transpara’s Visual KPI and PI, technicians and managers can head off operating problems and breakdowns. Considering that the loss of a generator can cost hundreds of thousands of dollars a day in replacement costs for power, the return on investment is immediate, and continues over time.
 

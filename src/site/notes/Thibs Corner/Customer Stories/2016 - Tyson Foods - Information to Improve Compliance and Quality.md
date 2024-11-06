@@ -35,13 +35,7 @@
 > ![](https://i.imgur.com/LHw3TEl.png)
 
 ![](https://i.imgur.com/XTc8FZT.png)
-![](https://i.imgur.com/qYUTsbp.png)
-
-
-
-
-
----
+![](https://i.imgur.com/qYUTsbp.png)---
 ## Description
 > Tyson needed operational visibility to understand its Jimmy Dean sausage plant
 > Producing over 150m lbs of sausage annually, meat is packaged into 1lb rolls—weight must be as close as possible without being under

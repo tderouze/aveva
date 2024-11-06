@@ -29,9 +29,6 @@
 ![](https://i.imgur.com/U1hv7Qr.png)
 ![](https://i.imgur.com/NNzpBlT.png)
 ![](https://i.imgur.com/fyBiwlZ.png)
-![](https://i.imgur.com/9h8IM2R.png)
-
-
----
+![](https://i.imgur.com/9h8IM2R.png)---
 ## Description
 In this presentation, JeroenDW and MartijnS will cover a number of initiatives that help Umicore creating a sustainable and safe environment for our colleagues and neighbors. When we implemented the concept of Condition Based Maintenance - suggested in BDS by Osisoft, we tailored this concept support our corporate go-for-zero mission: Condition Based Environment. We use event frames *examples* and our users have PI vision displays to discover incidents and prevent (eg. preventive dust) any environmental impact. Throughout the presentation, we will cover a range of concepts and examples where the PI system acts a versatile platform to support our go for zero mission: - An integration with LIMS lab analysis for linking lab dust analysis to process conditions. - In-situ sensors - classical OPC (examples) - Smart IOT devices (VersaSense) - WebAPI integration to monitor area's in the surrounding and hard to reach places. - PII4BA - Azure Data Lake - PowerBI reporting - TrendMiner Ana

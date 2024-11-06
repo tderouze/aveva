@@ -33,9 +33,6 @@
 
 > [!Info] PI Vision
 ![](https://i.imgur.com/Tr6qe92.png)
-
-
-
 ---
 ## Description
 Kellogg is a customer using both PI System and the wider AVEVA portfolio, empowering their team to transform operations. Michael Dean, who serves as the Director of Global Power, Control & Information Systems at Kellogg s will share how the company s platform investment has paid off in terms of scale, in terms of consistency, standardization, and collaboration. Learn about how Kellogg s leveraging of accurate and reliable data and analytics has enabled their team to accelerate value and inspire innovation.

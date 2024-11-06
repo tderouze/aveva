@@ -11,7 +11,6 @@
 [Country:: Germany]
 [Business Impacts:: #BusinessImpact/Maintenance/PredictiveMaintenance]
 
-
 ---
 ## Uniper's Results
 ![](https://i.imgur.com/YTEDM0J.png)

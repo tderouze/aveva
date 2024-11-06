@@ -24,10 +24,7 @@
 ![](https://i.imgur.com/3jSB29Y.png)
 ![](https://i.imgur.com/d4Klesn.png)
 ![](https://i.imgur.com/dKqFTlo.png)
-![](https://i.imgur.com/4TuiaoC.png)
-
-
----
+![](https://i.imgur.com/4TuiaoC.png)---
 ## Description
 CEMEX is a global building materials company that provides high quality products and reliable service to customers and communities throughout the Americas, Europe, Africa, the Middle East, and Asia.
 

@@ -11,7 +11,6 @@
 [Products:: [[Product\|Product]]]
 [Business Impacts:: #BusinessImpact/Energy/ISO50001 #BusinessImpact/Energy/EMS ]
 
-
 ---
 ## Baxalta's Results
 ![](https://i.imgur.com/H0JIDf7.png)

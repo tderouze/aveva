@@ -23,9 +23,6 @@
 
 > [!Abstract] Challenges
 > ![](https://i.imgur.com/qzyRTJ9.png)
-
-
-
 ---
 ## Description
 The user will explain the architecture of the new EMS Network ( REGER)  in use by the Brazilian Electric  System Operator (ONS)  and the use of PI Systems to support real-time decisions, post-operation monitoring and analysis of problems in the generation and transmission system.

@@ -38,9 +38,6 @@
 ![](https://i.imgur.com/kWLvjv6.png)
 ![](https://i.imgur.com/m2qpCeo.png)
 ![](https://i.imgur.com/ptBI4Gx.png)
-![](https://i.imgur.com/2OodMOj.png)
-
-
----
+![](https://i.imgur.com/2OodMOj.png)---
 ## Description
 MOLs Downstream division received 2 awards for their clear business strategy, the achievement of business goals, commitment to employee development, use of IIOT and advanced analytics, and an innovative approach to tackling business challenges: - Best downstream company of the year form Petroleum Economist - 2016 - IIOT Plant of the year for the Danube refinery from FieldComm Group - 2015 Craig will summarize the MOL journey with the PI System in support of their strategic business initiatives of New Downstream Program and the Next Downstream Program together generating over $1B in EBITDA improvement over the last 5 years as presented as a keynote at the UC2016 in Berlin. After reviewing how MOL leveraged the PI System to standardize and simplify their portfolio of applications and solutions with PI AF, he will focus on how the PI System being used to underpin their Advanced Process Safely Management (APSM), energy management, yield improvement from processing opportunity crudes, and asset reliability/utilization initiatives, Craig will conclude with a summary of how MOL is using the PI AF as an OT data model with smart asset templates to take full advantage of the IIOT in their distributed advanced analytics for such areas as predictive high temperature hydrogen attack (HTHA) and Azure machine learning in their desulfurizing and delayed coking units.

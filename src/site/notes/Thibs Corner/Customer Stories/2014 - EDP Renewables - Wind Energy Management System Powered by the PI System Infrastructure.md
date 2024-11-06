@@ -23,9 +23,6 @@
 
 > [!Abstract] Challenge
 > How to improve the availability reporting accuracy and, at the same time, help reduce downtimes?
-![](https://i.imgur.com/eQbCNEa.png)
-
-
----
+![](https://i.imgur.com/eQbCNEa.png)---
 ## Description
 Featuring an 8.5 gigawatt installed capacity and a portfolio of more than 5,000 wind turbine generators in 11 countries, EDP Renewables is a leading, global renewable energy company devoted to value creation, innovation and sustainability. OSIsoft’s PI Server is the main repository for all field data (generators, substations and meteo stations) collected in real-time on more than 3.5 million tags. This presentation will show how that data is used to improve the accuracy of availability reporting for wind farms and contributes to reduce wind turbine’s downtimes.

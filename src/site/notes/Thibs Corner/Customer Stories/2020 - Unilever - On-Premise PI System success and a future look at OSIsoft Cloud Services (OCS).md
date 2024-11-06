@@ -37,9 +37,6 @@
 ![](https://i.imgur.com/i8dFxh9.png)
 ![](https://i.imgur.com/J9XS2ma.png)
 
-![](https://i.imgur.com/ixiKFYk.png)
-
-
----
+![](https://i.imgur.com/ixiKFYk.png)---
 ## Description
 In this presentation, Unilever-Kilbourn in Chicago will present the tangible value they have received in deploying a PI System with the Asset Framework to reduce waste, improve packaging OEE, and integrate diverse data sources and data consumers in a standards-based approach. This presentation will show the value of the system for the site and will take a forward look into Unilever’s research on OSIsoft’s Cloud Service (OCS), in collaboration with OSIsoft’s Lighthouse program. A discussion of the ability to leverage the valuable context built for the site into the cloud to serve enterprise needs in an robust and cost-effective approach will conclude the presentation.

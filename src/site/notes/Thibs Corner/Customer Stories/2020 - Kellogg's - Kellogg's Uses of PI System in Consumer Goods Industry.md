@@ -21,10 +21,7 @@
 ---
 ## Kellogg's's Results
 ![](https://i.imgur.com/3EVtmTF.png)
-![](https://i.imgur.com/Aq4LROc.png)
-
-
----
+![](https://i.imgur.com/Aq4LROc.png)---
 ## Screenshots
 > [!info] Energy Savings
 > ![](https://i.imgur.com/2GGoHP9.png)
@@ -44,9 +41,6 @@
 > ![](https://i.imgur.com/oVPC7bB.png)
 > ![](https://i.imgur.com/ISvZyS2.png)
 > ![](https://i.imgur.com/QqFhCZx.png)
-
-
-
 
 ---
 ## Description

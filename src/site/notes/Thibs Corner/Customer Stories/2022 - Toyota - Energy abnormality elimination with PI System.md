@@ -31,9 +31,6 @@
 ![](https://i.imgur.com/hJDmxnc.png)
 ![](https://i.imgur.com/fWErh04.png)
 ![](https://i.imgur.com/MOGgNsC.png)
-![](https://i.imgur.com/7IGUdLt.png)
-
-
----
+![](https://i.imgur.com/7IGUdLt.png)---
 ## Description
 As regional European headquarters, in Toyota Motor Europe (TME) promotes energy cost and CO2 reduction activities in the European Manufacturing Companies (EMCs). To do so, Energy data is centrally collected, managed and visualized using PI System as the European energy monitoring system (EnMS). In particular, TME focuses on biggest energy consumer with the aim of reinforcing operators capabilities. This way energy waste is made visible for experts to take action and grasp their impact. The purpose of this presentation is to highlight how PI System is used in TME, and how it supports daily operations in order to achieve our challenging future goals. Practical examples of the usage of PI System will be given, with focus on equipment energy monitoring. Additional information attached.

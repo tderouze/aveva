@@ -33,9 +33,6 @@
 ![](https://i.imgur.com/ZZmGgzw.png)
 ![](https://i.imgur.com/Hc7bhq7.png)
 ![](https://i.imgur.com/drBNyYZ.png)
-![](https://i.imgur.com/gOg4CH6.png)
-
-
----
+![](https://i.imgur.com/gOg4CH6.png)---
 ## Description
 Michelin is an EA Customer currently deploying PI System Infrastructure as one foundation of the Digital Manufacturing journey, since 2017. Michelin s Digital Manufacturing is a global initiative that federates business, operations, OT and IT experts, from the plants and the central support organization, to build Michelin future Manufacturing and Supply-Chain, through real-life and focused phase 1 based on a standardized business value creation and roll-out methodology. Now preparing phase 2 with advanced analystics.

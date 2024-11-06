@@ -39,10 +39,7 @@
 > 
 > Using PI AF, Hershey created a digital supply chain that offered end-users insights into equipment needs/maintenance, gave the right context to **understand throughput** and enabled them to **understand quality deviations** to make critical adjustments before issues arose
 > 
-> Overall, the team **reduced maintenance** costs by 33%, **throughput losses** by 30% and **quality losses** by 22%
-
-
--------------------------------------------------------
+> Overall, the team **reduced maintenance** costs by 33%, **throughput losses** by 30% and **quality losses** by 22%-------------------------------------------------------
 
 **Challenge:**
 - Keep up with global expansion and strategic acquisition, and gain real-time operational visibility into equipment, critical to insuring the efficient, safe delivery of high-quality, great tasting snacks

@@ -34,9 +34,6 @@
 ![](https://i.imgur.com/E5JbE3N.png)
 ![](https://i.imgur.com/gBxAeE8.png)
 ![](https://i.imgur.com/uvElLDs.png)
-![](https://i.imgur.com/4woBBj7.jpg)
-
-
----
+![](https://i.imgur.com/4woBBj7.jpg)---
 ## Description
 Seeking to guarantee and increase the availability of equipment and machines, Klabin Monte Alegre's maintenance engineering started a project whose challenge was to find a tool for early failure prediction. AVEVA Predictive Analytics emerged as an opportunity to leverage the analysis and identification of defects in assets, using machine learning to correlate several vital variables simultaneously. The critical assets selected for the application had a good level of sensing and historical data stored on the unit's PI System server. As a result of the application of the tools, 2M USD corrective maintenance cost avoided and also 30k ton of paper's production loss avoided
