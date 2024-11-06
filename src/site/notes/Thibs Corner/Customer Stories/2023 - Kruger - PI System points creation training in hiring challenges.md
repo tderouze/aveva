@@ -12,7 +12,6 @@
 [Benefits:: ]
 [CO2e:: ]
 
-
 ---
 ## Kruger's Results
 ![](https://i.imgur.com/8FVsRRe.png)

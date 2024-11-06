@@ -15,8 +15,8 @@
 
 ---
 ## Michelin's Results
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20231206153509.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153509.png)
+![](https://i.imgur.com/9joE14S.png)
+
 
 ---
 ## Screenshots
@@ -26,14 +26,11 @@
 ![](https://i.imgur.com/5F2wCM6.png)
 ![](https://i.imgur.com/6KhqRlw.png)
 ![](https://i.imgur.com/vXfoFDK.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20231206153351.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153351.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20231206153411.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153411.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20231206153440.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153440.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20231206153453.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020231206153453.png)
+![](https://i.imgur.com/uWSzgH5.png)
+![](https://i.imgur.com/E0n57hB.png)
+![](https://i.imgur.com/aPnGb3F.png)
+![](https://i.imgur.com/CeX1EUZ.png)
+
 
 ---
 ## Description

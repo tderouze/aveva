@@ -26,10 +26,7 @@
 ![](https://i.imgur.com/3W8ahC2.png)
 ![](https://i.imgur.com/nFWbqTS.png)
 ![](https://i.imgur.com/S7SuKqz.png)
-![](https://i.imgur.com/MPUdHcL.png)
-
-
----
+![](https://i.imgur.com/MPUdHcL.png)---
 ## Description
 Tate & Lyle is a specialty food and bulk ingredients producer founded in the UK. 
 Tate & Lyle standardized on the PI System in 2000: The PI System consisted of 19 historian servers at 16 sites. Each site has a local PI Administrator, but in the past, little central oversight. 486,000 licensed tags, 57 interfaces, Centralized PI Server in Decatur, IL, Centralized PI Server in London, UK. All servers running pre-PI Server 2010. Primary tools in use were PI ProcessBook and PI DataLink 

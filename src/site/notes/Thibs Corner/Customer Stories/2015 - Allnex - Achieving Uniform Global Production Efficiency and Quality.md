@@ -12,7 +12,6 @@
 [Business Impacts:: #BusinessImpact/EventFrames/GoldenBatch #BusinessImpact/EventFrames/CycleTime #BusinessImpact/Quality/SPC   #BusinessImpact/Standardization/ISA95 #BusinessImpact/Energy/ISO50001]
 [Screenshots:: #Screenshot/Architecture  #Screenshot/PIProcessBook #Screenshot/PIDataLink]
 
-
 ---
 ## Allnex's Results
 ![](https://i.imgur.com/ZzxdDfd.png)
@@ -36,10 +35,7 @@
 ![](https://i.imgur.com/u3hmjMl.png)
 ![](https://i.imgur.com/BfpvnqC.png)
 ![](https://i.imgur.com/0bg9B1d.png)
-![](https://i.imgur.com/a7eJBXG.png)
-
-
----
+![](https://i.imgur.com/a7eJBXG.png)---
 ## Description
 This presentation describes the success story of Allnex, a global, chemical enterprise and long-term customer of OSIsoft. Allnex has implemented OSIsoft's PI System at multiple sites and is using the product effectively for the company's Efficiency and Quality programs. A future roll-out will increase system usage to several global sites in Europe, Asia and the US.
 

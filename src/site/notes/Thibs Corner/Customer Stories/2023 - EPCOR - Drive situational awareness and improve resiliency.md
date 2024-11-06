@@ -12,7 +12,6 @@
 [Benefits:: ]
 [CO2e:: ]
 
-
 ---
 ## EPCOR's Results
 ![](https://i.imgur.com/65EuuYe.png)

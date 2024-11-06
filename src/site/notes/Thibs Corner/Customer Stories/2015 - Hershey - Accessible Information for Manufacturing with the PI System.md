@@ -24,8 +24,5 @@
 ![](https://i.imgur.com/dgi8cug.png)
 ![](https://i.imgur.com/tZCqNL9.png)
 ![](https://i.imgur.com/JJT958e.png)
-![](https://i.imgur.com/aE7Pvxz.png)
-
-
----
+![](https://i.imgur.com/aE7Pvxz.png)---
 ## Description

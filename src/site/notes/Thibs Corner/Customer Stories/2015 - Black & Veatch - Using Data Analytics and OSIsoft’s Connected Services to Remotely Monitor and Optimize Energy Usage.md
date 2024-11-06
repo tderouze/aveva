@@ -11,7 +11,6 @@
 [Products:: [[Product\|Product]]]
 [Business Impacts:: #BusinessImpact/Maintenance/Leaks , #BusinessImpact/Sustainability/EnergyConsumption #BusinessImpact/Energy ]
 
-
 ---
 ## Black & Veatch's Results
 ![](https://i.imgur.com/U7YAoNu.png)

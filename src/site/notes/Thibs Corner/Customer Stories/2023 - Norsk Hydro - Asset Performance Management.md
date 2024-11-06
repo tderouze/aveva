@@ -25,8 +25,5 @@
 ![](https://i.imgur.com/dudJM5o.png)
 ![](https://i.imgur.com/tfEnwi7.png)
 ![](https://i.imgur.com/pWeps7N.png)
-![](https://i.imgur.com/rtvAPnW.png)
-
-
----
+![](https://i.imgur.com/rtvAPnW.png)---
 ## Description

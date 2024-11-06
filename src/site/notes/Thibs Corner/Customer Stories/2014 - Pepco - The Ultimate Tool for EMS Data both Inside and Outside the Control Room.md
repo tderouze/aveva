@@ -10,7 +10,6 @@
 [Products:: [[Product\|Product]]]
 [Business Impacts:: #BusinessImpact/Energy/EMS  ]
 
-
 ---
 ## Pepco's Results
 

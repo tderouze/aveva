@@ -13,7 +13,6 @@
 [Benefits:: ]
 [CO2e:: ]
 
-
 ---
 ## CORESO's Results
 

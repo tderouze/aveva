@@ -16,10 +16,7 @@
 ## NRC's Results
 ![](https://i.imgur.com/9jYDawi.png)
 ![](https://i.imgur.com/7q21iaV.png)
-![](https://i.imgur.com/SF90BDl.png)
-
-
----
+![](https://i.imgur.com/SF90BDl.png)---
 ## Screenshots
 ![](https://i.imgur.com/cdn36qE.png)
 ![](https://i.imgur.com/8yDtJFA.png)
@@ -40,10 +37,7 @@
 > [!Info] 
 > ![](https://i.imgur.com/NiC0FE1.png)
 
-![](https://i.imgur.com/9ugfvtg.png)
-
-
----
+![](https://i.imgur.com/9ugfvtg.png)---
 ## Description
 The U.S. Nuclear Regulatory Commission (NRC) Emergency Response Data System (ERDS) powered by the PI System has been viewed as a huge success by the NRC and industry. The integration of the PI Server, PI ProcessBook, and PI WebParts delivers emergency response managers a single pane dashboard of critical data to make informed decisions on emergency response. The ERDS' role is to provide NRC and the regulated community comprehensive situational awareness tool to capture and maintain an accurate, shared, operating picture. It provides decision makers from multiple stakeholder communities with a shared situational awareness of data from primary and secondary systems (i.e., Plant Operations and System-level Safety, Security, and Emergency Preparedness (SSEP) components) to integration of geospatial location based data and local meteorological data.
 

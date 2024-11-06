@@ -13,10 +13,7 @@
 [Benefits:: ]
 [CO2e:: ]
 [Screenshots:: #Screenshot/Architecture]
-#Product/SAP #Product/PowerBI  #Product/AVEVA/ADH #Product/AVEVA/APA_PRiSM 
-
-
----
+#Product/SAP #Product/PowerBI  #Product/AVEVA/ADH #Product/AVEVA/APA_PRiSM ---
 ## Quebec Iron Ore's Results
 ![](https://i.imgur.com/u4Zaa5X.png)
 ![](https://i.imgur.com/VcDIQWs.jpg)

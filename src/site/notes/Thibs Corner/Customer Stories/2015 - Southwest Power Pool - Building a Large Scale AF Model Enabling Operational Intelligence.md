@@ -11,7 +11,6 @@
 [Products:: [[Product\|Product]]]
 [Business Impacts:: #BusinessImpact/Energy/EMS]
 
-
 ---
 ## Southwest Power Pool's Results
 ![](https://i.imgur.com/riiVrlM.png)
@@ -26,10 +25,7 @@
 ![](https://i.imgur.com/qrtIEAU.png)
 ![](https://i.imgur.com/ZZwzLCt.png)
 ![](https://i.imgur.com/k9lofCo.png)
-![](https://i.imgur.com/4SCKiq4.png)
-
-
----
+![](https://i.imgur.com/4SCKiq4.png)---
 ## Description
 In North America, Southwest Power Pool (SPP) is one of nine Independent System Operators/Regional Transmission Organizations (ISOs/RTOs) and one of eight NERC Regional Entities. SPP is mandated by the Federal Energy Regulatory Commission to ensure reliable supplies of power, adequate transmission infrastructure, and competitive wholesale prices of electricity. ISOs/RTOs are the ""air traffic controllers"" of the electric power grid. ISOs/RTOs do not own the power grid but they independently operate the grid minute-by-minute to ensure that power gets to customers and to eliminate power shortages. The Integrated Marketplace is the latest and most complex incremental step in SPP's evolutionary approach to adding market functionality that coordinates next-day generation across the region to maximize cost-effectiveness, provide participants with greater access to reserve energy, improve regional balancing of electricity supply and demand, and facilitate the integration of renewable resources.
 
