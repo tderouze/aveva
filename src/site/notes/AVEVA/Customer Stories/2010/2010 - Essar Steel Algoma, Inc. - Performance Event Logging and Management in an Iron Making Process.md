@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/aveva/customer-stories/2010/2010-essar-steel-algoma-inc-performance-event-logging-and-management-in-an-iron-making-process/"}
 ---
 
-[![OSIsoft logo](https://cdn.osisoft.com/images/logos/osisoft-transition-4c.svg)![](https://www.aveva.com/content/experience-fragments/aveva/en/site/header-2/master/_jcr_content/root/responsivegrid/globalheader/logo.coreimg.svg/1655394323761/header-logo.svg)](https://www.aveva.com/)
 
 #### PRESENTATION
 
