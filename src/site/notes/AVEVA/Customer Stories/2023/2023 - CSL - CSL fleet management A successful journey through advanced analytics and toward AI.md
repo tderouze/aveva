@@ -2,13 +2,6 @@
 {"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-csl-csl-fleet-management-a-successful-journey-through-advanced-analytics-and-toward-ai/"}
 ---
 
-#### PRESENTATION
-
-## 2023 - AVEVA World San Francisco - Infrastructure (water, facilities, transport, marine)
-
-### CSL fleet management: A successful journey through advanced analytics and toward AI
-
-Learn about CSL's journey toward connected vessels for operational excellence and advanced analytics, leading to fuel savings, a reduction in CO2 emissions, and better operations.
 
 ## CSL's Results
 ![](https://i.imgur.com/Bey3Kvl.png)
@@ -26,6 +19,14 @@ Learn about CSL's journey toward connected vessels for operational excellence an
 ![](https://i.imgur.com/hooszy7.png)
 ![](https://i.imgur.com/G6if7wl.png)
 ![](https://i.imgur.com/VgeWUnw.png)
+
+#### PRESENTATION
+
+## 2023 - AVEVA World San Francisco - Infrastructure (water, facilities, transport, marine)
+
+### CSL fleet management: A successful journey through advanced analytics and toward AI
+
+Learn about CSL's journey toward connected vessels for operational excellence and advanced analytics, leading to fuel savings, a reduction in CO2 emissions, and better operations.
 
 #### Speaker
 
