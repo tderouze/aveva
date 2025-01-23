@@ -4,6 +4,7 @@
 
 When it comes to implementing AVEVA PI System on a large scale, careful planning and execution are crucial. Here's a comprehensive guide to help you navigate the process effectively:
 
+---
 ## Installation and Configuration
 
 ![](https://i.imgur.com/nH2ahvN.png)
@@ -22,6 +23,7 @@ Integrate other AVEVA products or third-party solutions for advanced functionali
 ### Monitoring and Testing
 Monitor system performance, test buffering, historical recovery, email notifications, and other features to ensure optimal operation[4]. Regular monitoring and testing help in identifying and resolving issues proactively.
 
+---
 ## Knowledge Transfer
 
 ![](https://i.imgur.com/USodwrY.png)
@@ -34,6 +36,7 @@ Implement management processes to handle PI identities and mappings, access perm
 ### Training
 Train users and administrators on the use and management of various PI components and features[2]. Proper training is essential for maximizing the value of your PI System investment.
 
+---
 ## Important Organizational and Managerial Factors
 
 ![](https://i.imgur.com/uGfYTnl.png)
@@ -46,6 +49,7 @@ Implement a robust change management process to handle the impact of PI deployme
 ### Feedback and Continuous Improvement
 Gather feedback from users and stakeholders, and use this feedback to continuously improve the system[5]. This iterative approach helps in refining the system to better meet the needs of your organization.
 
+---
 By following these guidelines, you can ensure a successful large-scale deployment of AVEVA PI System, enabling your organization to harness the full power of real-time operational data for improved decision-making and efficiency.
 
 Citations:
