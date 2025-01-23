@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-technip-energies-capturing-co-2-from-air-an-unusual-dynamic-simulation/"}
+---
+
+## 2024 - AVEVA World - Paris - General interest
+
+### Technip Energies: Capturing CO2 from air - an unusual dynamic simulation
+
+Technip Energies has a long history of providing proprietary fluidized beds for various chemistries, among them calciners for the conversion of calcium carbonate (CaCO3) to lime (CaO) and CO2.  With today’s focus on energy transition, application of Technip Energies’ calciner can provide opportunities for CO2 capture and sequestration for a variety of CO2 sources, including post combustion capture.  For this presentation, use of the calciner for the direct air capture (DAC) of CO2 will be highlighted.  The DAC process involves chemical looping, and in the Calciner fluidized bed, CaCO3 (“intermediate storage” for CO2 in this process) is thermally decomposed into CaO and CO2. The pure CO2 product can then be directed to storage or usage. To support the engineers and operators to face the challenges during the start-up of the Calciner, a process dynamic model was built using AVEVA Dynamic Simulation. The model was originally developed based on design data and later adjusted to match actual operation data. The goal of this presentation is to share with AVEVA World audience the methodology (challenges, assumptions) and the results obtained.
