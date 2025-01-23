@@ -60,9 +60,8 @@ By following these guidelines, you can ensure a successful large-scale deploymen
 
 { .block-language-dataview}
 
-
-
-Citations:
+---
+**Citations:**
 [1] http://cdn.osisoft.com/learningcontent/pdfs/VisualizingPISystemDataWorkbook_French.pdf
 [2] https://www.youtube.com/watch?v=Ge_g8U5XwFA
 [3] https://www.factorysoftware.com/fr/logiciel/aveva-pi-data-infrastructure
