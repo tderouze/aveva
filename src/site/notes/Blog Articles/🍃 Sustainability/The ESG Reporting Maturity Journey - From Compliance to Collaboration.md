@@ -18,6 +18,8 @@ As the demand for Environmental, Social, and Governance (ESG) transparency grows
 - Retrospective insights that don’t support proactive decision-making.
 
 **How the PI System Helps:** The AVEVA PI System simplifies and automates data collection, centralizing energy and emissions information from multiple sources. This creates a single source of truth for ESG metrics, ensuring reports are accurate, consistent, and audit-ready. By eliminating inefficiencies in data management, organizations can shift their focus toward deeper insights.
+![](https://i.imgur.com/ncJ9RoN.png)
+
 
 ---
 
@@ -33,6 +35,8 @@ As the demand for Environmental, Social, and Governance (ESG) transparency grows
 **The Impact:** With a real-time view of energy and emissions, organizations can align their daily operations with their ESG goals. This proactive approach drives faster decision-making, reduces costs, and minimizes environmental impact.
 
 **How the PI System Helps:** The AVEVA PI System enables organizations to integrate operational and industrial data streams, creating a foundation for real-time energy and emissions monitoring. This capability empowers teams to make data-driven decisions that align with sustainability objectives.
+![](https://i.imgur.com/N8oVXdg.png)
+
 
 ---
 
@@ -61,6 +65,9 @@ As the demand for Environmental, Social, and Governance (ESG) transparency grows
 **Example:** Imagine a manufacturer partnering with suppliers to select materials with lower carbon footprints while offering customers products with traceable sustainability data. This ecosystem-wide collaboration creates shared value and enhances brand reputation.
 
 **How the PI System Helps:** The AVEVA PI System provides the tools to integrate and analyze data across the value chain, enabling transparency and collaboration. By connecting stakeholders through shared data insights, organizations can drive collective action toward ESG goals.
+
+![](https://i.imgur.com/MXh81Eq.png)
+
 
 ---
 ### **The Journey Ahead**
