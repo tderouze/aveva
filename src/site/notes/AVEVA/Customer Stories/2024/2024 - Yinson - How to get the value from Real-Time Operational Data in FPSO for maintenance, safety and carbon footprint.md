@@ -2,6 +2,25 @@
 {"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-yinson-how-to-get-the-value-from-real-time-operational-data-in-fpso-for-maintenance-safety-and-carbon-footprint/"}
 ---
 
+## Yinson Production AS's Results
+![](https://i.imgur.com/l03Guev.png)
+
+## Screenshots
+![](https://i.imgur.com/NSuKBYh.png)
+![](https://i.imgur.com/dA62xI1.png)
+![](https://i.imgur.com/tw9PSAB.png)
+![](https://i.imgur.com/kqdNQ8E.png)
+![](https://i.imgur.com/smgvKkU.png)
+
+![](https://i.imgur.com/yCUtO88.png)
+![](https://i.imgur.com/w1b9C4T.png)
+![](https://i.imgur.com/6lGG1mU.png)
+![](https://i.imgur.com/EgaVgAO.jpeg)
+![](https://i.imgur.com/5u87ODM.png)
+![](https://i.imgur.com/XdIFQDR.png)
+![](https://i.imgur.com/BkTwjUg.png)
+![](https://i.imgur.com/CT013E9.png)
+
 ## 2024 - AVEVA World - Paris - Infrastructure (Water, Facilities, Transport, Marine, DC)
 
 ### Yinson: How to get the value from Real-Time Operational Data in FPSO for maintenance, safety and carbon footprint

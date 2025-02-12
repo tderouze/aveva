@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-yinson-production-as-yinson-integrating-real-time-operational-data-with-engineering-data-to-increase-efficiency-and-sustainability/"}
 ---
 
+## Yinson Production AS's Results
+
+## Screenshots
+
 #### PRESENTATION
 
 ## 2023 - AVEVA World San Francisco - Engineering user

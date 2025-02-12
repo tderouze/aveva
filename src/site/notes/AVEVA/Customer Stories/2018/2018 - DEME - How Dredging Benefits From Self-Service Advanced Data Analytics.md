@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-deme-how-dredging-benefits-from-self-service-advanced-data-analytics/"}
+---
+
+## DEME's Results
+
+## Screenshots
+
+#### PRESENTATION
+
+## 2018 - PI World - Barcelona - Transportation
+
+### How Dredging Benefits From Self-Service Advanced Data Analytics
+
+The Belgian dredging, environmental and marine engineering group DEME is an international market leader and global solution provider for complex marine engineering works, the development and construction of renewable energy projects, services for the oil, gas and energy sector, and environmental remediation, building on more than 140 years of experience and know-how. With all operational data being captured in the central OSIsoft PI System combined with TrendMiner’s self-service advanced analytics, DEME is able to support her vision of “creating land for a sustainable future”. In this presentation, Manu de Block will discuss the industrial analytics journey of DEME, which started with selecting the OSIsoft PI system for its robustness and being an industry proven solution. With the advanced analytics capabilities of TrendMiner, the users were able to assess many dredging related hypothesis. Insights gained with use of the historical data greatly increased the understanding of local dredging situations and adapt the project approach. Mr. De Block will also explain their future analytics expansion plans with use of OSIsoft PI Asset Framework for cross asset performance analysis.
+
+#### Speaker
+
+Manu De Block
+
+A mechanical engineer with a growth mindset and a general interest in technology and innovation. Exploring the fascinating world of data from sensors to analytics.
+
+#### Company
+
+DEME NV / Dredging International NV
+
+#### Speaker
+
+Kristof De Mey
+
+Background in ICT and database systems.
