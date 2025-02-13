@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-owl-cyber-defense-balancing-access-and-security-best-practices-for-pi-data-replication-in-ot-environments/"}
 ---
 
-## AW24-PST-D2-SESS-341's Results
+## Owl Cyber Defense's Results
 
 ## Screenshots
 
