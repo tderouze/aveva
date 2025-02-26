@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-arcelor-mittal-implementation-of-energy-management-information-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-arcelor-mittal-implementation-of-energy-management-information-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Arcelor Mittal]

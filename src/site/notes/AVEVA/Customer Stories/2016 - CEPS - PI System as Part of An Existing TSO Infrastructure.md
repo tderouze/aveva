@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: CEPS]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/soft-skills/convince-vs-persuade-what-s-the-difference/"}
+{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:6932968405025103872/","dg-publish":true,"permalink":"/blog-articles/soft-skills/convince-vs-persuade-what-s-the-difference/","dgPassFrontmatter":true}
 ---
 
 While convince deals with your mind and your rationality 🧠, persuade focuses on your emotions and the resulting action 🚜. In my humble opinion, and maybe because the power of persuasion is more significant than the conviction's, persuading someone is much more complex.  

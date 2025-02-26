@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-southwest-power-pool-building-a-large-scale-af-model-enabling-operational-intelligence/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-southwest-power-pool-building-a-large-scale-af-model-enabling-operational-intelligence/","dgPassFrontmatter":true}
 ---
 
 [Company:: Southwest Power Pool]

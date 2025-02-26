@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-wheelabrator-technologies-improving-operational-performance-with-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-wheelabrator-technologies-improving-operational-performance-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Wheelabrator Technologies]

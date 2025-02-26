@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-norsk-hydro-asset-performance-management/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-norsk-hydro-asset-performance-management/","dgPassFrontmatter":true}
 ---
 
 [Company:: Norsk Hydro]

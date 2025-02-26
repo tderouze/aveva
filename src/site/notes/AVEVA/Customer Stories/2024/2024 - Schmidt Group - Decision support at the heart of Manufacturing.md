@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-schmidt-group-decision-support-at-the-heart-of-manufacturing/"}
+{"Title":"2024 - Schmidt Group:  Decision support at the heart of Manufacturing","Year":2024,"Industry":"Discrete Manufacturing","URL":"https://www.aveva.com/en/perspectives/presentations/2024/schmidt-group---decision-support-at-the-heart-of-manufacturing/","PDF":"https://cdn.mediavalet.com/eunl/content/BkDb9vc_pkCsHSTZ5Q0bTQ/5V_JVACI5EuDBGXnCsDCQg/Original/Schmidt%20Group%3A%20%20Decision%20support%20at%20the%20heart%20of%20Manufacturing.pdf","Company":"Schmidt Groupe","Keywords":["Machine Learning","Energy Performance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-schmidt-group-decision-support-at-the-heart-of-manufacturing/","dgPassFrontmatter":true}
 ---
 
 ## 2024 - AVEVA World - Paris - Manufacturing (F&B, CPG, Life Sciences, Discrete)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-toyota-energy-abnormality-elimination-with-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-toyota-energy-abnormality-elimination-with-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Toyota]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-bayer-best-practices-on-standardizing-pi-system-data-and-empowering-plant-workers-to-boost-oee/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-bayer-best-practices-on-standardizing-pi-system-data-and-empowering-plant-workers-to-boost-oee/","dgPassFrontmatter":true}
 ---
 
 [Company:: Bayer]

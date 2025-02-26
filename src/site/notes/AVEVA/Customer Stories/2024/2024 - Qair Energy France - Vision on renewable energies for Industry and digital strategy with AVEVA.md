@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-qair-energy-france-vision-on-renewable-energies-for-industry-and-digital-strategy-with-aveva/"}
+{"Title":"2024 - Qair Energy France: Vision on renewable energies for Industry and digital strategy with AVEVA","Year":2024,"Industry":"Power and Utilities","URL":"https://www.aveva.com/en/perspectives/presentations/2024/qair-energy-france--vision-on-renewable-energies-for-industry-and-digital-strategy-with-aveva/","PDF":"https://cdn.mediavalet.com/eunl/content/5grQ1lgCgUOct1EYbPq6_g/0S6lWW_ip0yipzMLBhRLwQ/Original/Qair%20Energy%20France%3A%20Vision%20on%20renewable%20energies%20for%20Industry%20and%20digital%20strategy%20with%20AVEVA.pdf","Company":"Qair International","dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-qair-energy-france-vision-on-renewable-energies-for-industry-and-digital-strategy-with-aveva/","dgPassFrontmatter":true}
 ---
 
 ## 2024 - AVEVA World - Paris - Power & Utilities

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-verallia-compressed-air-management-with-the-pi-system/"}
+{"Title":"2013 - Compressed-Air Management with the PI System","Year":2013,"Industry":"General","URL":"https://resources.osisoft.com/presentations/compressed-air-management-with-the-pi-system/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/EMEA2013/PDF/EMEA13_Verallia_BaptistaTurck_DeploymentOfThePDHInfrastructureAtVerallia.pdf","Company":"Verallia","Keywords":["Furnace","France"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-verallia-compressed-air-management-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

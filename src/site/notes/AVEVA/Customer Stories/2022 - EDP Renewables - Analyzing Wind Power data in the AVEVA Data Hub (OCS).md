@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-edp-renewables-analyzing-wind-power-data-in-the-aveva-data-hub-ocs/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-edp-renewables-analyzing-wind-power-data-in-the-aveva-data-hub-ocs/","dgPassFrontmatter":true}
 ---
 
 [Company:: EDP Renewables]

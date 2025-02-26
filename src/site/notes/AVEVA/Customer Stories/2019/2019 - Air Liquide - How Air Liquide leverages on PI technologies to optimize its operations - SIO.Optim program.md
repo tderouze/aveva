@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/"}
+{"Title":"2019 - How Air Liquide leverages on PI technologies to optimize its operations - SIO.Optim program","Year":2019,"Industry":"[\"General\",\"Oil & Gas\"]","URL":"https://resources.osisoft.com/presentations/how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations---sio-optim-program/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2OG07-AirLiquide-Zhang-How-Air-Liquide-leverages-on-PI-technologies-to-optimize-its-operations.pdf","Company":"Air Liquide","Keywords":["Hydrogen","Energy","Predictive Maintenance","Sustainability"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/","dgPassFrontmatter":true}
 ---
 
 ## Air Liquide's Results

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/","dgPassFrontmatter":true}
 ---
 
 [Company:: Michelin]

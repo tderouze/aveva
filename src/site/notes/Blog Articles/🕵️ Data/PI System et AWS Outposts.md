@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/pi-system-et-aws-outposts/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_pi-system-et-aws-outposts-quand-arrivent-activity-6734155820826791936-TpND","dg-publish":true,"permalink":"/blog-articles/data/pi-system-et-aws-outposts/","dgPassFrontmatter":true}
 ---
 
 Quand arrivent les sujets chauds de Data Science autour des séries de données temporelles, les préoccupations de nos interlocuteurs sont clairement différentes.  

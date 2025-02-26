@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-gr-tgaz-satisfying-demand-fluctuations-with-minimum-operational-expenditures/"}
+{"Title":"Satisfying Demand Fluctuations with Minimum Operational Expenditures","year":2015,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/satisfying-demand-fluctuations-with-minimum-operational-expenditures/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Paris/PDF/IF2015_Paris_GRTgaz_LeraySariZiade_SatisfyingDemandFluctuationswithMinimumOperationalExpenditures.pdf","Company":"GRTgaz","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-gr-tgaz-satisfying-demand-fluctuations-with-minimum-operational-expenditures/","dgPassFrontmatter":true}
 ---
 
 

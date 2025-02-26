@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-aps-event-frames-for-more-effective-decision-making/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-aps-event-frames-for-more-effective-decision-making/","dgPassFrontmatter":true}
 ---
 
 [Company:: APS]

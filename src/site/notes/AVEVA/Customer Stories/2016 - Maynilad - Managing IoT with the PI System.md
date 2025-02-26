@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-maynilad-managing-io-t-with-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-maynilad-managing-io-t-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Maynilad]

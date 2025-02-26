@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-international-paper-international-paper-using-aveva-pi-system-as-a-process-degradation-early-warning-system-planning-and-execution/"}
+{"Title":"2023 - International Paper: Using AVEVA  PI System  as a process degradation early warning system-Planning and execution","Year":2023,"Industry":"Pulp & Paper","URL":"https://resources.osisoft.com/presentations/international-paper--using-aveva%E2%84%A2-pi-system%E2%84%A2-as-a-process-degradation-early-warning-system-planning-and-execution/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1PRI05-InternationalPaper-Process-Degradation-Early-Warning.pdf","Company":"International Paper","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-international-paper-international-paper-using-aveva-pi-system-as-a-process-degradation-early-warning-system-planning-and-execution/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

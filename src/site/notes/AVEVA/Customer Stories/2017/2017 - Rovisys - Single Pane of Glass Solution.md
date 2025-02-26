@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-rovisys-single-pane-of-glass-solution/"}
+{"Title":"2017 - Single Pane of Glass Solution","Year":2017,"Industry":"General","URL":"https://resources.osisoft.com/presentations/single-pane-of-glass-solution/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA010303_Rovisys_SinglePaneofGlassSolution.pdf","Company":"Rovisys","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-rovisys-single-pane-of-glass-solution/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-henn-strong-connections-big-impact-using-aveva-data-hub-ocs/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-henn-strong-connections-big-impact-using-aveva-data-hub-ocs/","dgPassFrontmatter":true}
 ---
 
 [Company:: Henn]

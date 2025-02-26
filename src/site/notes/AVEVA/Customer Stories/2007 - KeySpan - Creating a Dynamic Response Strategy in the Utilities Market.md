@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/","dgPassFrontmatter":true}
 ---
 
 [Company:: KeySpan]

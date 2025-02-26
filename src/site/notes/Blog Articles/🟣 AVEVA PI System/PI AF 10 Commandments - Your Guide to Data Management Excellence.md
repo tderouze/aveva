@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/pi-af-10-commandments-your-guide-to-data-management-excellence/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/pi-af-10-commandments-your-guide-to-data-management-excellence/","dgPassFrontmatter":true}
 ---
 
 In the ever-evolving world of industrial data management, the AVEVA PI System stands as a beacon of innovation. At its core lies the powerful PI Asset Framework (AF), a tool that's revolutionizing how we organize and analyze industrial data. But with great power comes great responsibility - and a bit of a learning curve. That's why we're here to guide you through the Ten Commandments of PI Asset Framework Best Practices.

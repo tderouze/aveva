@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-klabin-klabin-real-time-information-tools-in-startup-of-puma-ii/"}
+{"Title":"2022 - Klabin: Real Time Information tools in Startup of PUMA II","Year":2022,"Industry":"Pulp & Paper","URL":"https://resources.osisoft.com/presentations/klabin--real-time-information-tools-in-startup-of-puma-ii/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02PI20-Klabin-Pereira-Real-time-information.pdf","Company":"Klabin","Benefits":"-80% analysis time, +9% process stability","Keywords":"SPC","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-klabin-klabin-real-time-information-tools-in-startup-of-puma-ii/","dgPassFrontmatter":true}
 ---
 
 

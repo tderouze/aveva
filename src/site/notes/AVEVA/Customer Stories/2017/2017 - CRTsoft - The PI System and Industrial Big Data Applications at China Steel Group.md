@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-cr-tsoft-the-pi-system-and-industrial-big-data-applications-at-china-steel-group/"}
+{"Title":"2017 - The PI System and Industrial Big Data Applications at China Steel Group","Year":2017,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/the-pi-system-and-industrial-big-data-applications-at-china-steel-group/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02MM05_ChinaSteel_JKuo_NJiang_IndustrialBigDataApplications.pdf","Company":"CRTsoft","Keywords":["Furnace"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-cr-tsoft-the-pi-system-and-industrial-big-data-applications-at-china-steel-group/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

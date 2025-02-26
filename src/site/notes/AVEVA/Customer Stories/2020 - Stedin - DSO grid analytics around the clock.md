@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-stedin-dso-grid-analytics-around-the-clock/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-stedin-dso-grid-analytics-around-the-clock/","dgPassFrontmatter":true}
 ---
 
 [Company:: Stedin]

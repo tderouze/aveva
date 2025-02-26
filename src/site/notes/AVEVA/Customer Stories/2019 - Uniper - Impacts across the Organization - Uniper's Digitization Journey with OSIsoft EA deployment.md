@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/","dgPassFrontmatter":true}
 ---
 
 [Company:: Uniper]

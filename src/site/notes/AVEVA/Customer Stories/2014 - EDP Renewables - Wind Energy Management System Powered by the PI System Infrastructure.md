@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-edp-renewables-wind-energy-management-system-powered-by-the-pi-system-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-edp-renewables-wind-energy-management-system-powered-by-the-pi-system-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: EDP Renewables]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/","dgPassFrontmatter":true}
 ---
 
 [Company:: Corning]

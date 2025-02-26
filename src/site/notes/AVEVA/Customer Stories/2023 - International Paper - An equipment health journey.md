@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-international-paper-an-equipment-health-journey/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-international-paper-an-equipment-health-journey/","dgPassFrontmatter":true}
 ---
 
 [Company:: International Paper]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/","dgPassFrontmatter":true}
 ---
 
 [Company:: Lilly]

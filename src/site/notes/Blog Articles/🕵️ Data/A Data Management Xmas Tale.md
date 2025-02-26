@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/a-data-management-xmas-tale/"}
+{"dg-publish":true,"permalink":"/blog-articles/data/a-data-management-xmas-tale/","dgPassFrontmatter":true}
 ---
 
 I love stories, especially those echoing from the past! May it my passion for the PI System that reflects on me? Who could tell...

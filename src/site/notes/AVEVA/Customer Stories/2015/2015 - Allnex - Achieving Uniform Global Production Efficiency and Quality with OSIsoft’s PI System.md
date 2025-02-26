@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-allnex-achieving-uniform-global-production-efficiency-and-quality-with-os-isoft-s-pi-system/"}
+{"Title":"2015 - Achieving Uniform Global Production Efficiency and Quality with OSIsoft’s PI System","Year":2015,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/achieving-uniform-global-production-efficiency-and-quality-with-osisoft-s-pi-system/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH08_Allnex_DeWildeFlorianSpribille_AchievingUniformGlobalProductionEfficiencyandQualitywithOSIsoftsPISystem.pdf","Company":"Allnex","Keywords":["Golden Batch","SPC","ISO50001"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-allnex-achieving-uniform-global-production-efficiency-and-quality-with-os-isoft-s-pi-system/","dgPassFrontmatter":true}
 ---
 
 

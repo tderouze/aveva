@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-kaiser-permanente-der-net-soft-and-kaiser-permanente-improving-kaiser-permanente-s-sustainability-footprint-with-enhanced-energy-efficiency-visibility-and-optimization/"}
+{"Title":"2023 - DERNetSoft & Kaiser Permanente: Improving Kaiser Permanente's sustainability footprint with enhanced energy efficiency, visibility, and optimization","Year":2023,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/dernetsoft-and-kaiser-permanente--improving-kaiser-permanente-s-sustainability-footprint-with-enhanced-energy-efficiency--visibility--and-optimization/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-3ECO02-KaiserPermanente-Baruch-Improving-Kaiser-Permanente-s-sustainability.pdf","Company":"Kaiser Permanente","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-kaiser-permanente-der-net-soft-and-kaiser-permanente-improving-kaiser-permanente-s-sustainability-footprint-with-enhanced-energy-efficiency-visibility-and-optimization/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/HZCHY4D.png)

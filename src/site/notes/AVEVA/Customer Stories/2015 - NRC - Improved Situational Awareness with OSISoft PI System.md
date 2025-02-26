@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: NRC]

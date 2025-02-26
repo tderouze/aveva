@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/golden-batches/"}
+{"dg-publish":true,"permalink":"/aveva/business-topics/golden-batches/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/EventFrames/GoldenBatch 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-b-braun-digital-plant-of-b-braun-medical-inc-for-discrete-and-continuous-manufacturing/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-b-braun-digital-plant-of-b-braun-medical-inc-for-discrete-and-continuous-manufacturing/","dgPassFrontmatter":true}
 ---
 
 [Company:: B Braun]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-international-paper-process-degradation-early-warning/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-international-paper-process-degradation-early-warning/","dgPassFrontmatter":true}
 ---
 
 [Company:: International Paper]

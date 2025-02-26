@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/port-operations-with-aveva-pi-system/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/port-operations-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 In today's fast-paced maritime industry, ports are constantly seeking ways to enhance efficiency, reduce costs, and meet sustainability goals. AVEVA PI System has emerged as a game-changing solution, transforming port operations and strategy. Let's explore how this powerful tool is reshaping the future of ports worldwide.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/sustainability/l-industrie-du-papier/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_paper-pi-system-and-process-data-creating-activity-6820395489729634304-8Ed5","dg-publish":true,"permalink":"/blog-articles/sustainability/l-industrie-du-papier/","dgPassFrontmatter":true}
 ---
 
 

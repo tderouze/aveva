@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-energy-development-corporation-improving-resiliency-sustainability-and-safety-with-aveva/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-energy-development-corporation-improving-resiliency-sustainability-and-safety-with-aveva/","dgPassFrontmatter":true}
 ---
 
 [Company:: Energy Development Corporation]

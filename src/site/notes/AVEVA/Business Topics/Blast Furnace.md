@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/blast-furnace/"}
+{"dg-publish":true,"permalink":"/aveva/business-topics/blast-furnace/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-toyota-using-the-pi-system-to-manage-energy-for-a-more-sustainable-future/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-toyota-using-the-pi-system-to-manage-energy-for-a-more-sustainable-future/","dgPassFrontmatter":true}
 ---
 
 [Company:: Toyota]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/the-true-potential-of-your-data-management-strategy/"}
+{"dg-publish":true,"permalink":"/blog-articles/data/the-true-potential-of-your-data-management-strategy/","dgPassFrontmatter":true}
 ---
 
 Speaking of Historians, there's no better position for me to say that the best advice comes from ancient stories. That's why, to talk to you about data management strategy, I chose to tell you a relatively well-known story from World War II: the story of Abraham Wald. Let's dive into a compelling tale and discover the parallels that could reshape your data strategies.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/","dgPassFrontmatter":true}
 ---
 
 [Company:: Saudi Aramco]

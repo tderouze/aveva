@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/","dgPassFrontmatter":true}
 ---
 
 [Company:: Alliander]

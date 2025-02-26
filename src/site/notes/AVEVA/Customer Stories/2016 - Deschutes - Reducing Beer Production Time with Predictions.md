@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-deschutes-reducing-beer-production-time-with-predictions/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-deschutes-reducing-beer-production-time-with-predictions/","dgPassFrontmatter":true}
 ---
 
 [Company:: Deschutes]

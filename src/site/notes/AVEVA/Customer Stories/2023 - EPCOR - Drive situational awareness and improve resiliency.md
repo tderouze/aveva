@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-epcor-drive-situational-awareness-and-improve-resiliency/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-epcor-drive-situational-awareness-and-improve-resiliency/","dgPassFrontmatter":true}
 ---
 
 [Company:: EPCOR]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-kellogg-s-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-kellogg-s-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","dgPassFrontmatter":true}
 ---
 
 [Company:: Kellogg's]

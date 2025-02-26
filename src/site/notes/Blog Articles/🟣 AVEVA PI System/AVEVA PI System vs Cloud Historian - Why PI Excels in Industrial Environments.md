@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/aveva-pi-system-vs-cloud-historian-why-pi-excels-in-industrial-environments/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/aveva-pi-system-vs-cloud-historian-why-pi-excels-in-industrial-environments/","dgPassFrontmatter":true}
 ---
 
 In today's rapidly evolving industrial landscape, the choice between on-premises and cloud-based historian solutions can significantly impact an organization's operational efficiency and data management capabilities. As we look ahead to 2025, the AVEVA PI System continues to stand out as a robust on-premises solution, particularly when addressing edge challenges and providing critical features for industrial environments.

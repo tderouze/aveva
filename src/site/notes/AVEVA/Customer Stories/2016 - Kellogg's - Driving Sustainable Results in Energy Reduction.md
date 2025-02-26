@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-kellogg-s-driving-sustainable-results-in-energy-reduction/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-kellogg-s-driving-sustainable-results-in-energy-reduction/","dgPassFrontmatter":true}
 ---
 
 [Company:: Kellogg's]

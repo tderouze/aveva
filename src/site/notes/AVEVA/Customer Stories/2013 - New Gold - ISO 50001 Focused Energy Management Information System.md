@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-new-gold-iso-50001-focused-energy-management-information-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-new-gold-iso-50001-focused-energy-management-information-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: New Gold]

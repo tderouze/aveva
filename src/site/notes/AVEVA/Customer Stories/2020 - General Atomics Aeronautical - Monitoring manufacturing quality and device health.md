@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/","dgPassFrontmatter":true}
 ---
 
 [Company:: General Atomics Aeronautical]

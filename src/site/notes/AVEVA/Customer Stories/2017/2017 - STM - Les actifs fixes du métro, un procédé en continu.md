@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-stm-les-actifs-fixes-du-metro-un-procede-en-continu/"}
+{"Title":"Les actifs fixes du métro, un procédé en continu","year":2017,"Industry":"General","URL":"https://resources.osisoft.com/presentations/les-actifs-fixes-du-m%C3%A9tro--un-proc%C3%A9d%C3%A9-en-continu/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-rs-montreal/2017-rs-Montreal-060-STM-Dubois-LesActifsFixesDuMetro-en.pdf","Company":"STM","Keywords":["Data Diode","Maintenance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-stm-les-actifs-fixes-du-metro-un-procede-en-continu/","dgPassFrontmatter":true}
 ---
 
 ## STM's Results

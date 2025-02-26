@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/","dgPassFrontmatter":true}
 ---
 
 [Company:: Stedin]

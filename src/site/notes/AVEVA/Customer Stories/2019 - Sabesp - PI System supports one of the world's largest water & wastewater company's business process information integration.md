@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-sabesp-pi-system-supports-one-of-the-world-s-largest-water-and-wastewater-company-s-business-process-information-integration/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-sabesp-pi-system-supports-one-of-the-world-s-largest-water-and-wastewater-company-s-business-process-information-integration/","dgPassFrontmatter":true}
 ---
 
 [Company:: Sabesp]

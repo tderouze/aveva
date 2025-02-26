@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-lonza-productivity-improvement-with-operational-technology/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-lonza-productivity-improvement-with-operational-technology/","dgPassFrontmatter":true}
 ---
 
 [Company:: Lonza]

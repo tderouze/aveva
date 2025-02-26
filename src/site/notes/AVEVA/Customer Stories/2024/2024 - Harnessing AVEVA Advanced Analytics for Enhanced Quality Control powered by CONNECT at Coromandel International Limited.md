@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-harnessing-aveva-advanced-analytics-for-enhanced-quality-control-powered-by-connect-at-coromandel-international-limited/"}
+{"Title":"2024 - Harnessing AVEVA Advanced Analytics for Enhanced Quality Control powered by CONNECT at Coromandel International Limited","Year":2024,"Industry":"Chemicals","URL":"https://www.aveva.com/en/perspectives/presentations/2024/harnessing-aveva-advanced-analytics-for-enhanced-quality-control-powered-by-connect-at-coromandel-international-limited/","PDF":"https://cdn.mediavalet.com/eunl/content/e1IOjenxg0WzPzbMw1rBAA/1og8BipxO0W63kkPK4JYnw/Original/Harnessing%20AVEVA%20Advanced%20Analytics%20for%20Enhanced%20Quality%20Control%20powered%20by%20CONNECT%C2%A0at%20Coromandel%20International%20Limited.pdf","Company":"Cerebulb","keywords":["Regression","AAA"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-harnessing-aveva-advanced-analytics-for-enhanced-quality-control-powered-by-connect-at-coromandel-international-limited/","dgPassFrontmatter":true}
 ---
 
 

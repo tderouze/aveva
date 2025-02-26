@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-yinson-production-yinson-driving-towards-the-vision-of-sustainable-autonomous-fpso-operations-project-polaris-1/"}
+{"Title":"Yinson: Driving towards the Vision of Sustainable Autonomous FPSO Operations   Project Polaris","year":2023,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/yinson--driving-towards-the-vision-of-sustainable-autonomous-fpso-operations-%E2%80%93-project-polaris/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1OGE02-ViggoJohansen-Jan-Yinson-Driving-towards-the-Vision-of-Sustainable-Autonomous-FPSO-Operations.pdf","Company":"Yinson Production","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-yinson-production-yinson-driving-towards-the-vision-of-sustainable-autonomous-fpso-operations-project-polaris-1/","dgPassFrontmatter":true}
 ---
 
 ## Yinson Production's Results

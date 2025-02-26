@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/","dgPassFrontmatter":true}
 ---
 
 [Company:: Umicore]

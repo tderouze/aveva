@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","dgPassFrontmatter":true}
 ---
 
 [Company:: Wood]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-axens-connect-in-unlocking-new-capabilities-with-axens-digital-services-in-view-of-boosting-your-performances/"}
+{"Title":"2024 - Connect’In®:  Unlocking new capabilities with Axens Digital Services in view of boosting your performances","Year":2024,"Industry":"Oil Gas and Energy","URL":"https://www.aveva.com/en/perspectives/presentations/2024/connect-in----unlocking-new-capabilities-with-axens-digital-services-in-view-of-boosting-your-performances/","PDF":"https://cdn.mediavalet.com/eunl/content/yVyvyrgJF06D7I-glUY-ow/meNiZXyEK0SwLrhv7oMSew/Original/Connect%E2%80%99In%C2%AE%3A%20%20Unlocking%20new%20capabilities%20with%20Axens%20Digital%20Services%20in%20view%20of%20boosting%20your%20performances.pdf","Company":"AXENS","dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-axens-connect-in-unlocking-new-capabilities-with-axens-digital-services-in-view-of-boosting-your-performances/","dgPassFrontmatter":true}
 ---
 
 ## 2024 - AVEVA World - Paris - Process Industries (Chemicals, MMM, Pulp/Paper)

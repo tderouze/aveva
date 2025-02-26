@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-luminant-advanced-monitoring-and-diagnostics/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-luminant-advanced-monitoring-and-diagnostics/","dgPassFrontmatter":true}
 ---
 
 [Company:: Luminant]

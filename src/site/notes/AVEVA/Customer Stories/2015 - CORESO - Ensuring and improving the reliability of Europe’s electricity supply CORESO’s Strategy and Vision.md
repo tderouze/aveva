@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/","dgPassFrontmatter":true}
 ---
 
 [Company:: CORESO]

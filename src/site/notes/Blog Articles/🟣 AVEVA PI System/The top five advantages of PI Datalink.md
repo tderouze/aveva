@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/the-top-five-advantages-of-pi-datalink/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/the-top-five-advantages-of-pi-datalink/","dgPassFrontmatter":true}
 ---
 
 

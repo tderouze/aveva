@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/","dgPassFrontmatter":true}
 ---
 
 [Company:: Kruger]

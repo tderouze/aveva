@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-odec-s-ea-journey-from-challenge-to-enterprise-view/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-odec-s-ea-journey-from-challenge-to-enterprise-view/","dgPassFrontmatter":true}
 ---
 
 [Company:: ODEC]

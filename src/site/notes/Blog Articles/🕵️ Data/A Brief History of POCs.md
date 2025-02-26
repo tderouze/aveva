@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/a-brief-history-of-po-cs/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_a-brief-history-of-pocs-as-businesses-activity-7060201865908482048-obS4","dg-publish":true,"permalink":"/blog-articles/data/a-brief-history-of-po-cs/","dgPassFrontmatter":true}
 ---
 
 As businesses strive to innovate and stay ahead of the competition, they often turn to Proof of Concept (POC) projects to test out new ideas and technologies before committing to a full-scale implementation.  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-hershey-accessible-information-for-manufacturing-with-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-hershey-accessible-information-for-manufacturing-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Hershey]

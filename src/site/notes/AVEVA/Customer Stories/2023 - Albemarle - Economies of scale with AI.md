@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-albemarle-economies-of-scale-with-ai/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-albemarle-economies-of-scale-with-ai/","dgPassFrontmatter":true}
 ---
 
 [Company:: Albemarle]

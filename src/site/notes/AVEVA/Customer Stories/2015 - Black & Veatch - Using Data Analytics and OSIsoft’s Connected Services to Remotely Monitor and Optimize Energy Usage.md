@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-black-and-veatch-using-data-analytics-and-os-isoft-s-connected-services-to-remotely-monitor-and-optimize-energy-usage/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-black-and-veatch-using-data-analytics-and-os-isoft-s-connected-services-to-remotely-monitor-and-optimize-energy-usage/","dgPassFrontmatter":true}
 ---
 
 [Company:: Black & Veatch]

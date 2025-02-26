@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/","dgPassFrontmatter":true}
 ---
 
 [Company:: Enbridge]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/","dgPassFrontmatter":true}
 ---
 
 [Company:: Dunkerque LNG]

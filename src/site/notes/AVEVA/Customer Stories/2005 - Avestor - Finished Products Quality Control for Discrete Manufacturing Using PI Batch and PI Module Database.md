@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2005-avestor-finished-products-quality-control-for-discrete-manufacturing-using-pi-batch-and-pi-module-database/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2005-avestor-finished-products-quality-control-for-discrete-manufacturing-using-pi-batch-and-pi-module-database/","dgPassFrontmatter":true}
 ---
 
 [Company:: Avestor]

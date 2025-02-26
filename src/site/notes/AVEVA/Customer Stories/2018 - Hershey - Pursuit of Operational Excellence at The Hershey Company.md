@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-hershey-pursuit-of-operational-excellence-at-the-hershey-company/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-hershey-pursuit-of-operational-excellence-at-the-hershey-company/","dgPassFrontmatter":true}
 ---
 
 [Company:: Hershey]

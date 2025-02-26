@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-agc-development-of-process-digital-twin/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-agc-development-of-process-digital-twin/","dgPassFrontmatter":true}
 ---
 
 [Company:: AGC]

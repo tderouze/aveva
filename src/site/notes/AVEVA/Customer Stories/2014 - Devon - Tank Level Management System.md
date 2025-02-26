@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-devon-tank-level-management-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-devon-tank-level-management-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Devon]

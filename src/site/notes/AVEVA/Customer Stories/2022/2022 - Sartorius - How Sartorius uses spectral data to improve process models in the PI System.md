@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-sartorius-how-sartorius-uses-spectral-data-to-improve-process-models-in-the-pi-system/"}
+{"Title":"2022 - How Sartorius uses spectral data to improve process models in the PI System","Year":2022,"Industry":"Manufacturing","URL":"https://resources.osisoft.com/presentations/how-sartorius-uses-spectral-data-to-improve-process-models-in-the-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02MA40-Sartorius-Hultman-Johan-Adding-Value-Spectroscopy.pdf","Company":"Sartorius","Keywords":["Machine Learning","Spectroscopy","Regression"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-sartorius-how-sartorius-uses-spectral-data-to-improve-process-models-in-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/GNrigh6.png)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-hrsd-hrsd-story-how-we-use-the-pi-system-to-monitor-events-on-our-infrastructure/"}
+{"Title":"2020 - HRSD Story:  How we use the PI System to Monitor Events on our Infrastructure","Year":2020,"Industry":"General","URL":"https://resources.osisoft.com/presentations/hrsd-story---how-we-use-the-pi-system-to-monitor-events-on-our-infrastructure/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2WW02-HRSD-Elston-A-HRSD-Story-How-we-use-the-PI-System-to-monitor-events.pdf","Company":"HRSD","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-hrsd-hrsd-story-how-we-use-the-pi-system-to-monitor-events-on-our-infrastructure/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

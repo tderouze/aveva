@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-v-xchnge-how-v-xchnge-centralized-its-operations-with-the-pi-system-and-datacenter-clarity-lc/"}
+{"Title":"2018 - How vXchnge Centralized its Operations with the PI System and Datacenter Clarity LC","Year":2018,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/how-vxchnge-centralized-its-operations-with-the-pi-system-and-datacenter-clarity-lc/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2FA06-vXchnge-FAmoon-How-vXchnge-Centralized-Operations-PISystem-Datacenter-Clarity-LC.pdf","Company":"vXchnge","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-v-xchnge-how-v-xchnge-centralized-its-operations-with-the-pi-system-and-datacenter-clarity-lc/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

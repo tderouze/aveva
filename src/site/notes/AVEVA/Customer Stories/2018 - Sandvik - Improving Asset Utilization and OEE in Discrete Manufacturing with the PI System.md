@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-sandvik-improving-asset-utilization-and-oee-in-discrete-manufacturing-with-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-sandvik-improving-asset-utilization-and-oee-in-discrete-manufacturing-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Sandvik]

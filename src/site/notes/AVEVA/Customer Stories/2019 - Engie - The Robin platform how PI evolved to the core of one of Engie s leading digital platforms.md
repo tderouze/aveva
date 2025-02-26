@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/","dgPassFrontmatter":true}
 ---
 
 [Company:: Engie]

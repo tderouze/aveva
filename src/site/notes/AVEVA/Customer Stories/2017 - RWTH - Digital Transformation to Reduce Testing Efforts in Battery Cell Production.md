@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/","dgPassFrontmatter":true}
 ---
 
 [Company:: RWTH]

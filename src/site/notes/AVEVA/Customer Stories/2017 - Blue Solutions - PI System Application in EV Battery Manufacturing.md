@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/","dgPassFrontmatter":true}
 ---
 
 [Company:: Blue Solutions]

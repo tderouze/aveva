@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-eli-lilly-utilizing-the-pi-system-as-an-industrial-internet-of-things-platform-for-laboratory-monitoring/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-eli-lilly-utilizing-the-pi-system-as-an-industrial-internet-of-things-platform-for-laboratory-monitoring/","dgPassFrontmatter":true}
 ---
 
 [Company:: Eli Lilly]

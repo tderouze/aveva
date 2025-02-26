@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-yinson-single-slide/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-yinson-single-slide/","dgPassFrontmatter":true}
 ---
 
 [Company:: Yinson]

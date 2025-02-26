@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-heineken-pi-system-at-heineken-seville-a-base-for-our-sustainability-goals/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-heineken-pi-system-at-heineken-seville-a-base-for-our-sustainability-goals/","dgPassFrontmatter":true}
 ---
 
 [Company:: Heineken]

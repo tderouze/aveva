@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-qualcomm-mission-critical-infrastructure-with-os-isoft-s-pi-system/"}
+{"Title":"2016 - Mission Critical Infrastructure with OSIsoft’s PI System","Year":2016,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/mission-critical-infrastructure-with-osisoft-s-pi-system/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/FA162020_Qualcomm_Ward_MissionCriticalInfrastructurewithOSIsoftsPISystem.pdf","Company":"Qualcomm","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-qualcomm-mission-critical-infrastructure-with-os-isoft-s-pi-system/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

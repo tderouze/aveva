@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-air-liquide-remote-monitoring-and-optimization-for-air-liquide-plants-using-afef/"}
+{"Title":"2018 - Remote Monitoring & Optimization for Air Liquide Plants using AF/EF","Year":2018,"Industry":"[\"Facilities & Data Centers\",\"Oil & Gas\",\"Power\",\"Water\"]","URL":"https://resources.osisoft.com/presentations/remote-monitoring-and-optimization-for-air-liquide-plants-using-af/ef/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D1IA01-AirLiquide-Lotero-Remote-Monitoring-Optimization-AirLiquide-Plants-using-AF-EF.pdf","Company":"Air Liquide","Keywords":["Hydrogen","Governance","Event Frames"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-air-liquide-remote-monitoring-and-optimization-for-air-liquide-plants-using-afef/","dgPassFrontmatter":true}
 ---
 
 ## Air Liquide's Results

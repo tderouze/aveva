@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/ships/"}
+{"dg-publish":true,"permalink":"/aveva/business-topics/ships/","dgPassFrontmatter":true}
 ---
 
 

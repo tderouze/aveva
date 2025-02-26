@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/","dgPassFrontmatter":true}
 ---
 
 [Company:: Cemex]

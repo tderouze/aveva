@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-klabin-cloud-process-analytics-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-klabin-cloud-process-analytics-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Klabin]

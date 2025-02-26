@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-gsk-from-process-data-to-information-management/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-gsk-from-process-data-to-information-management/","dgPassFrontmatter":true}
 ---
 
 [Company:: GSK]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-enel-green-power-ai-enabled-online-monitoring-and-diagnostics-of-enel-s-geothermal-power-plants/"}
+{"Title":"2022 - AI-enabled Online Monitoring and Diagnostics of Enel s Geothermal Power Plants","Year":2022,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/ai-enabled-online-monitoring-and-diagnostics-of-enel-s-geothermal-power-plants/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02PE70-Enel-Galgani-AI-enabled-online-monitoring-and-diagnostics.pdf","Company":"Enel Green Power","Keywords":["Regression","APA"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-enel-green-power-ai-enabled-online-monitoring-and-diagnostics-of-enel-s-geothermal-power-plants/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/WLNvPes.png)

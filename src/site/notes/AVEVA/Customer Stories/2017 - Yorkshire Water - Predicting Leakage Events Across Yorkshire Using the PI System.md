@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Yorkshire Water]

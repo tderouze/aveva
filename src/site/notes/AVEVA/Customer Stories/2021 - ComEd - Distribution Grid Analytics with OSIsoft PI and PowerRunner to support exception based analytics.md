@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/","dgPassFrontmatter":true}
 ---
 
 [Company:: ComEd]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/operational-data-journey/"}
+{"dg-publish":true,"permalink":"/aveva/business-topics/operational-data-journey/","dgPassFrontmatter":true}
 ---
 
 

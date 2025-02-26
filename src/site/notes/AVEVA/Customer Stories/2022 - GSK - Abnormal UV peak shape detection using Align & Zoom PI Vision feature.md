@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-gsk-abnormal-uv-peak-shape-detection-using-align-and-zoom-pi-vision-feature/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-gsk-abnormal-uv-peak-shape-detection-using-align-and-zoom-pi-vision-feature/","dgPassFrontmatter":true}
 ---
 
 [Company:: GSK]

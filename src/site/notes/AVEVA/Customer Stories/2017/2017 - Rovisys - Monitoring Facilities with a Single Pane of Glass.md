@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-rovisys-monitoring-facilities-with-a-single-pane-of-glass/"}
+{"Title":"2017 - Monitoring Facilities with a Single Pane of Glass","Year":2017,"Industry":"General","URL":"https://resources.osisoft.com/presentations/monitoring-facilities-with-a-single-pane-of-glass/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-rs-charlotte/2017-rs-charlotte-040-Rovisys-Polaski-Monitoring-Facilities-with-a-Single-Pane-of-Glass.pdf","Company":"Rovisys","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-rovisys-monitoring-facilities-with-a-single-pane-of-glass/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

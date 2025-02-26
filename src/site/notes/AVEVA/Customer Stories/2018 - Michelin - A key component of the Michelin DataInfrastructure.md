@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: Michelin]

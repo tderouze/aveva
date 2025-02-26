@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-rio-tinto-rio-tinto-digital-project-delivery-for-rio-tinto-capital-projects-status-update-and-conveyor-design-utility-demonstration/"}
+{"Title":"2023 - Rio Tinto: Digital project delivery for Rio Tinto capital projects - Status update & Conveyor Design Utility demonstration","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/rio-tinto--digital-project-delivery-for-rio-tinto-capital-projects---status-update-and-conveyor-design-utility-demonstration/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1PRI03-RioTinto-Rushton-Digital-project-delivery-for-Rio-Tinto-capital-projects.pdf","Company":"Rio Tinto","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-rio-tinto-rio-tinto-digital-project-delivery-for-rio-tinto-capital-projects-status-update-and-conveyor-design-utility-demonstration/","dgPassFrontmatter":true}
 ---
 
 

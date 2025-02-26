@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-cyanco-journey-to-predictive-maintenance/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-cyanco-journey-to-predictive-maintenance/","dgPassFrontmatter":true}
 ---
 
 [Company:: Cyanco]

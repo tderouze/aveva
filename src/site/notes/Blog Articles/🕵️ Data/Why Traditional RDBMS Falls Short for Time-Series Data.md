@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/why-traditional-rdbms-falls-short-for-time-series-data/"}
+{"dg-publish":true,"permalink":"/blog-articles/data/why-traditional-rdbms-falls-short-for-time-series-data/","dgPassFrontmatter":true}
 ---
 
 Traditional relational database management systems (RDBMS) have long been the go-to solution for data storage and management. However, when it comes to handling time-series data, these systems often fall short. Here's why:

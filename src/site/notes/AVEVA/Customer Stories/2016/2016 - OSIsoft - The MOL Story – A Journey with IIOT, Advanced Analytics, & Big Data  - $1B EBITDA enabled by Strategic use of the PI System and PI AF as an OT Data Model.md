@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-os-isoft-the-mol-story-a-journey-with-iiot-advanced-analytics-and-big-data-1-b-ebitda-enabled-by-strategic-use-of-the-pi-system-and-pi-af-as-an-ot-data-model/"}
+{"Title":"2016 - The MOL Story – A Journey with IIOT, Advanced Analytics, & Big Data  - $1B EBITDA enabled by Strategic use of the PI System and PI AF as an OT Data Model","Year":2016,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/the-mol-story-%E2%80%93-a-journey-with-iiot--advanced-analytics--and-big-data/","PDF":"https://cdn.osisoft.com/osi/presentations/2016-rs-houston-iiot/2016-rs-houston-iiot-040-OSIsoft-Harclerode-The-MOL-Story--A-Journey-with-IIOT-Advanced-Analytics-Big-Data--$1B-EBITDA-enabled-by-the-PI-System.pdf","Company":"OSIsoft","Keywords":["Hydrogen","Energy"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-os-isoft-the-mol-story-a-journey-with-iiot-advanced-analytics-and-big-data-1-b-ebitda-enabled-by-strategic-use-of-the-pi-system-and-pi-af-as-an-ot-data-model/","dgPassFrontmatter":true}
 ---
 
 ## OSIsoft's Results

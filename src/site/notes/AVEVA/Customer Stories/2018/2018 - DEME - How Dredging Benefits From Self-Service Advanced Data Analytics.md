@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-deme-how-dredging-benefits-from-self-service-advanced-data-analytics/"}
+{"Title":"How Dredging Benefits From Self-Service Advanced Data Analytics","year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/how-dredging-benefits-from-self-service-advanced-data-analytics/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR05-DEME-De-Block-How-Dredging-Benefits-From-Self-Service-Advanced-Data-Analytics.pdf","Company":"DEME","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-deme-how-dredging-benefits-from-self-service-advanced-data-analytics/","dgPassFrontmatter":true}
 ---
 
 ## DEME's Results

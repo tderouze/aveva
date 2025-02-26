@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/connect-vs-pi-integrator-choosing-the-right-tool-for-your-industrial-data-needs/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/connect-vs-pi-integrator-choosing-the-right-tool-for-your-industrial-data-needs/","dgPassFrontmatter":true}
 ---
 
 In the ever-evolving landscape of industrial data management, two powerful solutions stand out: AVEVA CONNECT and AVEVA PI Integrator for Business Analytics. Both offer unique capabilities for handling operational data, but they serve different purposes within the industrial ecosystem. Let's dive into a comparison to help you understand which tool might be the best fit for your organization's needs.

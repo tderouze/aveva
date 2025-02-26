@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-tyson-foods-information-to-improve-compliance-and-quality/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2016-tyson-foods-information-to-improve-compliance-and-quality/","dgPassFrontmatter":true}
 ---
 
 [Company:: Tyson Foods]

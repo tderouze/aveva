@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/","dgPassFrontmatter":true}
 ---
 
 [Company:: Unilever]

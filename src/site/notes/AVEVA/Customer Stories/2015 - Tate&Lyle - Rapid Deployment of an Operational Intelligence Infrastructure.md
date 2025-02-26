@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-tate-and-lyle-rapid-deployment-of-an-operational-intelligence-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-tate-and-lyle-rapid-deployment-of-an-operational-intelligence-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: Tale&Lyle]

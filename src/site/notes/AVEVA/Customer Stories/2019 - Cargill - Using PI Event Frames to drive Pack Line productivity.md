@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-cargill-using-pi-event-frames-to-drive-pack-line-productivity/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-cargill-using-pi-event-frames-to-drive-pack-line-productivity/","dgPassFrontmatter":true}
 ---
 
 [Company:: Cargill]

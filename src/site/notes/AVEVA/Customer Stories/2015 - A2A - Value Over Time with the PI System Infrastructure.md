@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: A2A]

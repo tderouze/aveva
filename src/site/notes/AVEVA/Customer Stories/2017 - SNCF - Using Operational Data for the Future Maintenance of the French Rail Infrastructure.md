@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-sncf-using-operational-data-for-the-future-maintenance-of-the-french-rail-infrastructure/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-sncf-using-operational-data-for-the-future-maintenance-of-the-french-rail-infrastructure/","dgPassFrontmatter":true}
 ---
 
 [Company:: SNCF]

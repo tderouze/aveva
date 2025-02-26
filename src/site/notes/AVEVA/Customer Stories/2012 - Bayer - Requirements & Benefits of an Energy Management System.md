@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2012-bayer-requirements-and-benefits-of-an-energy-management-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2012-bayer-requirements-and-benefits-of-an-energy-management-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Bayer]

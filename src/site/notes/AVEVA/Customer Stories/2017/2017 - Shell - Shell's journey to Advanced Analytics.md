@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-shell-shell-s-journey-to-advanced-analytics/"}
+{"Title":"2017 - Shell's journey to Advanced Analytics","Year":2017,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/shell-s-journey-to-advanced-analytics/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2OG04-Shell-Heuvel-Shells-journey-to-Advanced-Analytics.pdf","Company":"Shell","dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-shell-shell-s-journey-to-advanced-analytics/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-hsv-improving-business-performance-with-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-hsv-improving-business-performance-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: HSV]

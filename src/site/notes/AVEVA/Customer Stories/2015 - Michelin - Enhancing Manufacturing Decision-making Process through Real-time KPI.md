@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-michelin-enhancing-manufacturing-decision-making-process-through-real-time-kpi/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-michelin-enhancing-manufacturing-decision-making-process-through-real-time-kpi/","dgPassFrontmatter":true}
 ---
 
 [Company:: Michelin]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-pepco-the-ultimate-tool-for-ems-data-both-inside-and-outside-the-control-room/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-pepco-the-ultimate-tool-for-ems-data-both-inside-and-outside-the-control-room/","dgPassFrontmatter":true}
 ---
 
 [Company:: Pepco]

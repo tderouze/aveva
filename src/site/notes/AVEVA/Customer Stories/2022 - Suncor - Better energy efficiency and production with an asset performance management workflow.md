@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/","dgPassFrontmatter":true}
 ---
 
 [Company:: Company]

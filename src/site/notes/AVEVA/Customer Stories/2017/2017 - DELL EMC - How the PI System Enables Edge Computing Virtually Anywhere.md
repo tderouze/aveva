@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-dell-emc-how-the-pi-system-enables-edge-computing-virtually-anywhere/"}
+{"Title":"2017 - How the PI System Enables Edge Computing Virtually Anywhere","Year":2017,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/how-the-pi-system-enables-edge-computing-virtually-anywhere/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02II07_Dell_TDuncan_SRobertson_HowthePIEdge.pdf","Company":"DELL EMC","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-dell-emc-how-the-pi-system-enables-edge-computing-virtually-anywhere/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

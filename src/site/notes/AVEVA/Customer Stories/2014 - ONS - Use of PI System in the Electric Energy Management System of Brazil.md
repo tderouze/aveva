@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/","dgPassFrontmatter":true}
 ---
 
 [Company:: ONS]

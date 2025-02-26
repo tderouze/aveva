@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-university-of-maryland-college-park-managing-the-operational-needs-of-the-campus-and-the-journey-to-a-campus-living-laboratory-university-of-maryland/"}
+{"Title":"Managing the Operational Needs of the Campus and The Journey to a Campus Living Laboratory (University of Maryland)","year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/managing-the-operational-needs-of-the-campus-and-the-journey-to-a-campus-living-laboratory--university-of-marylandx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D0AS05-UMD-Ibeziako-Managing-the-Operational-Needs-of-the-Campus-and-The-Journey-to-a-Campus-Living.pdf","Company":"University of Maryland,  college park","Keywords":["Data diode","Disctrict Energy","Energy Monitoring"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-university-of-maryland-college-park-managing-the-operational-needs-of-the-campus-and-the-journey-to-a-campus-living-laboratory-university-of-maryland/","dgPassFrontmatter":true}
 ---
 
 ## University of Maryland,  college park's Results

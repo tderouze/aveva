@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-sun-coke-energy-achieving-enterprise-wide-operational-intelligence-using-the-pi-server-s-asset-framework/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-sun-coke-energy-achieving-enterprise-wide-operational-intelligence-using-the-pi-server-s-asset-framework/","dgPassFrontmatter":true}
 ---
 
 [Company:: SunCoke Energy]

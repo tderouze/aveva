@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/","dgPassFrontmatter":true}
 ---
 
 [Company:: EnergyQ]

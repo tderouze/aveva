@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-bayer-oee-an-important-kpi-to-achieve-operational-intelligence/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-bayer-oee-an-important-kpi-to-achieve-operational-intelligence/","dgPassFrontmatter":true}
 ---
 
 [Company:: Bayer]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/sustainability/the-esg-reporting-maturity-journey-from-compliance-to-collaboration/"}
+{"dg-publish":true,"permalink":"/blog-articles/sustainability/the-esg-reporting-maturity-journey-from-compliance-to-collaboration/","dgPassFrontmatter":true}
 ---
 
 As the demand for Environmental, Social, and Governance (ESG) transparency grows, organizations face the challenge of balancing regulatory compliance with meaningful action. ESG reporting is no longer a mere checkbox exercise; it has evolved into a strategic opportunity to drive sustainability, operational efficiency, and innovation. But how do companies embark on this journey? At AVEVA, we believe the path to ESG maturity unfolds in three transformative stages.

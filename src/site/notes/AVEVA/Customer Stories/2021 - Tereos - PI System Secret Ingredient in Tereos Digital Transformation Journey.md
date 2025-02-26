@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/","dgPassFrontmatter":true}
 ---
 
 [Company:: Tereos]

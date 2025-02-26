@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-dolphin-energy-pi-system-for-reliable-environmental-and-sustainability-management/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2014-dolphin-energy-pi-system-for-reliable-environmental-and-sustainability-management/","dgPassFrontmatter":true}
 ---
 
 [Company:: Dolphin Energy]

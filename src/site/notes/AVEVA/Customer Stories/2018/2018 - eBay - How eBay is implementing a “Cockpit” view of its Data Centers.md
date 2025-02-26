@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-e-bay-how-e-bay-is-implementing-a-cockpit-view-of-its-data-centers/"}
+{"Title":"2018 - How eBay is implementing a “Cockpit” view of its Data Centers","Year":2018,"Industry":"[\"Facilities & Data Centers\",\"General\"]","URL":"https://resources.osisoft.com/presentations/how-ebay-is-implementing-a--cockpit--view-of-its-data-centers-1x/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D1EI04-eBay-JTepferPLepage-How-eBay-is-implementing-Cockpit-view-of-its-Data-Centers.pdf","Company":"eBay","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-e-bay-how-e-bay-is-implementing-a-cockpit-view-of-its-data-centers/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

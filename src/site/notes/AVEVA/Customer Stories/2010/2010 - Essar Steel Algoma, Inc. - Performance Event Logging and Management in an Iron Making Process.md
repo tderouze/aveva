@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2010/2010-essar-steel-algoma-inc-performance-event-logging-and-management-in-an-iron-making-process/"}
+{"Title":"2010 - Performance Event Logging and Management in an Iron Making Process","Year":2010,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/performance-event-logging-and-management-in-an-iron-making-process/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2010/UsersConference2010/PDF/UC2010_BRS1760_Essar_Steel_DiDonato.pdf","Company":"Essar Steel Algoma, Inc.","Keywords":["Furnace"],"dg-publish":true,"permalink":"/aveva/customer-stories/2010/2010-essar-steel-algoma-inc-performance-event-logging-and-management-in-an-iron-making-process/","dgPassFrontmatter":true}
 ---
 
 

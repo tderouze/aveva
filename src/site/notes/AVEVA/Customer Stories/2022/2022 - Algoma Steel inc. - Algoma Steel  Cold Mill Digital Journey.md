@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-algoma-steel-inc-algoma-steel-cold-mill-digital-journey/"}
+{"Title":"2022 - Algoma Steel : Cold Mill Digital Journey","Year":2022,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/algoma-steel---cold-mill-digital-journey/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02MM40-Algoma-Gardner-Cold-Mill-Digital-Journey.pdf","Company":"Algoma Steel inc.","Keywords":["Furnace"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-algoma-steel-inc-algoma-steel-cold-mill-digital-journey/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

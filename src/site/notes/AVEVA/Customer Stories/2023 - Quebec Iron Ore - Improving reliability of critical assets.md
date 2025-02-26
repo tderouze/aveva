@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-quebec-iron-ore-improving-reliability-of-critical-assets/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-quebec-iron-ore-improving-reliability-of-critical-assets/","dgPassFrontmatter":true}
 ---
 
 [Company:: Quebec Iron Ore]

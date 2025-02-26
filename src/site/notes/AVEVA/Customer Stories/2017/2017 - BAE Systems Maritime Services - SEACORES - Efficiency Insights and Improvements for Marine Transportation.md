@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-bae-systems-maritime-services-seacores-efficiency-insights-and-improvements-for-marine-transportation/"}
+{"Title":"2017 - SEACORES - Efficiency Insights and Improvements for Marine Transportation","Year":2017,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/seacores---efficiency-insights-and-improvements-for-marine-transportation/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TR02-BAESystems-Courtaux-EfficiencyInsightsForMarine.pdf","Company":"BAE Systems Maritime Services","dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-bae-systems-maritime-services-seacores-efficiency-insights-and-improvements-for-marine-transportation/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

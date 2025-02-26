@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-deschutes-brewery-what-s-really-going-on-with-your-beer-s-fermentation/"}
+{"Title":"2016 - What’s Really Going on with your Beer's Fermentation?","Year":2016,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/what-s-really-going-on-with-your-beer-s-fermentation-/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/PH162020_DeschutesBreweryDeschutesBrewery_FaivreTimAlexander_WhatsReallyGoingonwithyourBeersFermentation.pdf","Company":"Deschutes Brewery","Keywords":["Golden Batch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-deschutes-brewery-what-s-really-going-on-with-your-beer-s-fermentation/","dgPassFrontmatter":true}
 ---
 
 ## Deschutes Brewery's Results

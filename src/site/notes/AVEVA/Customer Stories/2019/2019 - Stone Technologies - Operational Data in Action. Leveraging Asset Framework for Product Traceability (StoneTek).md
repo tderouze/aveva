@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-stone-technologies-operational-data-in-action-leveraging-asset-framework-for-product-traceability-stone-tek/"}
+{"Title":"2019 - Operational Data in Action. Leveraging Asset Framework for Product Traceability (StoneTek)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/operational-data-in-action--leveraging-asset-framework-for-product-traceability--stonetekx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2FB02-StoneTechnologies-Gallant-Operational-Data-in-Action-Leveraging-Asset-Framework.pdf","Company":"Stone Technologies","Keywords":["Golden Batch","Traceability","Genealogy"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-stone-technologies-operational-data-in-action-leveraging-asset-framework-for-product-traceability-stone-tek/","dgPassFrontmatter":true}
 ---
 
 

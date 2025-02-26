@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/soft-skills/sympathie-vs-empathie/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_sympathie-vs-empathie-dans-un-monde-activity-6789825008479932416-4q4s","dg-publish":true,"permalink":"/blog-articles/soft-skills/sympathie-vs-empathie/","dgPassFrontmatter":true}
 ---
 
 Dans un monde qui se professionnalise, où l'empathie est servie à toutes les sauces, gardons-nous encore de la place pour la sympathie ?  

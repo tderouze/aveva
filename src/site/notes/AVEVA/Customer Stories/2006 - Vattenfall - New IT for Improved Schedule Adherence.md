@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/","dgPassFrontmatter":true}
 ---
 
 [Company:: Vattenfall]

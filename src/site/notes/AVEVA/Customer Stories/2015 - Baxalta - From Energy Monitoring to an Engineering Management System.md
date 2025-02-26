@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: Baxalta]

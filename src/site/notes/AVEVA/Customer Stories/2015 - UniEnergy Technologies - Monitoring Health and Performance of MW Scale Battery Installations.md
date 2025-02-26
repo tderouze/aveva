@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/","dgPassFrontmatter":true}
 ---
 
 [Company:: UniEnergy Technologies]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/soft-skills/l-art-de-la-communication/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_michael-il-excelle-en-communication-activity-6790881807303897088-f5ZY","dg-publish":true,"permalink":"/blog-articles/soft-skills/l-art-de-la-communication/","dgPassFrontmatter":true}
 ---
 
 « Michael ? Il excelle en communication. »  

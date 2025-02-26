@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-owl-computing-data-diode-cybersecurity-for-pi-system/"}
+{"Title":"Data Diode Cybersecurity for PI System","year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/data-diode-cybersecurity-for-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D3MP02-OwlCyberDefense-Lanahan-Data-Diode-Cybersecuity-for-PI-System.pdf","Company":"Owl Computing","Keywords":["Data diode"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-owl-computing-data-diode-cybersecurity-for-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## Owl Computing's Results

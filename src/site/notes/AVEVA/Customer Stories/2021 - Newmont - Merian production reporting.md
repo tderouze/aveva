@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-newmont-merian-production-reporting/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2021-newmont-merian-production-reporting/","dgPassFrontmatter":true}
 ---
 
 [Company:: Newmont]

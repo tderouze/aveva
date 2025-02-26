@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2011/2011-mondi-swiecie-monitoring-paper-mill-operations-production-quality-and-kpi-s-in-real-time/"}
+{"Title":"2011 - Monitoring Paper Mill Operations, Production Quality, and KPI’s in Real-time","Year":2011,"Industry":"Pulp & Paper","URL":"https://resources.osisoft.com/presentations/monitoring-paper-mill-operations--production-quality--and-kpi-s-in-real-time/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2011/RegionalSeminars/PDF/RS2011_EMEA_BRS_Mondi_MKoszur.pdf","Company":"Mondi Świecie","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2011/2011-mondi-swiecie-monitoring-paper-mill-operations-production-quality-and-kpi-s-in-real-time/","dgPassFrontmatter":true}
 ---
 
 

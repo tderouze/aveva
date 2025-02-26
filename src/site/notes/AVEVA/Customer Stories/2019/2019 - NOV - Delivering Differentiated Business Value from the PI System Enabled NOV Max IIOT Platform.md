@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-nov-delivering-differentiated-business-value-from-the-pi-system-enabled-nov-max-iiot-platform/"}
+{"Title":"Delivering Differentiated Business Value from the PI System Enabled NOV Max IIOT Platform","year":2019,"Industry":"[\"General\",\"Oil & Gas\"]","URL":"https://resources.osisoft.com/presentations/delivering-differentiated-business-value-from-the-pi-system-enabled-nov-max-iiot-platform/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2UP03-NOV-Fehres-Delivering-Differentiated-Business-Value-from-the-PI-System-Enabled-NOV-Max-IIOT.pdf","Company":"NOV","Keywords":["Data diode"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-nov-delivering-differentiated-business-value-from-the-pi-system-enabled-nov-max-iiot-platform/","dgPassFrontmatter":true}
 ---
 
 ## NOV's Results

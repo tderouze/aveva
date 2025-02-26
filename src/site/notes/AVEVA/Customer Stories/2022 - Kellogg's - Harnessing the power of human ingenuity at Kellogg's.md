@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-kellogg-s-harnessing-the-power-of-human-ingenuity-at-kellogg-s/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2022-kellogg-s-harnessing-the-power-of-human-ingenuity-at-kellogg-s/","dgPassFrontmatter":true}
 ---
 
 [Company:: Kellogg's]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/","dgPassFrontmatter":true}
 ---
 
 [Company:: Kruger]

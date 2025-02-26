@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 [Company:: EDP Renewables]

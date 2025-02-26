@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-agnico-eagle-how-connect-data-services-enables-analytics-in-mining/"}
+{"Title":"2024 - Agnico Eagle:  How CONNECT Data Services Enables Analytics in Mining","Year":2024,"Industry":"Mining Metals and Minerals","URL":"https://www.aveva.com/en/perspectives/presentations/2024/agnico-eagle---how-connect-data-services-enables-analytics-in-mining/","PDF":"https://cdn.mediavalet.com/eunl/content/0u4LkpYZyEmKUEiivr35lg/e6RPOf04eke4JFpY7PWkbQ/Original/Agnico%20Eagle%3A%20%20How%20CONNECT%20Data%20Services%20Enables%20Analytics%20in%20Mining.pdf","Company":"Agnico Eagle Mines Ltd.","Keywords":["CONNECT","CDS","Databricks","Machine Learning"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-agnico-eagle-how-connect-data-services-enables-analytics-in-mining/","dgPassFrontmatter":true}
 ---
 
 ## 2024 - AVEVA World - Paris - Innovation (CONNECT, AI, etc.)

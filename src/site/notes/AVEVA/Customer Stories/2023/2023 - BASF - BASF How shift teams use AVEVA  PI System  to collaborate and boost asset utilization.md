@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-basf-basf-how-shift-teams-use-aveva-pi-system-to-collaborate-and-boost-asset-utilization/"}
+{"Title":"2023 - BASF: How shift teams use AVEVA  PI System  to collaborate and boost asset utilization","Year":2023,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/basf--how-shift-teams-use-aveva%E2%84%A2-pi-system%E2%84%A2-to-collaborate-and-boost-asset-utilization/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1PRI04-BASF-Eckardt-BASF-How-shift-teams-use--PI-System-to-collaborate-and-boost-asset-utilization.pdf","Company":"BASF","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-basf-basf-how-shift-teams-use-aveva-pi-system-to-collaborate-and-boost-asset-utilization/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

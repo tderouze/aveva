@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-wacker-chemie-ag-wacker-chemie-ag-the-path-to-efficient-consistent-processing-of-3-d-plant-models-in-the-cloud/"}
+{"Title":"2023 - Wacker Chemie AG: The path to efficient, consistent processing of 3D plant models in the cloud","Year":2023,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/wacker-chemie-ag--the-path-to-efficient--consistent-processing-of-3d-plant-models-in-the-cloud/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1PRI02-WackerChemieAG-Mairhofer-The-path-to-efficient-consistent-processing-of-3D-plant-models-in-the-cloud.pdf","Company":"Wacker Chemie AG","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-wacker-chemie-ag-wacker-chemie-ag-the-path-to-efficient-consistent-processing-of-3-d-plant-models-in-the-cloud/","dgPassFrontmatter":true}
 ---
 
 

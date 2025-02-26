@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-axens-digital-bridge-pi-cloud-connect-between-axens-and-mol-to-maximize-profit-from-conversion-catalysts/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-axens-digital-bridge-pi-cloud-connect-between-axens-and-mol-to-maximize-profit-from-conversion-catalysts/","dgPassFrontmatter":true}
 ---
 
 [Company:: Axens]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/","dgPassFrontmatter":true}
 ---
 
 [Company:: ComEd]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/deploying-aveva-pi-system-at-scale-a-comprehensive-guide/"}
+{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/deploying-aveva-pi-system-at-scale-a-comprehensive-guide/","dgPassFrontmatter":true}
 ---
 
 When it comes to implementing AVEVA PI System on a large scale, careful planning and execution are crucial. Here's a comprehensive guide to help you navigate the process effectively:

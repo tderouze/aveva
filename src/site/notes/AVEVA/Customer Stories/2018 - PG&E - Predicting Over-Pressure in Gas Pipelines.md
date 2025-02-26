@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-pg-and-e-predicting-over-pressure-in-gas-pipelines/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-pg-and-e-predicting-over-pressure-in-gas-pipelines/","dgPassFrontmatter":true}
 ---
 
 [Company:: PG&E]

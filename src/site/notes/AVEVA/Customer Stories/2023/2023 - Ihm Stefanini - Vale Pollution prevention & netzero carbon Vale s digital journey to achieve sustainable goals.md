@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-ihm-stefanini-vale-pollution-prevention-and-netzero-carbon-vale-s-digital-journey-to-achieve-sustainable-goals/"}
+{"Title":"2023 - Vale: Pollution prevention & netzero carbon: Vale s digital journey to achieve sustainable goals","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/vale--pollution-prevention-and-netzero-carbon--vale-s-digital-journey-to-achieve-sustainable-goals/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI04-Vale-IhmStefanini-Moreira-Rodrigues-Marques-Pollution-prevention-and-netzero-carbon.pdf","Company":"Ihm Stefanini","Keywords":["Sustainability","Standardization"],"Benefits":["-99.9% Data collection time","-99% air quality collection time","-90% deployment time","-27% operators trips"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-ihm-stefanini-vale-pollution-prevention-and-netzero-carbon-vale-s-digital-journey-to-achieve-sustainable-goals/","dgPassFrontmatter":true}
 ---
 
 ## Ihm Stefanini's Results

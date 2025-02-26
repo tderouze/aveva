@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/"}
+{"Source":"https://www.linkedin.com/posts/thibaud-de-rouz%C3%A9-64954619_humanitaez-loyautaez-ia-activity-7127995349310271488-VNre","dg-publish":true,"permalink":"/blog-articles/lecture-inspirante/qu-est-ce-qu-un-chef/","dgPassFrontmatter":true}
 ---
 
 

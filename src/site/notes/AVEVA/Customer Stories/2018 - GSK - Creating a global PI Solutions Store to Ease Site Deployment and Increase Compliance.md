@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-gsk-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2018-gsk-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","dgPassFrontmatter":true}
 ---
 
 [Company:: GSK]

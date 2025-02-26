@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/","dgPassFrontmatter":true}
 ---
 
 [Company:: Amentum]

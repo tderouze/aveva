@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/","dgPassFrontmatter":true}
 ---
 
 [Company:: Uniper]

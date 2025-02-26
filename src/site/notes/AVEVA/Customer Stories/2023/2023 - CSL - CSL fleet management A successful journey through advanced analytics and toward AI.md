@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-csl-csl-fleet-management-a-successful-journey-through-advanced-analytics-and-toward-ai/"}
+{"Title":"2023 - CSL fleet management: A successful journey through advanced analytics and toward AI","Year":2023,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/csl-fleet-management--a-successful-journey-through-advanced-analytics-and-toward-ai/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-3INF06-MayaHTT-Duquette-CSL-fleet-management.pdf","Company":"CSL","Benefits":["-3-5% fuel, -120 Mtons CO2e/y, -120 Mtons/y"],"Keywords":["Sustainability","Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-csl-csl-fleet-management-a-successful-journey-through-advanced-analytics-and-toward-ai/","dgPassFrontmatter":true}
 ---
 
 

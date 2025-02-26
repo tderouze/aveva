@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-agc-glass-north-america-from-data-to-action-how-decisions-are-made-at-agc/"}
+{"Title":"2020 - From Data to Action: How Decisions Are Made at AGC","Year":2020,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/from-data-to-action--how-decisions-are-made-at-agc/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2MT06-AGC-Willson-From-Data-To-Action-How-Decisions-Are-Made-at-AGC.pdf","Company":"AGC Glass North America","Keywords":"Furnace","dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-agc-glass-north-america-from-data-to-action-how-decisions-are-made-at-agc/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

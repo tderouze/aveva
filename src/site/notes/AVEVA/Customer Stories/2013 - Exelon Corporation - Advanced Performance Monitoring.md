@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-exelon-corporation-advanced-performance-monitoring/"}
+{"dg-publish":true,"permalink":"/aveva/customer-stories/2013-exelon-corporation-advanced-performance-monitoring/","dgPassFrontmatter":true}
 ---
 
 [Company:: Exelon]

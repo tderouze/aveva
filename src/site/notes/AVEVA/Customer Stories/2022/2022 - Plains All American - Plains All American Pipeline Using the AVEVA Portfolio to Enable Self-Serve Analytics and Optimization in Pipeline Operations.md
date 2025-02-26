@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-plains-all-american-plains-all-american-pipeline-using-the-aveva-portfolio-to-enable-self-serve-analytics-and-optimization-in-pipeline-operations/"}
+{"Title":"Plains All American Pipeline: Using the AVEVA Portfolio to Enable Self-Serve Analytics and Optimization in Pipeline Operations","year":2022,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/plains-all-american-pipeline--using-the-aveva-portfolio-to-enable-self-serve-analytics-and-optimization-in-pipeline-operations/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02OG40-PAA-Bhat-Leveraging-the-AVEVA-Portfolio.pdf","Company":"Plains All American","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-plains-all-american-plains-all-american-pipeline-using-the-aveva-portfolio-to-enable-self-serve-analytics-and-optimization-in-pipeline-operations/","dgPassFrontmatter":true}
 ---
 
 ## Plains All American's Results

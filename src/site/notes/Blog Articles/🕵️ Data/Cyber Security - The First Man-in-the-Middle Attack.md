@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/cyber-security-the-first-man-in-the-middle-attack/"}
+{"dg-publish":true,"permalink":"/blog-articles/data/cyber-security-the-first-man-in-the-middle-attack/","dgPassFrontmatter":true}
 ---
 
 

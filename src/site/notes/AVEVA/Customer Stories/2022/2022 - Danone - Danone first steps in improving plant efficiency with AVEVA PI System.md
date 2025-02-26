@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-danone-danone-first-steps-in-improving-plant-efficiency-with-aveva-pi-system/"}
+{"Title":"2022 - Danone first steps in improving plant efficiency with AVEVA PI System","Year":2022,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/danone-first-steps-in-improving-plant-efficiency-with-aveva-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2CP060-Danone-Peeters-First-steps-in-improving-plant-efficiency.pdf","Company":"Danone","Keywords":["Golden Batch","OEE","CIP"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-danone-danone-first-steps-in-improving-plant-efficiency-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 

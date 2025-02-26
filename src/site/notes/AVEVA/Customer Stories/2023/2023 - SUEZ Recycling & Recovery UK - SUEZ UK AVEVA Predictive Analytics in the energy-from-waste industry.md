@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-suez-recycling-and-recovery-uk-suez-uk-aveva-predictive-analytics-in-the-energy-from-waste-industry/"}
+{"Title":"2023 - SUEZ UK: AVEVA Predictive Analytics in the energy-from-waste industry","Year":2023,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/suez-uk--aveva-predictive-analytics-in-the-energy-from-waste-industry/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-3IAI05-SUEZ-UK-Boyd-Smith-AVEVA-Predictive-Analytics-in-the-energy-from-waste-industry.pdf","Company":"SUEZ Recycling & Recovery UK","Keywords":["PRiSM","APA"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-suez-recycling-and-recovery-uk-suez-uk-aveva-predictive-analytics-in-the-energy-from-waste-industry/","dgPassFrontmatter":true}
 ---
 
 ## SUEZ Recycling & Recovery UK's Results

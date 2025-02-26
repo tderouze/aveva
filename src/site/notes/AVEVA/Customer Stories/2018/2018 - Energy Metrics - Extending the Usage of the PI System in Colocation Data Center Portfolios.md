@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-energy-metrics-extending-the-usage-of-the-pi-system-in-colocation-data-center-portfolios/"}
+{"Title":"2018 - Extending the Usage of the PI System in Colocation Data Center Portfolios","Year":2018,"Industry":"[\"Facilities & Data Centers\",\"General\"]","URL":"https://resources.osisoft.com/presentations/extending-the-usage-of-the-pi-system-in-colocation-data-center-portfolios/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2FA07-EnergyMetrics-GViknerRAvadaiappan-Extending-Usage-PISystem-Colocation-Data-Center.pdf","Company":"Energy Metrics","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-energy-metrics-extending-the-usage-of-the-pi-system-in-colocation-data-center-portfolios/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION
