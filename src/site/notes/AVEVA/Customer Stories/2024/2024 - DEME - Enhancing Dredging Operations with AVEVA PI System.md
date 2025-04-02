@@ -2,9 +2,23 @@
 {"Title":"DEME:  Enhancing Dredging Operations with AVEVA PI System","year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/deme---enhancing-dredging-operations-with-aveva-pi-system/","PDF":"https://cdn.mediavalet.com/eunl/content/yTIAk4BWHUiPw3IqrBaCFg/IM6Z-12aBU2nNcJtRLGIIw/Original/DEME%3A%20%20Enhancing%20Dredging%20Operations%20with%20AVEVA%20PI%20System.pdf","Company":"DEME","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-deme-enhancing-dredging-operations-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
+
+[[AVEVA/Customer Stories/2018/2018 - DEME - How Dredging Benefits From Self-Service Advanced Data Analytics\|2018 - DEME - How Dredging Benefits From Self-Service Advanced Data Analytics]]
 ## DEME's Results
+![](https://i.imgur.com/G5SEwRI.png)
 
 ## Screenshots
+![](https://i.imgur.com/6FZvcVC.png)
+![](https://i.imgur.com/hM8od5C.png)
+![](https://i.imgur.com/ZLPjw4r.png)
+![](https://i.imgur.com/wpEF1Cx.png)
+![](https://i.imgur.com/bxDyqTe.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402105338.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105338.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402105325.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105325.png)
+![](https://i.imgur.com/HKKw2js.png)
+
 
 ## 2024 - AVEVA World - Paris - Infrastructure (Water, Facilities, Transport, Marine, DC)
 

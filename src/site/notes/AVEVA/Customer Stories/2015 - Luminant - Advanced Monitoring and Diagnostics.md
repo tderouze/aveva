@@ -9,7 +9,7 @@
 [PDF:: [PDF](https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_Luminant_CarterCharlesPike_AdvancedMonitoringandDiagnosticsExperienceatLuminantandtheBenefitsofIndustryCollaboration.pdf)]
 [Country:: US]
 [Products:: [[Product\|Product]]]
-[Business Impacts:: [[Maintenance\|Maintenance]]]
+[Business Impacts:: [[AVEVA/Business Topics/UC List - Maintenance\|UC List - Maintenance]]]
 [Screenshots:: #Screenshot/PIProcessBook]
 #CyberSecurity  
 

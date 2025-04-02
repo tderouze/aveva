@@ -1,5 +1,5 @@
 ---
-{"Title":"2022 - Unifying excellence in marine operations at Zamil Marine","Year":2022,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/unifying-excellence-in-marine-operations-at-zamil-marine/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02MT30-Zamil-Lang-Fredrik-Unifying-excellence-in-marine-operations.pdf","Company":"Zamil","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-zamil-unifying-excellence-in-marine-operations-at-zamil-marine/","dgPassFrontmatter":true}
+{"Title":"2022 - Unifying excellence in marine operations at Zamil Marine","Year":2022,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/unifying-excellence-in-marine-operations-at-zamil-marine/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02MT30-Zamil-Lang-Fredrik-Unifying-excellence-in-marine-operations.pdf","Company":"Zamil","dg-publish":true,"Keywords":["Ships"],"permalink":"/aveva/customer-stories/2022/2022-zamil-unifying-excellence-in-marine-operations-at-zamil-marine/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

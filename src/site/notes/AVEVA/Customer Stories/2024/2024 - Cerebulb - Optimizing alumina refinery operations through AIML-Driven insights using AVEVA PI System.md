@@ -1,8 +1,29 @@
 ---
-{"Title":"2024 - Hindalco - Optimizing alumina refinery operations through AI/ML-Driven insights using AVEVA PI System","Year":2024,"Industry":"Metals Mining & Materials","URL":"https://www.aveva.com/en/perspectives/presentations/2024/hindalco---optimizing-alumina-refinery-operations-through-ai-ml-driven-insights-using-aveva-pi-system/","PDF":"https://cdn.mediavalet.com/eunl/content/pHD-5QigMUCRBaDqE2GsSg/8N-3gO_o9k2T5XzfFZ22DA/Original/Hindalco%3A%20%20Optimizing%20alumina%20refinery%20operations%20through%20AI%2FML-Driven%20insights%20using%20AVEVA%20PI%20System.pdf","Company":"Cerebulb","Keywords":["Operational Data Journey"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-hindalco-optimizing-alumina-refinery-operations-through-aiml-driven-insights-using-aveva-pi-system/","dgPassFrontmatter":true}
+{"Title":"Cerebulb:  Optimizing alumina refinery operations through AI/ML-Driven insights using AVEVA PI System","Year":2024,"Industry":"Metals Mining & Materials","URL":"https://www.aveva.com/en/perspectives/presentations/2024/hindalco---optimizing-alumina-refinery-operations-through-ai-ml-driven-insights-using-aveva-pi-system/","PDF":"https://cdn.mediavalet.com/eunl/content/pHD-5QigMUCRBaDqE2GsSg/8N-3gO_o9k2T5XzfFZ22DA/Original/Hindalco%3A%20%20Optimizing%20alumina%20refinery%20operations%20through%20AI%2FML-Driven%20insights%20using%20AVEVA%20PI%20System.pdf","Company":"Cerebulb","Keywords":["Data Maturity","Data Management","CBM","MTBF","Predictive Maintenance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-cerebulb-optimizing-alumina-refinery-operations-through-aiml-driven-insights-using-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
-![](https://i.imgur.com/8DcdbbI.png)
+## Cerebulb's Results
+
+
+## Screenshots
+![](https://i.imgur.com/LLUpAkC.png)
+![](https://i.imgur.com/cxK6qws.png)
+![](https://i.imgur.com/LCrEKVs.png)
+![](https://i.imgur.com/65Rg5xk.png)
+
+#### Intelligence Operation of Precipitation Control (iOPC ) – Yield Improvement
+![](https://i.imgur.com/bpI1pkY.png)
+![](https://i.imgur.com/vYj0C61.png)
+![](https://i.imgur.com/yWTpwn7.png)
+
+#### Boiler Tube Leakage- CPP Plant
+![](https://i.imgur.com/u6bFGXc.png)
+![](https://i.imgur.com/bNmSkpg.png)
+![](https://i.imgur.com/dRhiXxR.png)
+![](https://i.imgur.com/aDTS0pO.jpeg)
+![](https://i.imgur.com/ERSpxmp.jpeg)
+![](https://i.imgur.com/Qr48nqw.png)
+
 
 ## 2024 - AVEVA World - Paris - Process Industries (Chemicals, MMM, Pulp/Paper)
 

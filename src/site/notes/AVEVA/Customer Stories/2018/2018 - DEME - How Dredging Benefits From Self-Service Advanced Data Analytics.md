@@ -2,9 +2,24 @@
 {"Title":"How Dredging Benefits From Self-Service Advanced Data Analytics","year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/how-dredging-benefits-from-self-service-advanced-data-analytics/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR05-DEME-De-Block-How-Dredging-Benefits-From-Self-Service-Advanced-Data-Analytics.pdf","Company":"DEME","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-deme-how-dredging-benefits-from-self-service-advanced-data-analytics/","dgPassFrontmatter":true}
 ---
 
+
+[[AVEVA/Customer Stories/2024/2024 - DEME - Enhancing Dredging Operations with AVEVA PI System\|2024 - DEME - Enhancing Dredging Operations with AVEVA PI System]]
+[[AVEVA/Business Topics/UC List - Ships\|UC List - Ships]]
+
 ## DEME's Results
+![](https://i.imgur.com/0EvgI8Q.png)
 
 ## Screenshots
+![](https://i.imgur.com/Na91fO8.png)
+![](https://i.imgur.com/pjgCszu.png)
+![](https://i.imgur.com/vJNf6ox.png)
+![](https://i.imgur.com/kJflTPq.png)
+![](https://i.imgur.com/fA0bPO0.png)
+![](https://i.imgur.com/1Gieu3S.png)
+![](https://i.imgur.com/vpIfgNn.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402105850.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105850.png)
+![](https://i.imgur.com/M53jUT8.png)
 
 #### PRESENTATION
 
