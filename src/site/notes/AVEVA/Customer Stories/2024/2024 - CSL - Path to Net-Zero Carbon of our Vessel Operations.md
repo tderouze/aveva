@@ -1,7 +1,31 @@
 ---
-{"Title":"2024 - CSL:  Path to Net-Zero Carbon of our Vessel Operations","Year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/csl-group---path-to-net-zero-carbon-of-our-vessel-operations/","PDF":"https://cdn.mediavalet.com/eunl/content/3-3RjT4g-EeyFwoveBkH_w/rDkXT7Z940KKkmpRn4LWMQ/Original/CSL%20Group%3A%20%20Path%20to%20Net-Zero%20Carbon%20of%20our%20Vessel%20Operations.pdf","Company":"CSL","Keywords":["Sustainability","Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-csl-path-to-net-zero-carbon-of-our-vessel-operations/","dgPassFrontmatter":true}
+{"Title":"2024 - CSL:  Path to Net-Zero Carbon of our Vessel Operations","Year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/csl-group---path-to-net-zero-carbon-of-our-vessel-operations/","PDF":"https://cdn.mediavalet.com/eunl/content/3-3RjT4g-EeyFwoveBkH_w/rDkXT7Z940KKkmpRn4LWMQ/Original/CSL%20Group%3A%20%20Path%20to%20Net-Zero%20Carbon%20of%20our%20Vessel%20Operations.pdf","Company":"CSL","Keywords":["Sustainability","Ships","Advanced Analytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-csl-path-to-net-zero-carbon-of-our-vessel-operations/","dgPassFrontmatter":true}
 ---
 
+
+## CSL's Results
+![](https://i.imgur.com/yRqRNZZ.png)
+
+---
+## Screenshots
+![](https://i.imgur.com/moN19RL.png)
+![](https://i.imgur.com/b2Ivqzq.png)
+![](https://i.imgur.com/hRau2u0.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402110432.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110432.png)
+![](https://i.imgur.com/6Qn3wxa.png)
+![](https://i.imgur.com/eZeOAe4.png)
+![](https://i.imgur.com/eoeDf1G.png)
+![](https://i.imgur.com/y4X6ZgD.png)
+![](https://i.imgur.com/nfs2TIQ.png)
+![](https://i.imgur.com/RMp6vW9.png)
+![](https://i.imgur.com/0U5mkk7.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402110657.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110657.png)
+![](https://i.imgur.com/labfBnV.png)
+![](https://i.imgur.com/a99I4E7.png)
+<!--⚠️Imgur upload failed, check dev console-->
+![Pasted image 20250402110757.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110757.png)
 
 ## 2024 - AVEVA World - Paris - Infrastructure (Water, Facilities, Transport, Marine, DC)
 
