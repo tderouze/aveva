@@ -9,7 +9,10 @@
 ## Screenshots
 ![](https://i.imgur.com/tgBWIhL.png)
 ![](https://i.imgur.com/3AiXysb.png)
+![](https://i.imgur.com/hYLufnz.png)
 ![](https://i.imgur.com/GsTbMsn.png)
+![](https://i.imgur.com/J4427FE.png)
+
 
 #### PRESENTATION
 
