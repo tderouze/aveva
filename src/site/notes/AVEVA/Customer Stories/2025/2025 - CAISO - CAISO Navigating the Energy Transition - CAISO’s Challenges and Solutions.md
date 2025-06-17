@@ -3,8 +3,8 @@
 ---
 
 ## CAISO's Results
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250515133432.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250515133432.png)
+![](https://i.imgur.com/ulZXG2c.png)
+
 
 ---
 ## Screenshots

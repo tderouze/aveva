@@ -11,8 +11,7 @@
 ![](https://i.imgur.com/moN19RL.png)
 ![](https://i.imgur.com/b2Ivqzq.png)
 ![](https://i.imgur.com/hRau2u0.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402110432.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110432.png)
+![](https://i.imgur.com/UVpQKND.png)
 ![](https://i.imgur.com/6Qn3wxa.png)
 ![](https://i.imgur.com/eZeOAe4.png)
 ![](https://i.imgur.com/eoeDf1G.png)
@@ -20,12 +19,11 @@
 ![](https://i.imgur.com/nfs2TIQ.png)
 ![](https://i.imgur.com/RMp6vW9.png)
 ![](https://i.imgur.com/0U5mkk7.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402110657.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110657.png)
+![](https://i.imgur.com/JqXrr4Z.png)
 ![](https://i.imgur.com/labfBnV.png)
 ![](https://i.imgur.com/a99I4E7.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402110757.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402110757.png)
+![](https://i.imgur.com/h2DIb7F.png)
+
 
 ## 2024 - AVEVA World - Paris - Infrastructure (Water, Facilities, Transport, Marine, DC)
 

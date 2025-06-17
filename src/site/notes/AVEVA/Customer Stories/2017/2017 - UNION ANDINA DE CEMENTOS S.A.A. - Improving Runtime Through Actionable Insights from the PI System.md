@@ -13,12 +13,10 @@
 ![](https://i.imgur.com/DaDOpfi.png)
 ![](https://i.imgur.com/6fcL9q0.png)
 ![](https://i.imgur.com/8JpT0qy.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250401094637.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250401094637.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250401094657.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250401094657.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250401094720.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250401094720.png)
+![](https://i.imgur.com/zhhGrjS.png)
+![](https://i.imgur.com/Sx3uwc9.png)
+![](https://i.imgur.com/jElhFYr.png)
+
 Unión Andina de Cementos (UNACEM) needed to quantify the performance of each asset in their plants so that they could target their process improvement efforts. Using the PI System, they created KPIs for each machine, product, shift, hour and operator. By applying a standardized model across all their assets, they have quantitative performance metrics to compare their different assets. Using Asset Analytics and Notifications, the right personnel could become aware of these situations and take corrective actions immediately. Downtime and idle time events for each asset were generated; a custom application allows the tracking of reason codes and other observations to be recorded in AF and the ERP for further analysis. Visualization was done with PI Coresight and Qlikview BI Dashboards. UNACEM’s effective use of actionable information has allowed them to improve their cement milling runtime by 17%.
 
 [Download Presentation](https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02MM04_UNACEM_JAljovin_ImprovingRuntime.pdf)

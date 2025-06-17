@@ -6,8 +6,7 @@
 
 ## Screenshots
 ![](https://i.imgur.com/1YX3WAL.jpeg)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402104721.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402104721.png)
+![](https://i.imgur.com/aNsmzQY.png)
 ![](https://i.imgur.com/WDtDswf.jpeg)
 ![](https://i.imgur.com/3Jd2IqC.jpeg)
 ![](https://i.imgur.com/RXn0y8E.png)

@@ -7,10 +7,8 @@
 [Year:: 2005]
 [Title:: [Finished Products Quality Control for Discrete Manufacturing Using PI Batch and PI Module Database](https://resources.osisoft.com/presentations/finished-products-quality-control-for-discrete-manufacturing-using-pi-batch-and-pi-module-database/)]
 [PDF:: [PDF](https://cdn.osisoft.com/corp/en/media/presentations/2005/AT_2_6_AVESTOR_Hatch_ALPHA-CYCLING%20v1.pdf)]
-[Products:: [[Product\|Product]]]
-[Business Impacts:: #BusinessImpact/Standardization/ISA88]
-[Screenshots:: #Screenshot/Architecture]
-#Asset/Electrochemistry #Asset/Battery 
+
+#Asset/Electrochemistry #Asset/Battery  #BusinessImpact/Standardization/ISA88 #Screenshot/Architecture
 
 ---
 ## Avestor's Results

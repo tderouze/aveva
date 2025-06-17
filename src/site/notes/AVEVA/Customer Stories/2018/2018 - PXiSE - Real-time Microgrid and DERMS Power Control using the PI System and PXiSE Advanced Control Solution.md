@@ -6,8 +6,7 @@
 
 ---
 ## Screenshots
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250512125256.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250512125256.png)
+![](https://i.imgur.com/STida6D.png)
 
 #### PRESENTATION
 

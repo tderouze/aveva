@@ -5,8 +5,7 @@
 ## Kellogg's Manufacturing Valls's Results
 
 ## Screenshots
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250326205003.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250326205003.png)
+![](https://i.imgur.com/1zatW5s.png)
 ![](https://i.imgur.com/qn0HLWp.jpeg)
 ![](https://i.imgur.com/O1ABUn1.png)
 ![](https://i.imgur.com/xL89Kt7.png)

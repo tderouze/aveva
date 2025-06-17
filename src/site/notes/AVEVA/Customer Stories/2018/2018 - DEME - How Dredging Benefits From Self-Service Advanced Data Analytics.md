@@ -17,8 +17,7 @@
 ![](https://i.imgur.com/fA0bPO0.png)
 ![](https://i.imgur.com/1Gieu3S.png)
 ![](https://i.imgur.com/vpIfgNn.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402105850.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105850.png)
+![](https://i.imgur.com/yg1h62d.png)
 ![](https://i.imgur.com/M53jUT8.png)
 
 #### PRESENTATION

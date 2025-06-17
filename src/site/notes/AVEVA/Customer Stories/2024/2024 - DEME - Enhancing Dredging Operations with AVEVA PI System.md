@@ -13,10 +13,8 @@
 ![](https://i.imgur.com/ZLPjw4r.png)
 ![](https://i.imgur.com/wpEF1Cx.png)
 ![](https://i.imgur.com/bxDyqTe.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402105338.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105338.png)
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250402105325.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250402105325.png)
+![](https://i.imgur.com/58TJ3S1.png)
+![](https://i.imgur.com/oOcHxyd.png)
 ![](https://i.imgur.com/HKKw2js.png)
 
 
