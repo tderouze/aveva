@@ -21,6 +21,33 @@
 ![](https://i.imgur.com/BkTwjUg.png)
 ![](https://i.imgur.com/CT013E9.png)
 
+## Challenge-Solution-Benefit
+### Summary
+Yinson Production AS, a global leader in FPSO operations and sustainability-focused energy infrastructure, deployed AVEVA software solutions to address maintenance inefficiencies, safety risks, and carbon reduction targets. By integrating real-time operational data from DCS/PLC/SCADA systems with asset lifecycle management, they optimized predictive and condition-based maintenance, ensuring proactive system health monitoring. The platform streamlined emissions tracking via automated templates and dashboards aligned with DNV Abate Notation and ESG goals, enabling real-time insights into carbon intensity (kgCO2e/BOE). Key outcomes include reduced costs, improved asset availability, and a culture shift toward data-driven decision-making, supporting their 2030/2050 decarbonization roadmap.
+
+---
+#### Challenges
+Data silos, inefficiencies in maintenance processes, and achieving sustainability targets such as carbon neutrality by 2030 and net zero by 2050. Legacy operational data lacked integration, hindering transparency in maintenance, safety, and carbon footprint management.
+
+#### Solution
+Implemented AVEVA's integrated platform (including AIM, PI Asset Framework, and Engage) to unify real-time operational data with asset lifecycle management. Leveraged predictive analytics, condition-based monitoring, and automated reporting, while integrating DCS/PLC/SCADA data, engineering standards, and CMMS. Adopted DNV Abate notation for emission compliance and a data-centric approach for root-cause analysis and strategy optimization.
+
+#### Benefits
+Enhanced operational efficiency, reduced maintenance costs (up to 30% reduction in carbon intensity by 2030), minimized downtime, and automated reporting with real-time dashboards. Enabled cross-functional collaboration through shared digital environments (e.g., E3D models). Fostered sustainability awareness and transparency across the asset lifecycle, supporting climate goals and a data-driven culture.
+
+---
+### Keywords
+- FPSO
+- AVEVA PI System
+- Digitalization
+- Emissions Reduction
+- Predictive Maintenance
+- Carbon Intensity
+- Asset Lifecycle Management
+- DNV Abate Notation
+- ESG Integration
+- Data-Driven Operations
+
 ## 2024 - AVEVA World - Paris - Infrastructure (Water, Facilities, Transport, Marine, DC)
 
 ### Yinson: How to get the value from Real-Time Operational Data in FPSO for maintenance, safety and carbon footprint
