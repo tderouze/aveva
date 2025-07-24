@@ -13,22 +13,6 @@
 [Business Impacts:: #BusinessImpact/DigitalTwin #BusinessImpact/RTO ]
 [Screenshots:: #Screenshot/PIVision]
 #Product/AVEVA/Notifications ---
-## AGC's Results
-![](https://i.imgur.com/6p1AptN.png)
-
----
-## Screenshots
-![](https://i.imgur.com/lwzdg9u.png)
-![](https://i.imgur.com/FDnEJ1k.png)
-![](https://i.imgur.com/ByTyYfZ.png)
-![](https://i.imgur.com/UAXFsNG.png)
-![](https://i.imgur.com/nNYKxfo.png)
-![](https://i.imgur.com/teLlMJb.png)
-![](https://i.imgur.com/oFfmXxh.png)
-![](https://i.imgur.com/tKDgW8A.png)
-![](https://i.imgur.com/CNnrkn8.png)
-![](https://i.imgur.com/04FafXF.png)
-![](https://i.imgur.com/iu1V2V4.png)
 
 ---
 ## Description

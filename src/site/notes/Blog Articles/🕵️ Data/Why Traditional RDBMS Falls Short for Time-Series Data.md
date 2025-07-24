@@ -41,3 +41,5 @@ Citations:
 [6] https://mostly.ai/blog/times-series
 [7] https://www.influxdata.com/blog/relational-databases-vs-time-series-databases/
 [8] https://cratedb.com/blog/time-series-database-vs-relational-database
+
+[[Blog Articles/🕵️ Data/Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System\|Structured vs. Unstructured Data - Understanding the Difference in AVEVA PI System]]
