@@ -58,8 +58,3 @@ Jerome Boudon
 
 Almost 30 years of experience in Industrial computing in various industries (Semiconductors, Pharmacy, Manufacturing, Automotive, Paper, Power generation). I have been working with AVEVA products during all my career, starting in 1996 with Wonderware Intouch, System Platform, Predictive Analytics and PI System)
 
-#### Session Code
-
-AW24-PAU-D1-SESS-237
-
-![](https://www.aveva.com/content/dam/aveva/images/icons/contact/ContactAVEVA.svg) Contact AVEVA ![](https://www.aveva.com/content/dam/aveva/images/icons/contact/Livechat.svg) Live Chat ![](https://www.aveva.com/content/dam/aveva/images/icons/contact/ScheduleDemo.svg) Schedule Demo ![](https://id.rlcdn.com/464526.gif)

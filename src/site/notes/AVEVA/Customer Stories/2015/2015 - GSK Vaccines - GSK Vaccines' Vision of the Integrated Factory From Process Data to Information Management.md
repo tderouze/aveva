@@ -3,10 +3,8 @@
 ---
 
 
-[Business Impacts:: #BusinessImpact/Standardization/Backbone]
+#BusinessImpact/Standardization/Backbone
 [Benefits:: -40% report approval time; -60% manual BPR entry; +20% production increase]
-[CO2e:: ]
-[Screenshots:: ] 
 #Product/DataSource/DeltaV 
 
 ---
