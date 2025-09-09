@@ -1,6 +1,12 @@
 ---
-{"Title":"2021 - Centralized data infrastructure for management of PayPal data center operations","Year":2021,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/centralized-data-infrastructure-for-management-of-paypal-data-center-operations/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2IN070-Casne-Ewy-Centralized-data-infrastructure-for-manage.pdf","Company":"Casne Engineering","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-casne-engineering-centralized-data-infrastructure-for-management-of-pay-pal-data-center-operations/","dgPassFrontmatter":true}
+{"Title":"2021 - Centralized data infrastructure for management of PayPal data center operations","Year":2021,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/centralized-data-infrastructure-for-management-of-paypal-data-center-operations/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2IN070-Casne-Ewy-Centralized-data-infrastructure-for-manage.pdf","Company":"Casne Engineering","Keywords":["Data Centers","BMS"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-casne-engineering-centralized-data-infrastructure-for-management-of-pay-pal-data-center-operations/","dgPassFrontmatter":true}
 ---
+
+## Screenshots
+![](https://i.imgur.com/y5U1E3O.png)
+![](https://i.imgur.com/eJa5Yei.png)
+![](https://i.imgur.com/sewX2AW.png)
+![](https://i.imgur.com/65dzSrJ.png)
 
 #### PRESENTATION
 

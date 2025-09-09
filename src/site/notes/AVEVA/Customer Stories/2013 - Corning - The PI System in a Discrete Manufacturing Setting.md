@@ -11,22 +11,6 @@
 [Products:: [[Product\|Product]]]
 [Business Impacts:: [[BusinessImpacts\|BusinessImpacts]]]
 [Screenshots:: #Screenshot/PIProcessBook]
-#Product/AVEVA/PIHA #Technology/CMMS #Product/AVEVA/PI-MES #Product/DataSource/Kepware #Product/Tabware
-
----
-## Corning's Results
-
----
-## Screenshots
-![](https://i.imgur.com/rRb3Heq.png)
-![](https://i.imgur.com/HAal30X.png)
-![](https://i.imgur.com/eL46Qkt.png)
-![](https://i.imgur.com/WaHJ6Tj.png)
-![](https://i.imgur.com/zd5kNxw.png)
-![](https://i.imgur.com/SesWkTj.png)
-![](https://i.imgur.com/ghhI83U.png)
-![](https://i.imgur.com/SjNlEbc.png)
-![](https://i.imgur.com/JRhTaZi.png)
 
 ---
 ## Description

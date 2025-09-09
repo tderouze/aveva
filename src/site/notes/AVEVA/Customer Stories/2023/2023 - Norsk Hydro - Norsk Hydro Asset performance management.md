@@ -2,12 +2,22 @@
 {"Title":"Norsk Hydro: Asset performance management","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/norsk-hydro--asset-performance-management/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI08-NorskHydro-Costa-Norsk-Hydro-Asset-performance-management.pdf","Company":"Norsk Hydro","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-norsk-hydro-norsk-hydro-asset-performance-management/","dgPassFrontmatter":true}
 ---
 
+#Screenshot/Architecture  #Screenshot/PIVision #Product/AVEVA/Notifications #Product/AVEVA/APA_PRiSM #Screenshot/APA
+[Benefits:: $4.7M of avoid costs; $2.2M in maintenance; $1.3M in asset scraping; $1.2M in prod losses; +50 early interventions/y]
+
+---
 ## Norsk Hydro's Results
-![](https://i.imgur.com/05mIimo.jpeg)
+![](https://i.imgur.com/RemOxUa.png)
+![](https://i.imgur.com/Wqgphkq.png)
 
+---
 ## Screenshots
-![](https://i.imgur.com/7ZKmtHY.png)
-
+![](https://i.imgur.com/1CmLbnk.png)
+![](https://i.imgur.com/ukNGbsi.png)
+![](https://i.imgur.com/dudJM5o.png)
+![](https://i.imgur.com/tfEnwi7.png)
+![](https://i.imgur.com/pWeps7N.png)
+![](https://i.imgur.com/rtvAPnW.png)
 #### PRESENTATION
 
 ## 2023 - AVEVA World San Francisco - Process Industries (Chemicals, MMM, Pulp/Paper)

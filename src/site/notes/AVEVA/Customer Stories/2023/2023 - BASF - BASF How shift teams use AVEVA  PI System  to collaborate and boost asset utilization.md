@@ -3,9 +3,25 @@
 ---
 
 
+[Benefits:: +280% Time at the desired production rate]
+#Screenshot/Architecture  #BusinessImpact/Standardization/Governance #BusinessImpact/EventFrames 
+
+---
+## BASF's Results
+![](https://i.imgur.com/OuGEK1i.png)
+
+---
 ## Screenshots
-<!--⚠️Imgur upload failed, check dev console-->
-![Pasted image 20250820123405.png](/img/user/07%20-%20Support/Attachments/Pasted%20image%2020250820123405.png)
+![](https://i.imgur.com/bkhqo3K.png)
+![](https://i.imgur.com/TTZ9wER.png)
+![](https://i.imgur.com/NQJIslK.png)
+![](https://i.imgur.com/DnOLZCZ.png)
+![](https://i.imgur.com/FUhjK5h.png)
+![](https://i.imgur.com/OiIaDuT.png)
+![](https://i.imgur.com/luu03oy.png)
+![](https://i.imgur.com/1iHmk9j.png)
+![](https://i.imgur.com/Xgex5uC.png)
+![](https://i.imgur.com/xNo4Imv.png)
 
 #### PRESENTATION
 
