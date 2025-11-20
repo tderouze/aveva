@@ -1,5 +1,5 @@
 ---
-{"Title":"Norsk Hydro: Asset performance management","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/norsk-hydro--asset-performance-management/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI08-NorskHydro-Costa-Norsk-Hydro-Asset-performance-management.pdf","Company":"Norsk Hydro","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-norsk-hydro-norsk-hydro-asset-performance-management/","dgPassFrontmatter":true}
+{"Title":"Norsk Hydro: Asset performance management","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/norsk-hydro--asset-performance-management/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI08-NorskHydro-Costa-Norsk-Hydro-Asset-performance-management.pdf","Company":"Norsk Hydro","Keywords":["CBM","Predictive Maintenance","APA"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-norsk-hydro-norsk-hydro-asset-performance-management/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture  #Screenshot/PIVision #Product/AVEVA/Notifications #Product/AVEVA/APA_PRiSM #Screenshot/APA
