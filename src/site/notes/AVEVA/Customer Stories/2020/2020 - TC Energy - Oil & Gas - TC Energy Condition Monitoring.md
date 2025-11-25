@@ -1,5 +1,5 @@
 ---
-{"Title":"2020 - Oil & Gas - TC Energy Condition Monitoring","Year":2020,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/oil-and-gas-qanda-session---tc-energy-condition-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2OG08-TCEnergy%20-Buse-Condition-Monitoring-Using-Statistical-Machine-Learning-Models-in-PI-AF.pdf","Company":"TC Energy","Keywords":["SQC","Regression","APC"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-tc-energy-oil-and-gas-tc-energy-condition-monitoring/","dgPassFrontmatter":true}
+{"Title":"2020 - Oil & Gas - TC Energy Condition Monitoring","Year":2020,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/oil-and-gas-qanda-session---tc-energy-condition-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2OG08-TCEnergy%20-Buse-Condition-Monitoring-Using-Statistical-Machine-Learning-Models-in-PI-AF.pdf","Company":"TC Energy","Keywords":["Regression","APC","SPC"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-tc-energy-oil-and-gas-tc-energy-condition-monitoring/","dgPassFrontmatter":true}
 ---
 
 ![](https://i.imgur.com/E7R5hvb.png)
