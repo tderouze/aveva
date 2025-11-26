@@ -1,5 +1,5 @@
 ---
-{"Title":"PI System Journey in EP Produzione","Year":"2018","Industry":"Power","URL":"https://resources.osisoft.com/presentations/pi-system-journey-in-ep-produzione/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2PG05-EPProduzione-Annunziata-PI-System-Journey-in-EP-Produzione.pdf","Company":"EP Produzione","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-ep-produzione-pi-system-journey-in-ep-produzione/","dgPassFrontmatter":true}
+{"Title":"PI System Journey in EP Produzione","Year":2018,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/pi-system-journey-in-ep-produzione/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2PG05-EPProduzione-Annunziata-PI-System-Journey-in-EP-Produzione.pdf","Company":"EP Produzione","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-ep-produzione-pi-system-journey-in-ep-produzione/","dgPassFrontmatter":true}
 ---
 
 ## EP Produzione's Results

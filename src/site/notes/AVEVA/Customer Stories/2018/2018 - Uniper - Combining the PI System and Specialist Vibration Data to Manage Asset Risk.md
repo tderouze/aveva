@@ -1,5 +1,5 @@
 ---
-{"Title":"Combining the PI System and Specialist Vibration Data to Manage Asset Risk","Year":2018,"Industry":"Facilities & Data Centers\nOil & Gas\nPower","URL":"https://resources.osisoft.com/presentations/combining-the-pi-system-and-specialist-vibration-data-to-manage-asset-risk/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2PG08-Uniper-Salter-Industry-User-Group-Meeting.pptx.pdf","Company":"Uniper","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-uniper-combining-the-pi-system-and-specialist-vibration-data-to-manage-asset-risk/","dgPassFrontmatter":true}
+{"Title":"Combining the PI System and Specialist Vibration Data to Manage Asset Risk","Year":2018,"Industry":"Facilities & Data Centers\nOil & Gas\nPower","URL":"https://resources.osisoft.com/presentations/combining-the-pi-system-and-specialist-vibration-data-to-manage-asset-risk/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2PG08-Uniper-Salter-Industry-User-Group-Meeting.pptx.pdf","Company":"Uniper","dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-uniper-combining-the-pi-system-and-specialist-vibration-data-to-manage-asset-risk/","dgPassFrontmatter":true}
 ---
 
 ## Uniper's Results

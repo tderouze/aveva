@@ -1,8 +1,8 @@
 ---
-{"Title":"Real-time Data Infrastructure for New Markets; Enable Continuous Access to Data both Offshore and Onshore for the Marine Industry","Year":2013,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/real-time-data-infrastructure-for-new-markets--enable-continuous-access-to-data-both-offshore-and-onshore-for-the-marine-industry/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/EMEA2013/PDF/EMEA13_Kongsberg_Lehn-Pedersen_RealtimeDataInfrastructureforNewMarkets.pdf","Company":"Kongsberg Maritime AS","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-kongsberg-maritime-as-real-time-data-infrastructure-for-new-markets-enable-continuous-access-to-data-both-offshore-and-onshore-for-the-marine-industry/","dgPassFrontmatter":true}
+{"Title":"Real-time Data Infrastructure for New Markets; Enable Continuous Access to Data both Offshore and Onshore for the Marine Industry","Year":2013,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/real-time-data-infrastructure-for-new-markets--enable-continuous-access-to-data-both-offshore-and-onshore-for-the-marine-industry/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/EMEA2013/PDF/EMEA13_Kongsberg_Lehn-Pedersen_RealtimeDataInfrastructureforNewMarkets.pdf","Company":"Kongsberg Maritime","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-kongsberg-maritime-as-real-time-data-infrastructure-for-new-markets-enable-continuous-access-to-data-both-offshore-and-onshore-for-the-marine-industry/","dgPassFrontmatter":true}
 ---
 
-## Kongsberg Maritime AS's Results
+## Kongsberg Maritime's Results
 
 ## Screenshots
 

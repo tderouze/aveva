@@ -1,5 +1,5 @@
 ---
-{"Title":"Transforming Data into Results: The Forzy AIM experience","Year":"2025","Industry":"EPC","URL":"https://www.aveva.com/en/perspectives/presentations/2025/transforming-data-into-results--the-forzy-aim-experience/","PDF":"https://cdn.mediavalet.com/eunl/content/h4RB7FnXUE2Wp2BgUwn1XQ/nRaCLX4pCEOF-_L9S9rz2w/Original/Transforming%20Data%20into%20Results%3A%20The%20Forzy%20AIM%20experience.pdf","Company":"Forzy","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2025/2025-transforming-data-into-results-the-forzy-aim-experience/","dgPassFrontmatter":true}
+{"Title":"Transforming Data into Results: The Forzy AIM experience","Year":2025,"Industry":"EPC","URL":"https://www.aveva.com/en/perspectives/presentations/2025/transforming-data-into-results--the-forzy-aim-experience/","PDF":"https://cdn.mediavalet.com/eunl/content/h4RB7FnXUE2Wp2BgUwn1XQ/nRaCLX4pCEOF-_L9S9rz2w/Original/Transforming%20Data%20into%20Results%3A%20The%20Forzy%20AIM%20experience.pdf","Company":"Forzy","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2025/2025-transforming-data-into-results-the-forzy-aim-experience/","dgPassFrontmatter":true}
 ---
 
 ## Forzy's Results

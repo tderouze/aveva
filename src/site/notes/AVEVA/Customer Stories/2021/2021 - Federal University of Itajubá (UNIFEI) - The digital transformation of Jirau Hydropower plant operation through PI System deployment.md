@@ -1,5 +1,5 @@
 ---
-{"Title":"Implementing a Long Term Asset Management Strategy with the PI System","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/implementing-a-long-term-asset-management-strategy-with-the-pi-system/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG02_CEZ_PreslPetrHoreni_ImplementingaLongTermAssetManagementStrategywiththePISystem.pdf","Company":"CEZ","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-federal-university-of-itajuba-unifei-the-digital-transformation-of-jirau-hydropower-plant-operation-through-pi-system-deployment/","dgPassFrontmatter":true}
+{"Title":"Implementing a Long Term Asset Management Strategy with the PI System","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/implementing-a-long-term-asset-management-strategy-with-the-pi-system/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG02_CEZ_PreslPetrHoreni_ImplementingaLongTermAssetManagementStrategywiththePISystem.pdf","Company":"CEZ","dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-federal-university-of-itajuba-unifei-the-digital-transformation-of-jirau-hydropower-plant-operation-through-pi-system-deployment/","dgPassFrontmatter":true}
 ---
 
 ## CEZ's Results

@@ -1,5 +1,5 @@
 ---
-{"Title":"Operational Excellence in Today's Dynamic Global Energy Market","Year":2013,"Industry":"General","URL":"https://resources.osisoft.com/presentations/operational-excellence-in-today-s-dynamic-global-energy-market/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_IHS_Key_OperationalExcellence_Final.pdf","Company":"IHS","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-ihs-operational-excellence-in-today-s-dynamic-global-energy-market/","dgPassFrontmatter":true}
+{"Title":"Operational Excellence in Today's Dynamic Global Energy Market","Year":2013,"Industry":"General","URL":"https://resources.osisoft.com/presentations/operational-excellence-in-today-s-dynamic-global-energy-market/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_IHS_Key_OperationalExcellence_Final.pdf","Company":"IHS","dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-ihs-operational-excellence-in-today-s-dynamic-global-energy-market/","dgPassFrontmatter":true}
 ---
 
 ## IHS's Results

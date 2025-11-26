@@ -1,8 +1,8 @@
 ---
-{"Title":"Digitalizing the food industry with the PI System","Year":2021,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/digitalizing-the-food-industry-with-the-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2FB040-Kelloggs-Angles-Digitalizing-the-food-industry.pdf","Company":"Kellogg's Manufacturing Valls","Keywords":["CBM","Microstops"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-kellogg-s-manufacturing-valls-digitalizing-the-food-industry-with-the-pi-system/","dgPassFrontmatter":true}
+{"Title":"Digitalizing the food industry with the PI System","Year":2021,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/digitalizing-the-food-industry-with-the-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2FB040-Kelloggs-Angles-Digitalizing-the-food-industry.pdf","Company":"Kellogg","Keywords":["CBM","Microstops"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-kellogg-s-manufacturing-valls-digitalizing-the-food-industry-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
-## Kellogg's Manufacturing Valls's Results
+## Kellogg's Results
 
 ## Screenshots
 ![](https://i.imgur.com/1zatW5s.png)

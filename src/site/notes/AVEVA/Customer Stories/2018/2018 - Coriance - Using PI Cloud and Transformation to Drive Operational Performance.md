@@ -1,5 +1,5 @@
 ---
-{"Title":"Using PI Cloud and Transformation to Drive Operational Performance","Year":2018,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/using-pi-cloud-and-transformation-to-drive-operational-performance/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TD02-Coriance-Michel-Using-PI-Cloud-Transformation-Drive-Operational-Performance.pdf","Company":"Coriance","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-coriance-using-pi-cloud-and-transformation-to-drive-operational-performance/","dgPassFrontmatter":true}
+{"Title":"Using PI Cloud and Transformation to Drive Operational Performance","Year":2018,"Industry":"Facilities & Data Centers","URL":"https://resources.osisoft.com/presentations/using-pi-cloud-and-transformation-to-drive-operational-performance/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TD02-Coriance-Michel-Using-PI-Cloud-Transformation-Drive-Operational-Performance.pdf","Company":"Coriance","dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-coriance-using-pi-cloud-and-transformation-to-drive-operational-performance/","dgPassFrontmatter":true}
 ---
 
 ## Coriance's Results

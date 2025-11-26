@@ -1,5 +1,5 @@
 ---
-{"Title":"Digital Transformation - Unlocking the power of Data - Sanofi","Year":"2022","Industry":"General","URL":"https://resources.osisoft.com/presentations/digital-transformation---unlocking-the-power-of-data---sanofi/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2LS040-Sanofi-Hannes-Bram-Digital-Transformation.pdf","Company":"Sanofi","Keywords":["Bioreactor","Enveloppe"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-sanofi-digital-transformation-unlocking-the-power-of-data-sanofi/","dgPassFrontmatter":true}
+{"Title":"Digital Transformation - Unlocking the power of Data - Sanofi","Year":2022,"Industry":"General","URL":"https://resources.osisoft.com/presentations/digital-transformation---unlocking-the-power-of-data---sanofi/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2LS040-Sanofi-Hannes-Bram-Digital-Transformation.pdf","Company":"Sanofi","Keywords":["Bioreactor","Enveloppe"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-sanofi-digital-transformation-unlocking-the-power-of-data-sanofi/","dgPassFrontmatter":true}
 ---
 
 ## Sanofi's Results

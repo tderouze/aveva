@@ -1,17 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/","dgPassFrontmatter":true}
+{"dg-publish":true,"Year":2006,"Company":"Vattenfall","Industry":"Power","Title":"New IT for Improved Schedule Adherence","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2006/UsersConference/fr-01-01a_lubisch_vattenfall.pdf","tags":["#Asset/Incinerator","#BusinessImpact/Energy/Waste-to-energy","#Screenshot/Architecture","#Screenshot/PIProcessBook"],"permalink":"/aveva/customer-stories/2006-vattenfall-new-it-for-improved-schedule-adherence/","dgPassFrontmatter":true}
 ---
-
-[Company:: Vattenfall]
-[Industry:: #Industry/Power]
-[Year:: 2006]
-[Title:: [New IT for Improved Schedule Adherence](https://resources.osisoft.com/presentations/new-it-for-improved-schedule-adherence/)]
-[PDF:: [PDF](https://cdn.osisoft.com/corp/en/media/presentations/2006/UsersConference/fr-01-01a_lubisch_vattenfall.pdf)]
-[Business Impacts:: #BusinessImpact/Energy/Waste-to-energy  ]
-[Benefits:: ]
-[CO2e:: ]
-[Screenshots:: #Screenshot/Architecture #Screenshot/PIProcessBook  ] 
+ 
 #Asset/Incinerator
+#BusinessImpact/Energy/Waste-to-energy  
+#Screenshot/Architecture #Screenshot/PIProcessBook  
 
 ---
 ## Vattenfall's Results

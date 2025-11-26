@@ -1,5 +1,5 @@
 ---
-{"Title":"Overview of T&D Industry Trends","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/overview-of-tandd-industry-trends/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/TD2015_Carmel/PDF/TD15CA050_Accenture_Knox_OverviewofTDIndustryTrends.pdf","Company":"Accenture","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-accenture-overview-of-t-and-d-industry-trends/","dgPassFrontmatter":true}
+{"Title":"Overview of T&D Industry Trends","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/overview-of-tandd-industry-trends/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/TD2015_Carmel/PDF/TD15CA050_Accenture_Knox_OverviewofTDIndustryTrends.pdf","Company":"Accenture","dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-accenture-overview-of-t-and-d-industry-trends/","dgPassFrontmatter":true}
 ---
 
 ## Accenture's Results

@@ -1,9 +1,7 @@
 ---
-{"Title":"AGC: Development of process simulation based digital twin and how AVEVA  PI System  helped","Year":"2023","Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/agc--development-of-process-simulation%E2%80%93based-digital-twin-and-how-aveva%E2%84%A2-pi-system%E2%84%A2-helped/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-3PRI02-AGC-Kobayashi-Development-of-process-simulation-based-digital-twin.pdf","Company":"AGC Inc.","Keywords":["APS","APS-PI","Process Simulation"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-agc-inc-agc-development-of-process-simulation-based-digital-twin-and-how-aveva-pi-system-helped/","dgPassFrontmatter":true}
+{"Title":"AGC: Development of process simulation based digital twin and how AVEVA  PI System  helped","Year":2023,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/agc--development-of-process-simulation%E2%80%93based-digital-twin-and-how-aveva%E2%84%A2-pi-system%E2%84%A2-helped/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-3PRI02-AGC-Kobayashi-Development-of-process-simulation-based-digital-twin.pdf","Company":"AGC Inc.","Keywords":["APS","APS-PI","Process Simulation"],"dg-publish":true,"Benefits":"6% fuel efficiency = -$400k/y; -3500 tons/y","CO2e":"-3500 tons/y","tags":["#BusinessImpact/DigitalTwin","#BusinessImpact/RTO","#Screenshot/PIVision","#Product/AVEVA/Notifications"],"permalink":"/aveva/customer-stories/2023/2023-agc-inc-agc-development-of-process-simulation-based-digital-twin-and-how-aveva-pi-system-helped/","dgPassFrontmatter":true}
 ---
 
-[Benefits:: 6% fuel efficiency = -$400k/y; -3500 tons/y]
-[CO2e:: -3500 tons/y]
 #BusinessImpact/DigitalTwin #BusinessImpact/RTO 
 #Screenshot/PIVision
 #Product/AVEVA/Notifications 

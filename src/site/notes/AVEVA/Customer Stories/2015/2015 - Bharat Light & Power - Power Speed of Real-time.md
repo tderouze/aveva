@@ -1,5 +1,5 @@
 ---
-{"Title":"Power Speed of Real-time","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/power-speed-of-real-time/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_BharatLightPower_GIyer_PowerSpeedofRealtime.pdf","Company":"Bharat Light & Power","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-bharat-light-and-power-power-speed-of-real-time/","dgPassFrontmatter":true}
+{"Title":"Power Speed of Real-time","Year":2015,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/power-speed-of-real-time/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_BharatLightPower_GIyer_PowerSpeedofRealtime.pdf","Company":"Bharat Light & Power","dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-bharat-light-and-power-power-speed-of-real-time/","dgPassFrontmatter":true}
 ---
 
 ## Bharat Light & Power's Results

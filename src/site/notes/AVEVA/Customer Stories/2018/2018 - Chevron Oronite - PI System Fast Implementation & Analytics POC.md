@@ -1,5 +1,5 @@
 ---
-{"Title":"PI System: Fast Implementation & Analytics POC","Year":"2018","Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/pi-system--fast-implementation-and-analytics-poc/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2IT06-ChevronOronite-DChatel-PISystem-Fast-Implementation-Analytics-POC.pdf","Company":"Chevron Oronite","Keywords":["AVEVA Historian","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-chevron-oronite-pi-system-fast-implementation-and-analytics-poc/","dgPassFrontmatter":true}
+{"Title":"PI System: Fast Implementation & Analytics POC","Year":2018,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/pi-system--fast-implementation-and-analytics-poc/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2IT06-ChevronOronite-DChatel-PISystem-Fast-Implementation-Analytics-POC.pdf","Company":"Chevron Oronite","Keywords":["AVEVA Historian","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-chevron-oronite-pi-system-fast-implementation-and-analytics-poc/","dgPassFrontmatter":true}
 ---
 
 ## Chevron Oronite's Results

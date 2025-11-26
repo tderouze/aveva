@@ -1,5 +1,5 @@
 ---
-{"Title":"Evolution of the PI System in Tenaga's Power Generation Fleet","Year":2012,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/evolution-of-the-pi-system-in-tenaga-s-power-generation-fleet/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/UsersConference2012/PDF/UC2012_Tenaga_DMarkandu_EvolutionOfThePISystem.pdf","Company":"Tenaga Nasional Berhad (TNB)","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2012/2012-tenaga-nasional-berhad-tnb-evolution-of-the-pi-system-in-tenaga-s-power-generation-fleet/","dgPassFrontmatter":true}
+{"Title":"Evolution of the PI System in Tenaga's Power Generation Fleet","Year":2012,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/evolution-of-the-pi-system-in-tenaga-s-power-generation-fleet/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/UsersConference2012/PDF/UC2012_Tenaga_DMarkandu_EvolutionOfThePISystem.pdf","Company":"Tenaga Nasional Berhad (TNB)","dg-publish":true,"permalink":"/aveva/customer-stories/2012/2012-tenaga-nasional-berhad-tnb-evolution-of-the-pi-system-in-tenaga-s-power-generation-fleet/","dgPassFrontmatter":true}
 ---
 
 ## Tenaga Nasional Berhad (TNB)'s Results

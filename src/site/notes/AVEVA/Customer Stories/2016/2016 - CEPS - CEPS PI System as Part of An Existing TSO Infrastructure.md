@@ -1,5 +1,5 @@
 ---
-{"Title":"CEPS: PI System as Part of An Existing TSO Infrastructure","Year":"2016","Industry":"Transmission & Distribution","URL":"https://resources.osisoft.com/presentations/ceps--pi-system-as-part-of-an-existing-tso-infrastructure/","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E060-CEPS-IndSoft-TauerL-CEPS-PI-System-as-Part-of-An-Existing-TSO-Infrastructure.pdf","Company":"CEPS","Keywords":["CDR"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-ceps-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","dgPassFrontmatter":true}
+{"Title":"CEPS: PI System as Part of An Existing TSO Infrastructure","Year":2016,"Industry":"Transmission & Distribution","URL":"https://resources.osisoft.com/presentations/ceps--pi-system-as-part-of-an-existing-tso-infrastructure/","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E060-CEPS-IndSoft-TauerL-CEPS-PI-System-as-Part-of-An-Existing-TSO-Infrastructure.pdf","Company":"CEPS","Keywords":["CDR"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-ceps-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","dgPassFrontmatter":true}
 ---
 
 ## CEPS's Results

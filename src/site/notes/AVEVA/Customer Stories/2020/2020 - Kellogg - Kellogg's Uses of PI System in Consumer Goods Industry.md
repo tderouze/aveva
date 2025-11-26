@@ -5,7 +5,9 @@
 
 ## Kellogg's Results
 ![](https://i.imgur.com/3EVtmTF.png)
-![](https://i.imgur.com/Aq4LROc.png)---
+![](https://i.imgur.com/Aq4LROc.png)
+---
+
 ## Screenshots
 > [!info] Energy Savings
 > ![](https://i.imgur.com/2GGoHP9.png)

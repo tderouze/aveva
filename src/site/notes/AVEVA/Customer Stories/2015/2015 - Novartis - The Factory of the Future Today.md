@@ -1,5 +1,5 @@
 ---
-{"Title":"The Factory of the Future Today","Year":"2015","Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/the-factory-of-the-future-today/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH07_Novartis_Buendia_TheFactoryoftheFutureToday.pdf","Company":"Novartis","Keywords":["OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-novartis-the-factory-of-the-future-today/","dgPassFrontmatter":true}
+{"Title":"The Factory of the Future Today","Year":2015,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/the-factory-of-the-future-today/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH07_Novartis_Buendia_TheFactoryoftheFutureToday.pdf","Company":"Novartis","Keywords":["OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-novartis-the-factory-of-the-future-today/","dgPassFrontmatter":true}
 ---
 
 ## Novartis's Results

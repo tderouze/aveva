@@ -1,0 +1,21 @@
+---
+{"dg-publish":true,"Company":"GSK","Industry":"Pharma","Year":2022,"Title":"Abnormal UV peak shape detection using Align & Zoom, PI Vision feature","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2LS080-GSK-Colocouris-Abnormal-UV-peak-shape-detection.pdf","Country":"UK","Business Impacts":null,"Benefits":"-10M€/y savings","permalink":"/aveva/customer-stories/2022/2022-gsk-abnormal-uv-peak-shape-detection-using-align-and-zoom-pi-vision-feature/","dgPassFrontmatter":true}
+---
+
+#Screenshot/PIVision 
+#Asset/Vaccines   
+
+---
+## GSK's Results
+![](https://i.imgur.com/9RuwGwx.png)
+---
+
+## Screenshots
+![](https://i.imgur.com/SucZMhe.png)
+![](https://i.imgur.com/anJHnEe.png)
+![](https://i.imgur.com/7r1ciro.png)
+![](https://i.imgur.com/TT1npOH.png)
+
+---
+## Description
+Vaccines Production uses chromatography technology during the harvest step of manufacturing. UV signal is collected in real time and visualized by process experts during this step. A reference batch is displayed on the background and the current batch is displayed in real time. This functionality allows to detect when the shape of the peak is abnormal and to react on the process if necessary. The Align and Zoom feature permit to compare batches (events) and child-event during or after production.

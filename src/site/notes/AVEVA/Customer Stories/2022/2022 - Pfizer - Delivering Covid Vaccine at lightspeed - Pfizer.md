@@ -1,5 +1,5 @@
 ---
-{"Title":"Delivering Covid Vaccine at lightspeed - Pfizer","Year":2022,"Industry":"General","URL":"https://resources.osisoft.com/presentations/delivering-covid-vaccine-at-lightspeed---pfizer/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2CP020-Pfizer-De-Winter-Delivering-Covid-Vaccine-At-Lightspeed.pdf","Company":"Pfizer","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-pfizer-delivering-covid-vaccine-at-lightspeed-pfizer/","dgPassFrontmatter":true}
+{"Title":"Delivering Covid Vaccine at lightspeed - Pfizer","Year":2022,"Industry":"General","URL":"https://resources.osisoft.com/presentations/delivering-covid-vaccine-at-lightspeed---pfizer/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2CP020-Pfizer-De-Winter-Delivering-Covid-Vaccine-At-Lightspeed.pdf","Company":"Pfizer","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-pfizer-delivering-covid-vaccine-at-lightspeed-pfizer/","dgPassFrontmatter":true}
 ---
 
 ## Pfizer's Results

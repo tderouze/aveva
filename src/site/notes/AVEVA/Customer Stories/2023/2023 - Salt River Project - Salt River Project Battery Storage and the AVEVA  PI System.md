@@ -1,5 +1,5 @@
 ---
-{"Title":"Salt River Project Battery Storage and the AVEVA  PI System","Year":2023,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/salt-river-project-battery-storage-and-the-aveva%E2%84%A2-pi-system%E2%84%A2/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PAU02-SaltRiverProject-Reppen-Salt-River-Project-Battery-Storage-and-the--PI-System.pdf","Company":"Salt River Project","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-salt-river-project-salt-river-project-battery-storage-and-the-aveva-pi-system/","dgPassFrontmatter":true}
+{"Title":"Salt River Project Battery Storage and the AVEVA  PI System","Year":2023,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/salt-river-project-battery-storage-and-the-aveva%E2%84%A2-pi-system%E2%84%A2/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PAU02-SaltRiverProject-Reppen-Salt-River-Project-Battery-Storage-and-the--PI-System.pdf","Company":"Salt River Project","dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-salt-river-project-salt-river-project-battery-storage-and-the-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## Salt River Project's Results

@@ -1,9 +1,7 @@
 ---
-{"Title":"Pursuit of Operational Excellence at The Hershey Company","Year":"2018","Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/pursuit-of-operational-excellence-at-the-hershey-company/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2LS04-Hershey-RGregg-Pursuit-of-Operational-Excellence-at-The-Hershey-Company.pdf","Company":"The Hershey Company","Keywords":["ISA95","Maintenance","Product Quality","Throughput Performance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-the-hershey-company-pursuit-of-operational-excellence-at-the-hershey-company/","dgPassFrontmatter":true}
+{"Title":"Pursuit of Operational Excellence at The Hershey Company","Year":2018,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/pursuit-of-operational-excellence-at-the-hershey-company/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2LS04-Hershey-RGregg-Pursuit-of-Operational-Excellence-at-The-Hershey-Company.pdf","Company":"The Hershey Company","Keywords":["ISA95","Maintenance","Product Quality","Throughput Performance"],"dg-publish":true,"Business Impacts":null,"Benefits":"-33% maintenance cost; -30% throughput loss; -22% quality loss","tags":["#Asset/Chocolate"],"permalink":"/aveva/customer-stories/2018/2018-the-hershey-company-pursuit-of-operational-excellence-at-the-hershey-company/","dgPassFrontmatter":true}
 ---
 
-[Business Impacts:: #BusinessImpact/Standardization/ITOTConvergence]
-[Benefits:: -33% maintenance cost; -30% throughput loss; -22% quality loss]
  #Asset/Chocolate
 
 ---

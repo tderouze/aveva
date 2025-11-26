@@ -1,5 +1,5 @@
 ---
-{"Title":"Mobile Real-Time Asset Monitoring","Year":2017,"Industry":"General","URL":"https://resources.osisoft.com/presentations/mobile-real-time-asset-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D1EI03-A2A-Andrico-Mobile-Real-Time-Asset-Monitoring-v6.pdf","Company":"A2A s.p.a.","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-groupe-e-pi-system-to-empower-smart-meter-reading/","dgPassFrontmatter":true}
+{"Title":"Mobile Real-Time Asset Monitoring","Year":2017,"Industry":"General","URL":"https://resources.osisoft.com/presentations/mobile-real-time-asset-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D1EI03-A2A-Andrico-Mobile-Real-Time-Asset-Monitoring-v6.pdf","Company":"A2A s.p.a.","dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-groupe-e-pi-system-to-empower-smart-meter-reading/","dgPassFrontmatter":true}
 ---
 
 ## A2A s.p.a.'s Results

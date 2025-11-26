@@ -1,5 +1,5 @@
 ---
-{"Title":"Petronas - Managing Real-Time Data Reliability in Brown Field Digitalisation","Year":"2019","Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/petronas---managing-real-time-data-reliability-in-brown-field-digitalisation/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2OG09-Petronas-Ratnam-Managing-Real-Time-Data-Reliability-in-Brown-Field-Digitalisation.pdf","Company":"PETRONAS","Keywords":["CDR"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-petronas-petronas-managing-real-time-data-reliability-in-brown-field-digitalisation/","dgPassFrontmatter":true}
+{"Title":"Petronas - Managing Real-Time Data Reliability in Brown Field Digitalisation","Year":2019,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/petronas---managing-real-time-data-reliability-in-brown-field-digitalisation/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2OG09-Petronas-Ratnam-Managing-Real-Time-Data-Reliability-in-Brown-Field-Digitalisation.pdf","Company":"PETRONAS","Keywords":["CDR"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-petronas-petronas-managing-real-time-data-reliability-in-brown-field-digitalisation/","dgPassFrontmatter":true}
 ---
 
 ## PETRONAS's Results

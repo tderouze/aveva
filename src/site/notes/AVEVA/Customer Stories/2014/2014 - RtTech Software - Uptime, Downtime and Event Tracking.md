@@ -1,5 +1,5 @@
 ---
-{"Title":"Uptime, Downtime and Event Tracking","Year":2014,"Industry":"General","URL":"https://resources.osisoft.com/presentations/uptime--downtime-and-event-tracking-1x/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/RegionalSeminars/RS2014_HunterValley/UptimeDowntimeEventTracking_RTtech_SRowlands.pdf","Company":"RtTech Software","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-rt-tech-software-uptime-downtime-and-event-tracking/","dgPassFrontmatter":true}
+{"Title":"Uptime, Downtime and Event Tracking","Year":2014,"Industry":"General","URL":"https://resources.osisoft.com/presentations/uptime--downtime-and-event-tracking-1x/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/RegionalSeminars/RS2014_HunterValley/UptimeDowntimeEventTracking_RTtech_SRowlands.pdf","Company":"RtTech Software","dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-rt-tech-software-uptime-downtime-and-event-tracking/","dgPassFrontmatter":true}
 ---
 
 ## RtTech Software's Results

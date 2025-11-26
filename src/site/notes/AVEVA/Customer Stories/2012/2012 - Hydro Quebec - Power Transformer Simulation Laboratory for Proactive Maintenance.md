@@ -1,5 +1,5 @@
 ---
-{"Title":"Power Transformer Simulation Laboratory for Proactive Maintenance","Year":2012,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/power-transformer-simulation-laboratory-for-proactive-maintenance/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/UsersConference2012/PDF/UC2012_HydroQuebec_Vouligny_PowerTransformerSimulationLaboratory.pdf","Company":"Hydro Quebec","Keywords":[null],"dg-publish":true,"permalink":"/aveva/customer-stories/2012/2012-hydro-quebec-power-transformer-simulation-laboratory-for-proactive-maintenance/","dgPassFrontmatter":true}
+{"Title":"Power Transformer Simulation Laboratory for Proactive Maintenance","Year":2012,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/power-transformer-simulation-laboratory-for-proactive-maintenance/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/UsersConference2012/PDF/UC2012_HydroQuebec_Vouligny_PowerTransformerSimulationLaboratory.pdf","Company":"Hydro Quebec","dg-publish":true,"permalink":"/aveva/customer-stories/2012/2012-hydro-quebec-power-transformer-simulation-laboratory-for-proactive-maintenance/","dgPassFrontmatter":true}
 ---
 
 ## Hydro Quebec's Results
