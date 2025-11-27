@@ -1,5 +1,5 @@
 ---
-{"Title":"PI as a Maintenance Tool","Year":2009,"Industry":"Water","URL":"https://resources.osisoft.com/Presentations/PI-as-a-Maintenance-Tool/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2009/RegionalSeminars/WA/PPTs/RS2009_WA_King_County_Ettele.pdf","Company":"King County Wastewater Treatment Division","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2009/2009-king-county-wastewater-treatment-division-pi-as-a-maintenance-tool/","dgPassFrontmatter":true}
+{"Title":"PI as a Maintenance Tool","Year":2009,"Industry":"Infrastructure/Water","URL":"https://resources.osisoft.com/Presentations/PI-as-a-Maintenance-Tool/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2009/RegionalSeminars/WA/PPTs/RS2009_WA_King_County_Ettele.pdf","Company":"King County Wastewater Treatment Division","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2009/2009-king-county-wastewater-treatment-division-pi-as-a-maintenance-tool/","dgPassFrontmatter":true}
 ---
 
 ## King County Wastewater Treatment Division's Results

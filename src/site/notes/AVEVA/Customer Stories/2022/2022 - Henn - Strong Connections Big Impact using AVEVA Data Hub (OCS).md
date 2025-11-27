@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Henn","Industry":"Manufacturing","Year":2022,"Title":"Strong Connections, Big Impact using AVEVA Data Hub","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT020-HENN-Jandl-OSIsoft-Cloud-Services-discrete-manufacturing.pdf","Country":"Austria","Benefits":"+10% efficiency","permalink":"/aveva/customer-stories/2022/2022-henn-strong-connections-big-impact-using-aveva-data-hub-ocs/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Henn","Industry":"Manufacturing","Year":2022,"Title":"Strong Connections, Big Impact using AVEVA Data Hub","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT020-HENN-Jandl-OSIsoft-Cloud-Services-discrete-manufacturing.pdf","Country":"Austria","Benefits":"+10% efficiency","tags":["#Product/AVEVA/ADH","#Screenshot/CustomApp"],"permalink":"/aveva/customer-stories/2022/2022-henn-strong-connections-big-impact-using-aveva-data-hub-ocs/","dgPassFrontmatter":true}
 ---
 
 #Product/AVEVA/ADH #Screenshot/CustomApp  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Alliander","Industry":"T-D","Year":2016,"Title":"Alliander Value of Realtime Data for Improved Grid Performance","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E040-Alliander-Hagemans-Value-of-Real-Time-data-for-Improved-Grid-Performance.pdf","Country":"Netherland","permalink":"/aveva/customer-stories/2016/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Alliander","Industry":"Transmission & Distribution","Year":2016,"Title":"Alliander Value of Realtime Data for Improved Grid Performance","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E040-Alliander-Hagemans-Value-of-Real-Time-data-for-Improved-Grid-Performance.pdf","Country":"Netherland","tags":["#Screenshot/Architecture","#Product/ESRI","#Product/SAS"],"permalink":"/aveva/customer-stories/2016/2016-alliander-alliander-value-of-realtime-data-for-improved-grid-performance/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture#Product/ESRI #Product/SAS  

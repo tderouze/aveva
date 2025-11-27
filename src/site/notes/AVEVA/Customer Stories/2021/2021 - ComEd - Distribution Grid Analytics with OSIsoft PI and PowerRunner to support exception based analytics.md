@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"ComEd","Industry":"T-D","Year":2021,"Title":"Distribution Grid Analytics with OSIsoft PI and PowerRunner to support exception based analytics","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2TD050-ComEd-Thompson-Distribution-Grid-Analytics.pdf","Country":"France","Benefits":"-70% alarms required","permalink":"/aveva/customer-stories/2021/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"ComEd","Industry":"Transmission & Distribution","Year":2021,"Title":"Distribution Grid Analytics with OSIsoft PI and PowerRunner to support exception based analytics","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2TD050-ComEd-Thompson-Distribution-Grid-Analytics.pdf","Country":"France","Benefits":"-70% alarms required","permalink":"/aveva/customer-stories/2021/2021-com-ed-distribution-grid-analytics-with-os-isoft-pi-and-power-runner-to-support-exception-based-analytics/","dgPassFrontmatter":true}
 ---
 
 ## ComEd's Results

@@ -1,5 +1,5 @@
 ---
-{"Title":"Pump Optimization: San Jose Water's AVEVA PI System implementation","Year":2022,"Industry":"Water","URL":"https://resources.osisoft.com/presentations/pump-optimization--san-jose-water-s-aveva-pi-system-implementation/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02WW30-SanJoseWater-Smith-Pump-Optimization.pdf","Company":"San Jose Water","Keywords":["AVEVA Historian","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-san-jose-water-pump-optimization-san-jose-water-s-aveva-pi-system-implementation/","dgPassFrontmatter":true}
+{"Title":"Pump Optimization: San Jose Water's AVEVA PI System implementation","Year":2022,"Industry":"Infrastructure/Water","URL":"https://resources.osisoft.com/presentations/pump-optimization--san-jose-water-s-aveva-pi-system-implementation/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02WW30-SanJoseWater-Smith-Pump-Optimization.pdf","Company":"San Jose Water","Keywords":["AVEVA Historian","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-san-jose-water-pump-optimization-san-jose-water-s-aveva-pi-system-implementation/","dgPassFrontmatter":true}
 ---
 
 ## San Jose Water's Results

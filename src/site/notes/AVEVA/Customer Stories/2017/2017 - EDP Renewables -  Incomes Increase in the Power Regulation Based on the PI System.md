@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"EDP Renewables","Industry":"T-D","Year":2017,"Title":"Incomes Increase in the Power Regulation Based on the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2PG03-EDPREDP-Renewables-Europe-SL-Galn-Incomes-Increase-in-the-Power-Regulation.pdf","Country":"Portugal","Business Impacts":null,"Benefits":"-50% energy losses in restrictions period","permalink":"/aveva/customer-stories/2017/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"EDP Renewables","Industry":"Renewables","Year":2017,"Title":"Incomes Increase in the Power Regulation Based on the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2PG03-EDPREDP-Renewables-Europe-SL-Galn-Incomes-Increase-in-the-Power-Regulation.pdf","Country":"Portugal","Business Impacts":null,"Benefits":"-50% energy losses in restrictions period","tags":["#Screenshot/Architecture","#Screenshot/PIAF"],"permalink":"/aveva/customer-stories/2017/2017-edp-renewables-incomes-increase-in-the-power-regulation-based-on-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture #Screenshot/PIAF

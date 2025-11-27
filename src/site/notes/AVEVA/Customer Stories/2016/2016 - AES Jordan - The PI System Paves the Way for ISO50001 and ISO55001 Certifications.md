@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"AES Jordan","Industry":"Power","Year":2016,"Title":"The PI System Paves the Way for ISO50001 and ISO55001 Certifications","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-Power-Generation-E070-AES-Jordan-Diab-AES-Jordan-The-PI-System-Paves-the-Way-for-ISO50001-and-ISO55001-Certifications.pdf","Country":"Jordan","permalink":"/aveva/customer-stories/2016/2016-aes-jordan-the-pi-system-paves-the-way-for-iso-50001-and-iso-55001-certifications/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"AES Jordan","Industry":"Power","Year":2016,"Title":"The PI System Paves the Way for ISO50001 and ISO55001 Certifications","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-Power-Generation-E070-AES-Jordan-Diab-AES-Jordan-The-PI-System-Paves-the-Way-for-ISO50001-and-ISO55001-Certifications.pdf","Country":"Jordan","tags":["#BusinessImpact/Energy/ISO50001","#BusinessImpact/Energy/EMS"],"permalink":"/aveva/customer-stories/2016/2016-aes-jordan-the-pi-system-paves-the-way-for-iso-50001-and-iso-55001-certifications/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Energy/ISO50001  #BusinessImpact/Energy/EMS

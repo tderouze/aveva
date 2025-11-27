@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"International Paper","Industry":"Pulp-Paper","Year":2023,"Title":"An equipment health journey","Benefits":"-77% Downtime; +70% Reliability","tags":["#Screenshot/Architecture","#Product/AVEVA/APA_PRiSM","#Screenshot/APA"],"permalink":"/aveva/customer-stories/2023/2023-international-paper-an-equipment-health-journey/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"International Paper","Industry":"Pulp & Paper","Year":2023,"Title":"An equipment health journey","Benefits":"-77% Downtime; +70% Reliability","tags":["#Screenshot/Architecture","#Product/AVEVA/APA_PRiSM","#Screenshot/APA"],"permalink":"/aveva/customer-stories/2023/2023-international-paper-an-equipment-health-journey/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture  #Product/AVEVA/APA_PRiSM #Screenshot/APA 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Luminant","Industry":"Nuclear","Year":2015,"Title":"Advanced Monitoring and Diagnostics","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_Luminant_CarterCharlesPike_AdvancedMonitoringandDiagnosticsExperienceatLuminantandtheBenefitsofIndustryCollaboration.pdf","Country":"US","Business Impacts":[["UC List - Maintenance"]],"permalink":"/aveva/customer-stories/2015/2015-luminant-advanced-monitoring-and-diagnostics/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Luminant","Industry":"Nuclear","Year":2015,"Title":"Advanced Monitoring and Diagnostics","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_Luminant_CarterCharlesPike_AdvancedMonitoringandDiagnosticsExperienceatLuminantandtheBenefitsofIndustryCollaboration.pdf","Country":"US","Business Impacts":[["UC List - Maintenance"]],"tags":["#Screenshot/PIProcessBook","#CyberSecurity"],"permalink":"/aveva/customer-stories/2015/2015-luminant-advanced-monitoring-and-diagnostics/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/PIProcessBook#CyberSecurity  

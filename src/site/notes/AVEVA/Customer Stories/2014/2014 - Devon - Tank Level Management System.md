@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"Company":"Devon","Industry":"Oil-Gas","Year":2014,"Title":"Tank Level Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/RegionalSeminars/RS2014_Calgary/PDF/RS2014_Calgary_Devon_Roach_Wong_Tank_Level_Management_System.pdf","Business Impacts":null,"Benefits":"-50% spill volume reduction +18% increase +$250k/year","tags":["#Asset/Tanks","#Asset/Foam","#Screenshot/Architecture","#Screenshot/PIProcessBook","#BusinessImpact/EventFrames","#Product/AVEVA/Notifications"],"permalink":"/aveva/customer-stories/2014/2014-devon-tank-level-management-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Devon","Industry":"Oil & Gas","Year":2014,"Title":"Tank Level Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/RegionalSeminars/RS2014_Calgary/PDF/RS2014_Calgary_Devon_Roach_Wong_Tank_Level_Management_System.pdf","Benefits":"-50% spill volume reduction +18% increase +$250k/year","tags":["#Asset/Tanks","#Asset/Foam","#Screenshot/Architecture","#Screenshot/PIProcessBook","#BusinessImpact/EventFrames","#Product/AVEVA/Notifications"],"permalink":"/aveva/customer-stories/2014/2014-devon-tank-level-management-system/","dgPassFrontmatter":true}
 ---
- 
+
+
 #Asset/Tanks #Asset/Foam
 #Screenshot/Architecture #Screenshot/PIProcessBook #BusinessImpact/EventFrames #Product/AVEVA/Notifications 
 ---

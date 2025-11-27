@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2018,"Title":"Digitization at Uniper","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2PG08-Uniper-SvanAaken-Digitization-at-Uniper.pdf","Country":"Germany","permalink":"/aveva/customer-stories/2018/2018-uniper-digitization-at-uniper/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2018,"Title":"Digitization at Uniper","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2PG08-Uniper-SvanAaken-Digitization-at-Uniper.pdf","Country":"Germany","tags":["#Screenshot/Architecture","#Product/Snowflakes"],"permalink":"/aveva/customer-stories/2018/2018-uniper-digitization-at-uniper/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture#Product/Snowflakes 

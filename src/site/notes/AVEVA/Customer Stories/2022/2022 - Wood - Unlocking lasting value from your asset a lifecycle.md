@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Wood","Industry":"MMM","Year":2022,"Title":"Unlocking lasting value from your asset a lifecycle","tags":["#BusinessImpact/DigitalTwin","#Product/AVEVA/AIM"],"permalink":"/aveva/customer-stories/2022/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Wood","Industry":"Metals Mining & Materials","Year":2022,"Title":"Unlocking lasting value from your asset a lifecycle","tags":["#BusinessImpact/DigitalTwin","#Product/AVEVA/AIM"],"permalink":"/aveva/customer-stories/2022/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/DigitalTwin #Product/AVEVA/AIM 

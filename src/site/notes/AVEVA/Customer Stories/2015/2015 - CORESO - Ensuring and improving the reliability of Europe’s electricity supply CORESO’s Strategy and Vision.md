@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"CORESO","Industry":"T-D","Year":2015,"Title":"Ensuring and improving the reliability of Europe’s electricity supply, CORESO’s Strategy and Vision","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Brussels/PDF/IF2015_Brussels_CORESO_DeLeener_EnsuringandimprovingthereliabilityofEuropeselectricitysupplyCORESOsStrategyandVision.pdf","Country":"Belgium","permalink":"/aveva/customer-stories/2015/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"CORESO","Industry":"Transmission & Distribution","Year":2015,"Title":"Ensuring and improving the reliability of Europe’s electricity supply, CORESO’s Strategy and Vision","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Brussels/PDF/IF2015_Brussels_CORESO_DeLeener_EnsuringandimprovingthereliabilityofEuropeselectricitysupplyCORESOsStrategyandVision.pdf","Country":"Belgium","permalink":"/aveva/customer-stories/2015/2015-coreso-ensuring-and-improving-the-reliability-of-europe-s-electricity-supply-coreso-s-strategy-and-vision/","dgPassFrontmatter":true}
 ---
 
 ## CORESO's Results

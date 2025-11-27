@@ -1,5 +1,5 @@
 ---
-{"Title":"ACCIONA: The journey to digital transformation in water","Year":2023,"Industry":"Water","URL":"https://resources.osisoft.com/presentations/acciona--the-journey-to-digital-transformation-in-water/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1INF02-ACCIONA-Martin-ACCIONA-The-journey-to-digital-transformation-in-water.pdf","Company":"Acciona","Keywords":["System Platform","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-acciona-acciona-the-journey-to-digital-transformation-in-water/","dgPassFrontmatter":true}
+{"Title":"ACCIONA: The journey to digital transformation in water","Year":2023,"Industry":"Infrastructure/Water","URL":"https://resources.osisoft.com/presentations/acciona--the-journey-to-digital-transformation-in-water/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-1INF02-ACCIONA-Martin-ACCIONA-The-journey-to-digital-transformation-in-water.pdf","Company":"Acciona","Keywords":["System Platform","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-acciona-acciona-the-journey-to-digital-transformation-in-water/","dgPassFrontmatter":true}
 ---
 
 ## Acciona's Results

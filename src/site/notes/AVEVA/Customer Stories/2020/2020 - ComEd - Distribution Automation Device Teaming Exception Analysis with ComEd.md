@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"ComEd","Industry":"T-D","Year":2020,"Title":"Distribution Automation Device Teaming Exception Analysis with ComEd","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20NA-D8TD50-ComEd-Thompson-Distribution-Automation.pdf","Country":"France","tags":["#Screenshot/Architecture","#Product/PowerRunner"],"permalink":"/aveva/customer-stories/2020/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"ComEd","Industry":"Transmission & Distribution","Year":2020,"Title":"Distribution Automation Device Teaming Exception Analysis with ComEd","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20NA-D8TD50-ComEd-Thompson-Distribution-Automation.pdf","Country":"France","tags":["#Screenshot/Architecture","#Product/PowerRunner"],"permalink":"/aveva/customer-stories/2020/2020-com-ed-distribution-automation-device-teaming-exception-analysis-with-com-ed/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture#Product/PowerRunner  

@@ -13,6 +13,7 @@
 - General - 2016 - EQT Corporation : [EQT Midstream - Reliability Centered Maintenance Program](https://resources.osisoft.com/Presentations/EQT-Midstream---Reliability-Centered-Maintenance-Program/)
 - General - 2016 - Las Vegas Valley Water District : [Evaluating Efficiency and Predicting Maintenance with Existing Data Using PI AF and Asset Analytics](https://resources.osisoft.com/Presentations/Evaluating-Efficiency-and-Predicting-Maintenance-with-Existing-Data-Using-PI-AF-and-Asset-Analytics/)
 - General - 2017 - STM : [Les actifs fixes du métro, un procédé en continu](https://resources.osisoft.com/presentations/les-actifs-fixes-du-m%C3%A9tro--un-proc%C3%A9d%C3%A9-en-continu/)
+- Infrastructure/Water - 2009 - King County Wastewater Treatment Division : [PI as a Maintenance Tool](https://resources.osisoft.com/Presentations/PI-as-a-Maintenance-Tool/)
 - Metals Mining & Materials - 2022 - Mineração Paragominas : [IoT Vibration Monitoring System interfacing with PI System - Norsk Hydro](https://resources.osisoft.com/presentations/iot-vibration-monitoring-system-interfacing-with-pi-system---norsk-hydro/)
 - Metals Mining & Materials - 2022 - SCG : [How SCG Chemicals  Digital Reliability Platform harnesses AI-infused APM to prevent unplanned downtime](https://resources.osisoft.com/presentations/how-scg-chemicals--digital-reliability-platform-harnesses-ai-infused-apm-to-prevent-unplanned-downtime/)
 - Metals Mining & Materials - 2023 - Norsk Hydro : [Norsk Hydro: Asset performance management](https://resources.osisoft.com/presentations/norsk-hydro--asset-performance-management/)
@@ -25,7 +26,7 @@
 - Oil & Gas - 2019 - Air Liquide : [2019 - How Air Liquide leverages on PI technologies to optimize its operations - SIO.Optim program](https://resources.osisoft.com/presentations/how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations---sio-optim-program/)
 - Oil & Gas - 2022 - INPEX Corporation : [Experiences in Migrating the PI System Infrastructure to Azure - INPEX](https://resources.osisoft.com/presentations/experiences-in-migrating-the-pi-system-infrastructure-to-azure---inpex/)
 - Oil & Gas - 2022 - OMV Exploration & Production GmbH : [OMV Helius data ecosystem with PI System enabling scalable innovation in condition based maintenance](https://resources.osisoft.com/presentations/omv-helius-data-ecosystem-with-pi-system-enabling-scalable-innovation-in-condition-based-maintenance/)
-- Oil Gas and Energy - 2024 - Yinson : [Yinson:  How to get the value from Real-Time Operational Data in FPSO for maintenance, safety and carbon footprint](https://www.aveva.com/en/perspectives/presentations/2024/yinson---how-to-get-the-value-from-real-time-operational-data-in-fpso-for-maintenance--safety-and-carbon-footprint/)
+- Oil & Gas - 2024 - Yinson : [Yinson:  How to get the value from Real-Time Operational Data in FPSO for maintenance, safety and carbon footprint](https://www.aveva.com/en/perspectives/presentations/2024/yinson---how-to-get-the-value-from-real-time-operational-data-in-fpso-for-maintenance--safety-and-carbon-footprint/)
 - Power - 2011 - GenOn Energy : [Proactive Maintenance at GenOn: the Proactive Maintenance Data Gateway Built on the OSIsoft PI System Infrastructure](https://resources.osisoft.com/Presentations/Proactive-Maintenance-at-GenOn--the-Proactive-Maintenance-Data-Gateway-Built-on-the-OSIsoft-PI-System-Infrastructure/)
 - Power - 2015 - Vattenfall : [Deploying a Condition-Based Maintenance Strategy in the Hydro Power Business](https://resources.osisoft.com/presentations/deploying-a-condition-based-maintenance-strategy-in-the-hydro-power-business/)
 - Power - 2016 - ESB : [ESB: Using the PI System in Power Generation Operation and Maintenance to Optimise Commercial, Environmen](https://resources.osisoft.com/Presentations/ESB--Using-the-PI-System-in-Power-Generation-Operation-and-Maintenance-to-Optimise-Commercial--Environmen/)
@@ -36,7 +37,6 @@
 - Power - 2022 - Vattenfall : [Enabling IoT condition based monitoring at Vattenfall Hydro](https://resources.osisoft.com/presentations/enabling-iot-condition-based-monitoring-at-vattenfall-hydro/)
 - Power and Utilities - 2024 - Vattenfall : [Vattenfall Vattenkraft AB:  Create and monitor standardized data structures with AVEVA PI System SDK](https://www.aveva.com/en/perspectives/presentations/2024/vattenfall-vattenkraft-ab---create-and-monitor-standardized-data-structures-with-aveva-pi-system-sdk/)
 - Transportation - 2017 - SNCF Réseau : [Using Operational Data for the Future Maintenance of the French Rail Infrastructure](https://resources.osisoft.com/presentations/using-operational-data-for-the-future-maintenance-of-the-french-rail-infrastructure/)
-- Water - 2009 - King County Wastewater Treatment Division : [PI as a Maintenance Tool](https://resources.osisoft.com/Presentations/PI-as-a-Maintenance-Tool/)
 
 { .block-language-dataview}
 

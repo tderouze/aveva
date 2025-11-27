@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"HSV","Industry":"T-D","Year":2015,"Title":"Improving Business Performance with the PI System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Stockholm/PDF/IF2015_Stockholm_HelenSahkoverkkoOy_Martikainen_ImprovingBusinessPerformancewiththePISystem.pdf","tags":["#Screenshot/Architecture","#Screenshot/PIAF","#Screenshot/PIProcessBook"],"permalink":"/aveva/customer-stories/2015/2015-hsv-improving-business-performance-with-the-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"HSV","Industry":"Transmission & Distribution","Year":2015,"Title":"Improving Business Performance with the PI System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Stockholm/PDF/IF2015_Stockholm_HelenSahkoverkkoOy_Martikainen_ImprovingBusinessPerformancewiththePISystem.pdf","tags":["#Screenshot/Architecture","#Screenshot/PIAF","#Screenshot/PIProcessBook"],"permalink":"/aveva/customer-stories/2015/2015-hsv-improving-business-performance-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture  #Screenshot/PIAF #Screenshot/PIProcessBook

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Blue Solutions","Industry":"Manufacturing","Year":2017,"Title":"PI System Application in EV Battery Manufacturing","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02PI08_BlueSolutions_JLMonfort_EVBatteryManufacturing.pdf","Country":"Canada","Business Impacts":null,"Screenshots":null,"permalink":"/aveva/customer-stories/2017/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Blue Solutions","Industry":"Manufacturing","Year":2017,"Title":"PI System Application in EV Battery Manufacturing","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02PI08_BlueSolutions_JLMonfort_EVBatteryManufacturing.pdf","Country":"Canada","Business Impacts":null,"Screenshots":null,"tags":["#Asset/Battery"],"permalink":"/aveva/customer-stories/2017/2017-blue-solutions-pi-system-application-in-ev-battery-manufacturing/","dgPassFrontmatter":true}
 ---
  
 #Asset/Battery 

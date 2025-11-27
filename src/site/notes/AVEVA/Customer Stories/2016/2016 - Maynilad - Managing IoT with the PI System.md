@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Maynilad","Industry":"Infrastructure/Water","Year":2016,"Title":"Managing IoT with the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d1-GISTrack-E065-CompanyName-Castillo-Maynilad-Water-Services-Managing-IoT-with-the-PI-System.pdf","Country":"Philippines","permalink":"/aveva/customer-stories/2016/2016-maynilad-managing-io-t-with-the-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Maynilad","Industry":"Infrastructure/Water","Year":2016,"Title":"Managing IoT with the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d1-GISTrack-E065-CompanyName-Castillo-Maynilad-Water-Services-Managing-IoT-with-the-PI-System.pdf","Country":"Philippines","tags":["#BusinessImpact/Sustainability/ReducedWaste","#BusinessImpact/Maintenance/Leaks","#Product/ESRI"],"permalink":"/aveva/customer-stories/2016/2016-maynilad-managing-io-t-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Sustainability/ReducedWaste #BusinessImpact/Maintenance/Leaks   #Product/ESRI 

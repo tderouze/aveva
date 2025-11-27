@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Stedin","Industry":"T-D","Year":2017,"Title":"Tapping into the Data Stored in 61850 Based Substations","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TD06-Stedin-vanderMolen-PIConnectorIEC61850.pdf","Country":"Neitherland","tags":["#BusinessImpact/IEC61850","#BusinessImpact/Maintenance","#Screenshot/PIVision","#Screenshot/Architecture","#Asset/Substation"],"permalink":"/aveva/customer-stories/2017/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Stedin","Industry":"Transmission & Distribution","Year":2017,"Title":"Tapping into the Data Stored in 61850 Based Substations","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TD06-Stedin-vanderMolen-PIConnectorIEC61850.pdf","Country":"Neitherland","tags":["#BusinessImpact/IEC61850","#BusinessImpact/Maintenance","#Screenshot/PIVision","#Screenshot/Architecture","#Asset/Substation"],"permalink":"/aveva/customer-stories/2017/2017-stedin-tapping-into-the-data-stored-in-61850-based-substations/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/IEC61850 #BusinessImpact/Maintenance #Screenshot/PIVision #Screenshot/Architecture #Asset/Substation

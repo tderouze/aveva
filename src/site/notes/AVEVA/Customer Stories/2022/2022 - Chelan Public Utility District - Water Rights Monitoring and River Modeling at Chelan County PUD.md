@@ -1,5 +1,5 @@
 ---
-{"Title":"Water Rights Monitoring and River Modeling at Chelan County PUD","Year":2022,"Industry":"Water","URL":"https://resources.osisoft.com/presentations/water-rights-monitoring-and-river-modeling-at-chelan-county-pud/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02WW50-Chelan-PUD-Vanney-Water-Rights-Monitoring-And-River-Modeling.pdf","Company":"Chelan Public Utility District","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-chelan-public-utility-district-water-rights-monitoring-and-river-modeling-at-chelan-county-pud/","dgPassFrontmatter":true}
+{"Title":"Water Rights Monitoring and River Modeling at Chelan County PUD","Year":2022,"Industry":"Infrastructure/Water","URL":"https://resources.osisoft.com/presentations/water-rights-monitoring-and-river-modeling-at-chelan-county-pud/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02WW50-Chelan-PUD-Vanney-Water-Rights-Monitoring-And-River-Modeling.pdf","Company":"Chelan Public Utility District","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-chelan-public-utility-district-water-rights-monitoring-and-river-modeling-at-chelan-county-pud/","dgPassFrontmatter":true}
 ---
 
 ## Chelan Public Utility District's Results

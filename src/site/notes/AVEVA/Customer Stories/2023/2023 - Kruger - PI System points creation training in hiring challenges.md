@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Kruger","Industry":"Pulp-Paper","Year":2023,"Title":"PI System points creation training in hiring challenges","permalink":"/aveva/customer-stories/2023/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Kruger","Industry":"Pulp & Paper","Year":2023,"Title":"PI System points creation training in hiring challenges","permalink":"/aveva/customer-stories/2023/2023-kruger-pi-system-points-creation-training-in-hiring-challenges/","dgPassFrontmatter":true}
 ---
 
 ## Kruger's Results

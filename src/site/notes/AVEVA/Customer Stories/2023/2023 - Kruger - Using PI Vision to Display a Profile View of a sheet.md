@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Kruger","Industry":"Pulp-Paper","Year":2023,"Title":"Using PI Vision to Display a Profile View of a sheet","Screenshots":null,"permalink":"/aveva/customer-stories/2023/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Kruger","Industry":"Pulp & Paper","Year":2023,"Title":"Using PI Vision to Display a Profile View of a sheet","Screenshots":null,"permalink":"/aveva/customer-stories/2023/2023-kruger-using-pi-vision-to-display-a-profile-view-of-a-sheet/","dgPassFrontmatter":true}
 ---
  
 

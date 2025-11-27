@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Tyson Foods","Industry":"CPG","Year":2016,"Title":"Information to Improve Compliance and Quality","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/PH162050_HillshireBrands_Riechert_TysonFoodsMobilizesInformationtoImproveComplianceandQuality.pdf","Country":"US","permalink":"/aveva/customer-stories/2016/2016-tyson-foods-information-to-improve-compliance-and-quality/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Tyson Foods","Industry":"CPG","Year":2016,"Title":"Information to Improve Compliance and Quality","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/PH162050_HillshireBrands_Riechert_TysonFoodsMobilizesInformationtoImproveComplianceandQuality.pdf","Country":"US","tags":["#BusinessImpact/Quality/QualityReport","#BusinessImpact/Quality/Recalls","#BusinessImpact/Quality/ReducedWaste","#BusinessImpact/Sustainability/ReducedWaste","#BusinessImpact/Sustainability/Recalls","#Product/FactoryTalk"],"permalink":"/aveva/customer-stories/2016/2016-tyson-foods-information-to-improve-compliance-and-quality/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Quality/QualityReport #BusinessImpact/Quality/Recalls #BusinessImpact/Quality/ReducedWaste #BusinessImpact/Sustainability/ReducedWaste #BusinessImpact/Sustainability/Recalls#Product/FactoryTalk 

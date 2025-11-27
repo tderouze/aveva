@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"CEPS","Industry":"T-D","Year":2016,"Title":"PI System as Part of An Existing TSO Infrastructure","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E060-CEPS-IndSoft-TauerL-CEPS-PI-System-as-Part-of-An-Existing-TSO-Infrastructure.pdf","Country":"Czech Republic","permalink":"/aveva/customer-stories/2016/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"CEPS","Industry":"Transmission & Distribution","Year":2016,"Title":"PI System as Part of An Existing TSO Infrastructure","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d2-TD-E060-CEPS-IndSoft-TauerL-CEPS-PI-System-as-Part-of-An-Existing-TSO-Infrastructure.pdf","Country":"Czech Republic","tags":["#Screenshot/Architecture","#CustomDataReference"],"permalink":"/aveva/customer-stories/2016/2016-ceps-pi-system-as-part-of-an-existing-tso-infrastructure/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture#CustomDataReference  
