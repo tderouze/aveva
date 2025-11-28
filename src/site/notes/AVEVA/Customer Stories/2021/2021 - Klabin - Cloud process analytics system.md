@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Klabin","Industry":"Pulp & Paper","Year":2021,"Title":"Cloud process analytics system","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM080-Klabin-Bonicenha-Cloud-process-analytics-system.pdf","Country":"Brasil","Business Impacts":null,"Screenshots":null,"tags":["#Heatmap"],"permalink":"/aveva/customer-stories/2021/2021-klabin-cloud-process-analytics-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Klabin","Industry":"Pulp & Paper","Year":2021,"Title":"Cloud process analytics system","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM080-Klabin-Bonicenha-Cloud-process-analytics-system.pdf","Country":"Brasil","Business Impacts":null,"Screenshots":null,"permalink":"/aveva/customer-stories/2021/2021-klabin-cloud-process-analytics-system/","dgPassFrontmatter":true}
 ---
  
 #Heatmap

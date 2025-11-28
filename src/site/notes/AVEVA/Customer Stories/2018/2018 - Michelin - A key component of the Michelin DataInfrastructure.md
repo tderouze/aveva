@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Michelin","Industry":"Manufacturing","Year":2018,"Title":"A key component of the Michelin DataInfrastructure","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR03-Michelin-Chaffraix-OSIsoft-PISystem-Key-Component-Michelin-Data-Infrastructure.pdf","tags":["#BusinessImpact/EventFrames/Genealogy","#BusinessImpact/EventFrames/Traceability"],"permalink":"/aveva/customer-stories/2018/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Michelin","Industry":"Manufacturing","Year":2018,"Title":"A key component of the Michelin DataInfrastructure","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR03-Michelin-Chaffraix-OSIsoft-PISystem-Key-Component-Michelin-Data-Infrastructure.pdf","permalink":"/aveva/customer-stories/2018/2018-michelin-a-key-component-of-the-michelin-data-infrastructure/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/EventFrames/Genealogy #BusinessImpact/EventFrames/Traceability 

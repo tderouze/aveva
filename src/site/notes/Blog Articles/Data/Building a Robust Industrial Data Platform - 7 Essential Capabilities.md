@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"tags":["OperationalData","TechInsider"],"permalink":"/blog-articles/data/building-a-robust-industrial-data-platform-7-essential-capabilities/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["#OperationalData","#TechInsider"],"permalink":"/blog-articles/data/building-a-robust-industrial-data-platform-7-essential-capabilities/","dgPassFrontmatter":true}
 ---
 
-In today's data-driven industrial landscape, a modern [[Unlocking the Power of Real-Time Data Operation Platforms\|Industrial Data Platform]] (IDP) is no longer a luxury, but a necessity. It's the foundation for unlocking insights, optimizing operations, and driving innovation. But what capabilities are _essential_ when building a state-of-the-art IDP? This post outlines seven core capabilities, serving as a guide to help you navigate the complexities of building or selecting the right platform for your needs.
+In today's data-driven industrial landscape, a modern [[Blog Articles/AVEVA PI System/Unlocking the Power of Real-Time Data Operation Platforms\|Industrial Data Platform]] (IDP) is no longer a luxury, but a necessity. It's the foundation for unlocking insights, optimizing operations, and driving innovation. But what capabilities are _essential_ when building a state-of-the-art IDP? This post outlines seven core capabilities, serving as a guide to help you navigate the complexities of building or selecting the right platform for your needs.
 
 Think of this as a starting point for your Request for Information (RFI) or Request for Proposal (RFP) process. This is version one, and we are eager to hear your thoughts. Feel free to leave comments and help us improve this guide. We plan to release a second version in the coming months.
 
@@ -15,7 +15,7 @@ Before we dive in, keep these points in mind:
 
 ## Why "Industrial Data Platform?"
 
-We've intentionally chosen the term "[[Unlocking the Power of Real-Time Data Operation Platforms\|Industrial Data Platform]]" to move beyond outdated terms like "Historian" or overly broad terms like "IoT Platform". This is about a holistic approach to operational data.
+We've intentionally chosen the term "[[Blog Articles/AVEVA PI System/Unlocking the Power of Real-Time Data Operation Platforms\|Industrial Data Platform]]" to move beyond outdated terms like "Historian" or overly broad terms like "IoT Platform". This is about a holistic approach to operational data.
 
 If you are new to the topic, check out these previous blog posts for essential background information:
 - **Part 1** (The IT and OT view on Data)

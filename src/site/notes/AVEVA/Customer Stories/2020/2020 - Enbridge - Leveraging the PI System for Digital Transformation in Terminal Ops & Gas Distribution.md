@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Enbridge","Industry":"Oil & Gas","Year":2020,"Title":"Leveraging the PI System for Digital Transformation in Terminal Ops & Gas Distribution","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2OG03-Enbridge-Textor-Leveraging-the-PI-System-for-Digital-Transformation-in-Terminal-Ops.pdf","Country":"Canada","Business Impacts":null,"Screenshots":null,"tags":["#Asset/Pipelines","#Product/SAS","#Product/PowerBI"],"permalink":"/aveva/customer-stories/2020/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Enbridge","Industry":"Oil & Gas","Year":2020,"Title":"Leveraging the PI System for Digital Transformation in Terminal Ops & Gas Distribution","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2OG03-Enbridge-Textor-Leveraging-the-PI-System-for-Digital-Transformation-in-Terminal-Ops.pdf","Country":"Canada","Business Impacts":null,"Screenshots":null,"permalink":"/aveva/customer-stories/2020/2020-enbridge-leveraging-the-pi-system-for-digital-transformation-in-terminal-ops-and-gas-distribution/","dgPassFrontmatter":true}
 ---
  
 #Asset/Pipelines #Product/SAS #Product/PowerBI 

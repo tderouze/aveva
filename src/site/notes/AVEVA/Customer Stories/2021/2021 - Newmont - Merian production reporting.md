@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Newmont","Industry":"Metals Mining & Materials","Year":2021,"Title":"Merian production reporting","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM880-Newmont-Qin-Merian-Production-Reporting.pdf","Country":"US","tags":["#Screenshot/Architecture","#Screenshot/PIAF","#Product/Mipac/MPA","#Product/AVEVA/PIAFSDK"],"permalink":"/aveva/customer-stories/2021/2021-newmont-merian-production-reporting/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Newmont","Industry":"Metals Mining & Materials","Year":2021,"Title":"Merian production reporting","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM880-Newmont-Qin-Merian-Production-Reporting.pdf","Country":"US","permalink":"/aveva/customer-stories/2021/2021-newmont-merian-production-reporting/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture #Screenshot/PIAF#Product/Mipac/MPA  #Product/AVEVA/PIAFSDK 

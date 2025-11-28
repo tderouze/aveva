@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"RWTH","Industry":"Manufacturing","Year":2017,"Title":"Digital Transformation to Reduce Testing Efforts in Battery Cell Production","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TR03-RWTHAachenU-Lienemann-DigitalTransformReduceTestingBatteryCell.pdf","Country":"Germany","Business Impacts":null,"Benefits":"-20% cost savings -2% scrap rate","tags":["#Screenshot/PIVision","#Asset/Battery"],"permalink":"/aveva/customer-stories/2017/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"RWTH","Industry":"Manufacturing","Year":2017,"Title":"Digital Transformation to Reduce Testing Efforts in Battery Cell Production","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TR03-RWTHAachenU-Lienemann-DigitalTransformReduceTestingBatteryCell.pdf","Country":"Germany","Business Impacts":null,"Benefits":"-20% cost savings -2% scrap rate","permalink":"/aveva/customer-stories/2017/2017-rwth-digital-transformation-to-reduce-testing-efforts-in-battery-cell-production/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/PIVision 

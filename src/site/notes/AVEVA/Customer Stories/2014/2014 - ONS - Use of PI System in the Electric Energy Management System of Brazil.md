@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"ONS","Industry":"Power","Year":2014,"Title":"Use of PI System in the Electric Energy Management System of Brazil","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_Chemtech_Reis_UseofPIintheElectricEnergyManagementSysteminBrazil.pdf","tags":["#Screenshot/Architecture","#BusinessImpact/Energy/EMS"],"permalink":"/aveva/customer-stories/2014/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"ONS","Industry":"Power","Year":2014,"Title":"Use of PI System in the Electric Energy Management System of Brazil","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_Chemtech_Reis_UseofPIintheElectricEnergyManagementSysteminBrazil.pdf","permalink":"/aveva/customer-stories/2014/2014-ons-use-of-pi-system-in-the-electric-energy-management-system-of-brazil/","dgPassFrontmatter":true}
 ---
  
 #Screenshot/Architecture #BusinessImpact/Energy/EMS

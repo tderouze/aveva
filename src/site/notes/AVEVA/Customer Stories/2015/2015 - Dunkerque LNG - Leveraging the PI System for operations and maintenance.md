@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Dunkerque LNG","Industry":"Oil & Gas","Year":2015,"Title":"Leveraging the PI System for operations and maintenance","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Paris/PDF/IF2015_Paris_GazOpale_Planteline_LeveragingthePISystemforoperationsandmaintenanceofDunkerqueLNGterminal.pdf","Country":"France","Business Impacts":null,"tags":["#Asset/Tanks"],"permalink":"/aveva/customer-stories/2015/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Dunkerque LNG","Industry":"Oil & Gas","Year":2015,"Title":"Leveraging the PI System for operations and maintenance","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/IF2015_Paris/PDF/IF2015_Paris_GazOpale_Planteline_LeveragingthePISystemforoperationsandmaintenanceofDunkerqueLNGterminal.pdf","Country":"France","Business Impacts":null,"permalink":"/aveva/customer-stories/2015/2015-dunkerque-lng-leveraging-the-pi-system-for-operations-and-maintenance/","dgPassFrontmatter":true}
 ---
  
 #Asset/Tanks 

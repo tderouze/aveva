@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/data/structured-vs-unstructured-data-understanding-the-difference-in-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["#OperationalData","#TechInsider","#TechComparison"],"permalink":"/blog-articles/data/structured-vs-unstructured-data-understanding-the-difference-in-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 In the world of industrial data management, understanding the difference between structured and unstructured data is crucial for effective data handling and analysis. As AVEVA PI System users, it's essential to grasp these concepts to maximize the value of your data. Let's dive into the key differences and their implications for PI System users.

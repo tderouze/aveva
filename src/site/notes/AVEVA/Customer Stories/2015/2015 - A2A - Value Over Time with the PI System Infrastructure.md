@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"A2A","Industry":null,"Year":2015,"Title":"Value Over Time with the PI System Infrastructure","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG06_a2a_Andrico_ValueOverTimewiththePISystemInfrastructure.pdf","Country":"Italy","tags":["#BusinessImpact/Energy/Waste-to-energy","#Screenshot/Architecture"],"permalink":"/aveva/customer-stories/2015/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"A2A","Industry":null,"Year":2015,"Title":"Value Over Time with the PI System Infrastructure","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG06_a2a_Andrico_ValueOverTimewiththePISystemInfrastructure.pdf","Country":"Italy","permalink":"/aveva/customer-stories/2015/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Energy/Waste-to-energy

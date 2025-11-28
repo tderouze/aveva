@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2019,"Title":"How OSIsoft PI Supports Uniper’s Maintenance Strategy Planning","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG07-UniperSE-vanAaken-How-OSIsoft-PI-supports-Unipers-Maintenance-Strategy-Planning.pdf","Country":"Germany","tags":["#BusinessImpact/Maintenance/PredictiveMaintenance"],"permalink":"/aveva/customer-stories/2019/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2019,"Title":"How OSIsoft PI Supports Uniper’s Maintenance Strategy Planning","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG07-UniperSE-vanAaken-How-OSIsoft-PI-supports-Unipers-Maintenance-Strategy-Planning.pdf","Country":"Germany","permalink":"/aveva/customer-stories/2019/2019-uniper-how-os-isoft-pi-supports-uniper-s-maintenance-strategy-planning/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Maintenance/PredictiveMaintenance

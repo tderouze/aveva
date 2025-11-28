@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["PISystem","Sustainability"],"permalink":"/blog-articles/aveva-pi-system/unlock-maritime-efficiency-and-sustainability-with-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["#PISystem","#Sustainability"],"permalink":"/blog-articles/aveva-pi-system/unlock-maritime-efficiency-and-sustainability-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 The AVEVA PI System offers a wide array of applications for the maritime industry, enhancing vessel performance, ensuring safety, and promoting [[Blog Articles/Sustainability/The ESG Reporting Maturity Journey - From Compliance to Collaboration\|sustainable operations]]. Here are some potential use cases:

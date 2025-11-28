@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"UniEnergy Technologies","Industry":"Power","Year":2015,"Title":"Monitoring Health and Performance of MW Scale Battery Installations","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_UnienergyTechnologies_Gillespie_MonitoringHealthandPerformanceofMWScaleBatteryInstallations.pdf","Country":"US","tags":["#BusinessImpact/Maintenance"],"permalink":"/aveva/customer-stories/2015/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"UniEnergy Technologies","Industry":"Power","Year":2015,"Title":"Monitoring Health and Performance of MW Scale Battery Installations","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_UnienergyTechnologies_Gillespie_MonitoringHealthandPerformanceofMWScaleBatteryInstallations.pdf","Country":"US","permalink":"/aveva/customer-stories/2015/2015-uni-energy-technologies-monitoring-health-and-performance-of-mw-scale-battery-installations/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Maintenance 

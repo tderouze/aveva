@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"GSK","Industry":"Pharmaceuticals & Life Sciences","Year":2022,"Title":"Abnormal UV peak shape detection using Align & Zoom, PI Vision feature","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2LS080-GSK-Colocouris-Abnormal-UV-peak-shape-detection.pdf","Country":"UK","Business Impacts":null,"Benefits":"-10M€/y savings","tags":["#Screenshot/PIVision","#Asset/Vaccines"],"permalink":"/aveva/customer-stories/2022/2022-gsk-abnormal-uv-peak-shape-detection-using-align-and-zoom-pi-vision-feature/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"GSK","Industry":"Pharmaceuticals & Life Sciences","Year":2022,"Title":"Abnormal UV peak shape detection using Align & Zoom, PI Vision feature","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2LS080-GSK-Colocouris-Abnormal-UV-peak-shape-detection.pdf","Country":"UK","Business Impacts":null,"Benefits":"-10M€/y savings","permalink":"/aveva/customer-stories/2022/2022-gsk-abnormal-uv-peak-shape-detection-using-align-and-zoom-pi-vision-feature/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/PIVision 

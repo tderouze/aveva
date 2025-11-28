@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Amentum","Industry":"Nuclear","Year":2023,"Title":"Ensuring data security at the world's largest radioactive waste treatment plant","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PSU07-Amentum-Wipf-Hanford-Vit-Plant-Ensuring-data-security.pdf","tags":["#BusinessImpact/Quality/ReducedWaste","#Screenshot/Architecture","#CyberSecurity/DataDiode","#Product/Waterfall"],"permalink":"/aveva/customer-stories/2023/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Amentum","Industry":"Nuclear","Year":2023,"Title":"Ensuring data security at the world's largest radioactive waste treatment plant","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PSU07-Amentum-Wipf-Hanford-Vit-Plant-Ensuring-data-security.pdf","permalink":"/aveva/customer-stories/2023/2023-amentum-ensuring-data-security-at-the-world-s-largest-radioactive-waste-treatment-plant/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Quality/ReducedWaste

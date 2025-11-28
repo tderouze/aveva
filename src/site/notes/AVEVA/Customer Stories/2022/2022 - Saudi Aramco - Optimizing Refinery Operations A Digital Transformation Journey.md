@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Saudi Aramco","Industry":"Oil & Gas","Year":2022,"Title":"Optimizing Refinery Operations A Digital Transformation Journey","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02OG70-Aramco-Raven-Optimizing-Refinery-Operations.pdf","Country":"Saudi","tags":["#BusinessImpact/RTO","#Product/AVEVA/APO_ROMeo","#Product/AVEVA/APC"],"permalink":"/aveva/customer-stories/2022/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Saudi Aramco","Industry":"Oil & Gas","Year":2022,"Title":"Optimizing Refinery Operations A Digital Transformation Journey","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-02OG70-Aramco-Raven-Optimizing-Refinery-Operations.pdf","Country":"Saudi","permalink":"/aveva/customer-stories/2022/2022-saudi-aramco-optimizing-refinery-operations-a-digital-transformation-journey/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/RTO 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Engie","Industry":"Power","Year":2019,"Title":"The Robin platform: how PI evolved to the core of one of Engie s leading digital platforms","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PG05-Engie-VanBrabant-The-Robin-platform-how-PI-evolved-to-the-core-of-one-of-Engies-lea.pdf","Country":"France","tags":["#Product/SaaS"],"permalink":"/aveva/customer-stories/2019/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Engie","Industry":"Power","Year":2019,"Title":"The Robin platform: how PI evolved to the core of one of Engie s leading digital platforms","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PG05-Engie-VanBrabant-The-Robin-platform-how-PI-evolved-to-the-core-of-one-of-Engies-lea.pdf","Country":"France","permalink":"/aveva/customer-stories/2019/2019-engie-the-robin-platform-how-pi-evolved-to-the-core-of-one-of-engie-s-leading-digital-platforms/","dgPassFrontmatter":true}
 ---
 
 #Product/SaaS  

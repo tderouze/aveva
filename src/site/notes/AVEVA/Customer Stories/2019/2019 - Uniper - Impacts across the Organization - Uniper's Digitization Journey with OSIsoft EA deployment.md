@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2019,"Title":"Uniper's Digitization Journey with OSIsoft EA deployment","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PG04-UniperSE-Zheng-Impacts-across-the-Organization-Unipers-Digitization-Journey-with-OS.pdf","Country":"Germany","tags":["#BusinessImpact/EventFrames","#Screenshot/Architecture","#Screenshot/PIVision","#Product/Tableau","#Product/Databricks","#Product/SAP"],"permalink":"/aveva/customer-stories/2019/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Uniper","Industry":"Power","Year":2019,"Title":"Uniper's Digitization Journey with OSIsoft EA deployment","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PG04-UniperSE-Zheng-Impacts-across-the-Organization-Unipers-Digitization-Journey-with-OS.pdf","Country":"Germany","permalink":"/aveva/customer-stories/2019/2019-uniper-impacts-across-the-organization-uniper-s-digitization-journey-with-os-isoft-ea-deployment/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/EventFrames#Screenshot/Architecture #Screenshot/PIVision#Product/Tableau #Product/Databricks #Product/SAP 

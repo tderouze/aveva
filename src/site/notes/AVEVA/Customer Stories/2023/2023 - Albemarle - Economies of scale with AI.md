@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Albemarle","Industry":"Chemicals","Year":2023,"Title":"Economies of scale with AI","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2CH020-Albemarle-Alexander-Scaling-AI-Albemarle-Intelligence.pdf","Benefits":"-$50M/y","tags":["#Screenshot/Architecture"],"permalink":"/aveva/customer-stories/2023/2023-albemarle-economies-of-scale-with-ai/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Albemarle","Industry":"Chemicals","Year":2023,"Title":"Economies of scale with AI","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2CH020-Albemarle-Alexander-Scaling-AI-Albemarle-Intelligence.pdf","Benefits":"-$50M/y","permalink":"/aveva/customer-stories/2023/2023-albemarle-economies-of-scale-with-ai/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/Architecture

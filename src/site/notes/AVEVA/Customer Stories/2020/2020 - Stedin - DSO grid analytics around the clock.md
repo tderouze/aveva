@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Stedin","Industry":"Transmission & Distribution","Year":2020,"Title":"DSO grid analytics around the clock","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D5UT50-Stedin-vandermolen-Analytics-around-the-clock.pdf","Country":"Neitherland","tags":["#Screenshot/PIVision"],"permalink":"/aveva/customer-stories/2020/2020-stedin-dso-grid-analytics-around-the-clock/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Stedin","Industry":"Transmission & Distribution","Year":2020,"Title":"DSO grid analytics around the clock","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D5UT50-Stedin-vandermolen-Analytics-around-the-clock.pdf","Country":"Neitherland","permalink":"/aveva/customer-stories/2020/2020-stedin-dso-grid-analytics-around-the-clock/","dgPassFrontmatter":true}
 ---
 
 #Screenshot/PIVision

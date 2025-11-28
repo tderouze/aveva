@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Suncor","Industry":"Power","Year":2022,"Title":"Better energy efficiency and production with an asset performance management workflow","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-01PO50-Suncor-Coetzee-Better-energy-efficiency-and-production-with-asset-performance-management.pdf","Country":"Canada","tags":["#BusinessImpact/Maintenance","#BusinessImpact/Energy","#Product/AVEVA/APA_PRiSM","#Product/AVEVA/APO_ROMeo"],"permalink":"/aveva/customer-stories/2022/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Suncor","Industry":"Power","Year":2022,"Title":"Better energy efficiency and production with an asset performance management workflow","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-San-Francisco/UC22NA-01PO50-Suncor-Coetzee-Better-energy-efficiency-and-production-with-asset-performance-management.pdf","Country":"Canada","permalink":"/aveva/customer-stories/2022/2022-suncor-better-energy-efficiency-and-production-with-an-asset-performance-management-workflow/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Maintenance #BusinessImpact/Energy 

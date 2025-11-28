@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"KeySpan","Industry":"Power","Year":2007,"Title":"Creating a Dynamic Response Strategy in the Utilities Market","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2007/UsersConference/mo-04-13c_ragone_keyspan.pdf","tags":["#BusinessImpact/Trading","#Screenshot/Architecture"],"permalink":"/aveva/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"KeySpan","Industry":"Power","Year":2007,"Title":"Creating a Dynamic Response Strategy in the Utilities Market","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2007/UsersConference/mo-04-13c_ragone_keyspan.pdf","permalink":"/aveva/customer-stories/2007-key-span-creating-a-dynamic-response-strategy-in-the-utilities-market/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/Trading#Screenshot/Architecture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Deschutes","Industry":"Food & Beverage","Year":2016,"Title":"Reducing Beer Production Time with Predictions","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d1-EnterpriseInfrastructure-E100-CompanyName-Alex-Deschutes-Brewery-Reducing-Beer-Production-Time-with-Predictions.pdf","Country":"US","tags":["#Asset/Beer"],"permalink":"/aveva/customer-stories/2016/2016-deschutes-reducing-beer-production-time-with-predictions/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Deschutes","Industry":"Food & Beverage","Year":2016,"Title":"Reducing Beer Production Time with Predictions","PDF":"https://cdn.osisoft.com/osi/presentations/2016-users-conference-emea-berlin/2016-users-conference-emea-berlin-d1-EnterpriseInfrastructure-E100-CompanyName-Alex-Deschutes-Brewery-Reducing-Beer-Production-Time-with-Predictions.pdf","Country":"US","permalink":"/aveva/customer-stories/2016/2016-deschutes-reducing-beer-production-time-with-predictions/","dgPassFrontmatter":true}
 ---
 
 #Asset/Beer  
