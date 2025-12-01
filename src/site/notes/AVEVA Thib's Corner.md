@@ -15,15 +15,15 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 ### My Last Blog Post
 
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|Revolutionizing Batch Management with AVEVA PI System]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/The top five advantages of PI Datalink\|The top five advantages of PI Datalink]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlock Maritime Efficiency and Sustainability with AVEVA PI System\|Unlock Maritime Efficiency and Sustainability with AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlocking the Power of the Asset Framework\|Unlocking the Power of the Asset Framework]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlocking the Power of Real-Time Data Operation Platforms\|Unlocking the Power of Real-Time Data Operation Platforms]]
 
 { .block-language-dataview}
 

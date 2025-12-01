@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#TechInsider","#TechComparison"],"permalink":"/blog-articles/data/the-difference-between-enterprise-resource-planning-erp-manufacturing-execution-system-mes-and-historians/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["TechInsider","TechComparison"],"permalink":"/blog-articles/data/the-difference-between-enterprise-resource-planning-erp-manufacturing-execution-system-mes-and-historians/","dgPassFrontmatter":true}
 ---
 
 In the world of industrial software, three key players often steal the spotlight: Enterprise Resource Planning (ERP), Manufacturing Execution System (MES), and Historians. Let's break down these digital powerhouses and see how they differ:

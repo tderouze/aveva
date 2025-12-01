@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#OperationalData"],"permalink":"/blog-articles/data/evolution-of-maintenance-stragegies/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["OperationalData"],"permalink":"/blog-articles/data/evolution-of-maintenance-stragegies/","dgPassFrontmatter":true}
 ---
 
 # The Evolution of Industrial Maintenance: From Break-Fix to Predictive Analytics

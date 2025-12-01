@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#OperationalData","#TechInsider"],"permalink":"/blog-articles/data/building-a-robust-industrial-data-platform-7-essential-capabilities/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["OperationalData","TechInsider"],"permalink":"/blog-articles/data/building-a-robust-industrial-data-platform-7-essential-capabilities/","dgPassFrontmatter":true}
 ---
 
 In today's data-driven industrial landscape, a modern [[Blog Articles/AVEVA PI System/Unlocking the Power of Real-Time Data Operation Platforms\|Industrial Data Platform]] (IDP) is no longer a luxury, but a necessity. It's the foundation for unlocking insights, optimizing operations, and driving innovation. But what capabilities are _essential_ when building a state-of-the-art IDP? This post outlines seven core capabilities, serving as a guide to help you navigate the complexities of building or selecting the right platform for your needs.

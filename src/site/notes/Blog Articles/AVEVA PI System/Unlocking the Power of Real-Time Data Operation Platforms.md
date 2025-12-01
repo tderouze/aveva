@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#Architecture","#OperationalData"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-real-time-data-operation-platforms/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["Architecture","OperationalData"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-real-time-data-operation-platforms/","dgPassFrontmatter":true}
 ---
 
 In today's fast-paced industrial landscape, the ability to harness real-time operational data is crucial for maintaining a competitive edge. Real-Time Data Operation Platforms have emerged as powerful tools that enable businesses to collect, analyze, and visualize data in real-time, driving informed decision-making and operational excellence.

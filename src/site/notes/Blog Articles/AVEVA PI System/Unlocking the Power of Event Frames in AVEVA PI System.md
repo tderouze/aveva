@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["#EventFrames","#PISystem","#AssetFramework"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-event-frames-in-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["EventFrames","PISystem","AssetFramework"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-event-frames-in-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 In today's fast-paced industrial landscape, data management and analysis are crucial for maintaining a competitive edge. AVEVA PI System, a leading data management solution, has revolutionized how industries handle their operational data. One of its most powerful features is Event Frames, which offers numerous advantages for businesses across various sectors. Let's explore why adopting Event Frames in your AVEVA PI System is a game-changer.
