@@ -4,7 +4,7 @@
 
 
 [[AVEVA/Customer Stories/2024/2024 - DEME - Enhancing Dredging Operations with AVEVA PI System\|2024 - DEME - Enhancing Dredging Operations with AVEVA PI System]]
-[[AVEVA/Business Topics/UC List - Ships\|UC List - Ships]]
+[[AVEVA/Business Topics/Industry/UC List - Ships\|UC List - Ships]]
 
 ## DEME's Results
 ![](https://i.imgur.com/0EvgI8Q.png)
