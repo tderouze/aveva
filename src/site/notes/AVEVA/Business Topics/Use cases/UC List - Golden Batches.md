@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-golden-batches/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["#BusinessImpact/EventFrames/GoldenBatch"],"permalink":"/aveva/business-topics/use-cases/uc-list-golden-batches/","dgPassFrontmatter":true}
 ---
 
 #BusinessImpact/EventFrames/GoldenBatch 
