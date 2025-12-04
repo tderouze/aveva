@@ -1,5 +1,5 @@
 ---
-{"Title":"Glatfelter's digital transformation journey to AI/ML-driven operations","Year":"2021","Industry":"Manufacturing","URL":"https://resources.osisoft.com/presentations/glatfelter-s-digital-transformation-journey-to-ai/ml-driven-operations/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM670-Glatfelter-Ruddick-Glatfelters-digital.pdf","Company":"Maya HTT Ltd","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-maya-htt-ltd-glatfelter-s-digital-transformation-journey-to-aiml-driven-operations/","dgPassFrontmatter":true}
+{"Title":"Glatfelter's digital transformation journey to AI/ML-driven operations","Year":"2021","Industry":"Manufacturing","URL":"https://resources.osisoft.com/presentations/glatfelter-s-digital-transformation-journey-to-ai/ml-driven-operations/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM670-Glatfelter-Ruddick-Glatfelters-digital.pdf","Company":"Maya HTT Ltd","Keywords":["Golden Batch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-maya-htt-ltd-glatfelter-s-digital-transformation-journey-to-aiml-driven-operations/","dgPassFrontmatter":true}
 ---
 
 ## Maya HTT Ltd's Results
