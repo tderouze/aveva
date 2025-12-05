@@ -14,19 +14,43 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 
 ### My Last Blog Post
 
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlock Maritime Efficiency and Sustainability with AVEVA PI System\|Unlock Maritime Efficiency and Sustainability with AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|Revolutionizing Batch Management with AVEVA PI System]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Port Operations with AVEVA PI System\|Port Operations with AVEVA PI System]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/The top five advantages of PI Datalink\|The top five advantages of PI Datalink]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlocking the Power of Event Frames in AVEVA PI System\|Unlocking the Power of Event Frames in AVEVA PI System]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|Revolutionizing Batch Management with AVEVA PI System]]
+- 2025-11-28 - [[Blog Articles/AVEVA PI System/Unlock Maritime Efficiency and Sustainability with AVEVA PI System\|Unlock Maritime Efficiency and Sustainability with AVEVA PI System]]
 
 { .block-language-dataview}
 
 ### My Last Youtube Videos
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/l8Cpq6hN_ag?si=YI0I0_LBNDJbGTlG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+<hr><center>
+    <small><span id="visit-counter"><code></code></span> Page Visits</small>
+</center>
+
+<script>
+// Get the current page URL (host + pathname) for consistent counting
+const currentUrl = window.location.host + window.location.pathname;
+const encodedUrl = encodeURIComponent(currentUrl);
+
+fetch(`https://visit-counter.vercel.app/counter?page=${encodedUrl}`)
+  .then(response => response.text())
+  .then(count => {
+    console.log('Visit count:', count);
+    // Optional: Display the count on your page
+    const counterElement = document.getElementById('visit-counter');
+    if (counterElement) {
+      counterElement.innerHTML = `<code>${count}</code>`;
+    }
+  })
+  .catch(error => {
+    console.error('Error fetching visit count:', error);
+  });
+  </script>
