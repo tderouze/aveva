@@ -12,6 +12,31 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="tderouze" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/tderouze?trk=profile-badge">Thibaud de Rouzé</a></div></center>
 
 
+<div id="forest-graph">
+    <div class="forest-body">
+        {% for row in userComputed.forest.trees %}
+        <div class="forest-row">
+            {% for tree in row %}
+            {% if tree[0] == 0 %}
+            <span class="tree plane}">
+                <span></span>
+            </span>
+            {% else %}
+            <a class="tree" href="{{tree[1]}}" title="{{tree[2]}}">
+                <img src="/img/{{tree[0]}}.svg" alt="" style="width: auto;height: {{5 + (10 * tree[3])}}px;" />
+            </a>
+            {% endif %}
+            {% endfor %}
+        </div>
+        {% endfor %}
+    </div>
+    <div class="forest-legends">
+        {% for count in userComputed.forest.legends %}
+        <div class="stat"><img src="/img/{{count.icon}}.svg" alt="{{count.label}}" />{{count.count}} {% if count.count > 1 %}{% if count.plural %}{{count.plural}}{% else %}{{count.label}}s{% endif %}{% else %}{{count.label}}{% endif %}</div>
+        {% endfor %}
+    </div>
+</div>
+
 ### My Last Blog Post
 
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
