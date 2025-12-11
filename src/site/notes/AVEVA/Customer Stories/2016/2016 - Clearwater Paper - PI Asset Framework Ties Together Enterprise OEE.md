@@ -1,5 +1,5 @@
 ---
-{"Title":"PI Asset Framework Ties Together Enterprise OEE for Clearwater Paper","Year":2016,"Industry":null,"URL":"https://resources.osisoft.com/presentations/pi-asset-framework-ties-together-enterprise-oee-for-clearwater-paper/","PDF":"https://cdn.osisoft.com/osi/presentations/2016-rs-seattle/2016-rs-seattle-050-Clearwater-Paper-Bingham-PI-Asset-Framework-Ties-Together-Enterprise-OEE-for-Clearwater-Paper.pdf","Company":"Clearwater Paper","Keywords":["Microstops","OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-clearwater-paper-pi-asset-framework-ties-together-enterprise-oee/","dgPassFrontmatter":true}
+{"Title":"PI Asset Framework Ties Together Enterprise OEE for Clearwater Paper","Year":2016,"Industry":null,"URL":"https://resources.osisoft.com/presentations/pi-asset-framework-ties-together-enterprise-oee-for-clearwater-paper/","PDF":"https://cdn.osisoft.com/osi/presentations/2016-rs-seattle/2016-rs-seattle-050-Clearwater-Paper-Bingham-PI-Asset-Framework-Ties-Together-Enterprise-OEE-for-Clearwater-Paper.pdf","Company":"Clearwater Paper","Tags":["UseCase/EventFrames/Microstops","BusinessImpact/OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-clearwater-paper-pi-asset-framework-ties-together-enterprise-oee/","dgPassFrontmatter":true}
 ---
 
 ## Clearwater Paper's Results

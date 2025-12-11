@@ -1,5 +1,5 @@
 ---
-{"Title":"Experiences in Migrating the PI System Infrastructure to Azure - INPEX","Year":2022,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/experiences-in-migrating-the-pi-system-infrastructure-to-azure---inpex/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2OG530-INPEX-Yamabe-Kawamura-INPEX-unveils-how-we-fully-migrated-PI.pdf","Company":"INPEX Corporation","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-inpex-corporation-experiences-in-migrating-the-pi-system-infrastructure-to-azure-inpex/","dgPassFrontmatter":true}
+{"Title":"Experiences in Migrating the PI System Infrastructure to Azure - INPEX","Year":2022,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/experiences-in-migrating-the-pi-system-infrastructure-to-azure---inpex/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2OG530-INPEX-Yamabe-Kawamura-INPEX-unveils-how-we-fully-migrated-PI.pdf","Company":"INPEX Corporation","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-inpex-corporation-experiences-in-migrating-the-pi-system-infrastructure-to-azure-inpex/","dgPassFrontmatter":true}
 ---
 
 ## INPEX Corporation's Results
@@ -60,7 +60,7 @@ IT experts can focus on supporting process engineers with advanced PI System ana
 
 ---
 ### Keywords
-- PI System
+- PISystem
 - AVEVA
 - Microsoft Azure
 - Migration

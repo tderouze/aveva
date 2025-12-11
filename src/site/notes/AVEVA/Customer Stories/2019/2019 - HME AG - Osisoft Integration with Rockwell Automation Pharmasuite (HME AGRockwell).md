@@ -1,5 +1,5 @@
 ---
-{"Title":"2019 - Osisoft Integration with Rockwell Automation Pharmasuite (HME AG/Rockwell)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/osisoft-integration-with-rockwell-automation-pharmasuite--hme-ag/rockwellx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2LS07-HMEAG-Muehlfriedel-Osisoft-Integration-with-Rockwell-Automation-Pharmasuite.pdf","Company":"HME AG","Keywords":["Golden Batch","CPV","PI-MES","Enveloppe"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-hme-ag-osisoft-integration-with-rockwell-automation-pharmasuite-hme-ag-rockwell/","dgPassFrontmatter":true}
+{"Title":"2019 - Osisoft Integration with Rockwell Automation Pharmasuite (HME AG/Rockwell)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/osisoft-integration-with-rockwell-automation-pharmasuite--hme-ag/rockwellx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2LS07-HMEAG-Muehlfriedel-Osisoft-Integration-with-Rockwell-Automation-Pharmasuite.pdf","Company":"HME AG","Tags":["UseCase/EventFrames/GoldenBatch","BusinessImpact/CPV","PISystem/PI-MES","UseCase/EventFrames/Enveloppe"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-hme-ag-osisoft-integration-with-rockwell-automation-pharmasuite-hme-ag-rockwell/","dgPassFrontmatter":true}
 ---
 
 
@@ -18,8 +18,8 @@
 ![](https://i.imgur.com/x5CIuQu.png)
 ![](https://i.imgur.com/N6mlNtN.png)
 
-#BusinessImpact/EventFrames/GoldenBatch #BusinessImpact/CPV #Screenshot/PIAF
-#Product/AVEVA/PI-MES 
+#UseCase/EventFrames/GoldenBatch #BusinessImpact/CPV #Screenshot/PIAF
+#PISystem/PI-MES 
 
 #### PRESENTATION
 

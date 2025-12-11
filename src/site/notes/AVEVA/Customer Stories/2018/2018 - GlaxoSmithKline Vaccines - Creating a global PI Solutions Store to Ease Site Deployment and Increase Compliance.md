@@ -1,9 +1,9 @@
 ---
-{"Title":"Creating a global PI Solutions Store to Ease Site Deployment and Increase Compliance","Year":2018,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2LS02-GlaxoSmithKline-Cloots-Creating-global-PISolutions-Store-Ease-Site-Deployment-Increase.pdf","Company":"GlaxoSmithKline Vaccines","Keywords":["ISA95"],"dg-publish":true,"Business Impacts":null,"Benefits":"-60% local qualification effort","permalink":"/aveva/customer-stories/2018/2018-glaxo-smith-kline-vaccines-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","dgPassFrontmatter":true}
+{"Title":"Creating a global PI Solutions Store to Ease Site Deployment and Increase Compliance","Year":2018,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2LS02-GlaxoSmithKline-Cloots-Creating-global-PISolutions-Store-Ease-Site-Deployment-Increase.pdf","Company":"GlaxoSmithKline Vaccines","Tags":["UseCase/Standardization/ISA95","UseCase/Standardization/GlobalDeployment"],"dg-publish":true,"Benefits":"-60% local qualification effort","permalink":"/aveva/customer-stories/2018/2018-glaxo-smith-kline-vaccines-creating-a-global-pi-solutions-store-to-ease-site-deployment-and-increase-compliance/","dgPassFrontmatter":true}
 ---
 
 
-#Asset/Vaccines 
+#Scope/Product/Vaccines 
 
 ---
 ## GlaxoSmithKline Vaccines's Results

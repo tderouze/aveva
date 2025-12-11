@@ -1,5 +1,5 @@
 ---
-{"Title":"2020 - Kellogg's Uses of PI System in Consumer Goods Industry","Year":2020,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D6FB32-Kelloggs-Angles-Digital-Transformation-with-PI-System.pdf","Company":"Kellogg","Keywords":["Energy","OEE","Maintenance","Digital Twin","Downtime","Microstops"],"Benefits":["-30% energy consumption","-67% minor stops","+180% MTBF","+76% OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-kellogg-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","dgPassFrontmatter":true}
+{"Title":"2020 - Kellogg's Uses of PI System in Consumer Goods Industry","Year":2020,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D6FB32-Kelloggs-Angles-Digital-Transformation-with-PI-System.pdf","Company":"Kellogg","Tags":["BusinessImpact/Energy","UseCase/EventFrames/Downtime","UseCase/EventFrames/Microstops","BusinessImpact/Maintenance/MTBF","UseCase/DigitalTwin","BusinessImpact/OEE","BusinessImpact/Energy","BusinessImpact/Energy/EnergyConsumption","Screenshot/PIVision","Screenshot/PIAF"],"Benefits":["-30% energy consumption","-67% minor stops","+180% MTBF","+76% OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-kellogg-kellogg-s-uses-of-pi-system-in-consumer-goods-industry/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,8 +28,7 @@
 > ![](https://i.imgur.com/ISvZyS2.png)
 > ![](https://i.imgur.com/QqFhCZx.png)
 
-#BusinessImpact/Maintenance/MTBF  #BusinessImpact/DigitalTwin #BusinessImpact/Analytics/OEE #BusinessImpact/Energy #BusinessImpact/Sustainability/EnergyConsumption
-#Screenshot/PIVision #Screenshot/PIAF
+
 
 #### PRESENTATION
 

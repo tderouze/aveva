@@ -1,5 +1,5 @@
 ---
-{"Title":"The PI System as the Core Data Infrastructure in Dalkia's Energy Management Solution","year":2014,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/the-pi-system-as-the-core-data-infrastructure-in-dalkia-s-energy-management-solution/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/EMEA2014/PDF/EMEA14_DALKIA_Maine_ThePISystemastheCoreDataInfrastructureinDalkiasEnergyManagementSolution.pdf","Company":"DALKIA","Keywords":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-dalkia-the-pi-system-as-the-core-data-infrastructure-in-dalkia-s-energy-management-solution/","dgPassFrontmatter":true}
+{"Title":"The PI System as the Core Data Infrastructure in Dalkia's Energy Management Solution","year":2014,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/the-pi-system-as-the-core-data-infrastructure-in-dalkia-s-energy-management-solution/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/EMEA2014/PDF/EMEA14_DALKIA_Maine_ThePISystemastheCoreDataInfrastructureinDalkiasEnergyManagementSolution.pdf","Company":"DALKIA","Tags":null,"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-dalkia-the-pi-system-as-the-core-data-infrastructure-in-dalkia-s-energy-management-solution/","dgPassFrontmatter":true}
 ---
 
 ## DALKIA's Results

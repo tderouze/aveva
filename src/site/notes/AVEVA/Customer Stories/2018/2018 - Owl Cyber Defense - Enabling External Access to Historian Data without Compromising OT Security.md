@@ -1,5 +1,5 @@
 ---
-{"Title":"Enabling External Access to Historian Data without Compromising OT Security","year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/enabling-external-access-to-historian-data-without-compromising-ot-security/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D3MP04-Owl-Enabling-External-Access-to-Historian-Data-without-Compromising-OT-Security.pdf","Company":"Owl Cyber Defense","Keywords":["Data diode"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-owl-cyber-defense-enabling-external-access-to-historian-data-without-compromising-ot-security/","dgPassFrontmatter":true}
+{"Title":"Enabling External Access to Historian Data without Compromising OT Security","year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/enabling-external-access-to-historian-data-without-compromising-ot-security/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D3MP04-Owl-Enabling-External-Access-to-Historian-Data-without-Compromising-OT-Security.pdf","Company":"Owl Cyber Defense","Tags":["Industry/DataDiode"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-owl-cyber-defense-enabling-external-access-to-historian-data-without-compromising-ot-security/","dgPassFrontmatter":true}
 ---
 
 ## Owl Cyber Defense's Results

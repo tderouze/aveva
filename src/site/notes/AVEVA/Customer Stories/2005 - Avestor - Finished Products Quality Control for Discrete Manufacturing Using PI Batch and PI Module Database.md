@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"Year":2005,"Company":"Avestor","Industry":"Manufacturing","Title":"Finished Products Quality Control for Discrete Manufacturing Using PI Batch and PI Module Database","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2005/AT_2_6_AVESTOR_Hatch_ALPHA-CYCLING%20v1.pdf","permalink":"/aveva/customer-stories/2005-avestor-finished-products-quality-control-for-discrete-manufacturing-using-pi-batch-and-pi-module-database/","dgPassFrontmatter":true}
+{"dg-publish":true,"Year":2005,"Company":"Avestor","Industry":"Manufacturing","Title":"Finished Products Quality Control for Discrete Manufacturing Using PI Batch and PI Module Database","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2005/AT_2_6_AVESTOR_Hatch_ALPHA-CYCLING%20v1.pdf","Tags":["Scope/Process/Electrochemistry","Scope/Product/Battery","UseCase/Standardization/ISA88","Screenshot/Architecture"],"permalink":"/aveva/customer-stories/2005-avestor-finished-products-quality-control-for-discrete-manufacturing-using-pi-batch-and-pi-module-database/","dgPassFrontmatter":true}
 ---
 
-
-#Asset/Electrochemistry #Asset/Battery  #BusinessImpact/Standardization/ISA88 #Screenshot/Architecture
-
----
 ## Avestor's Results
 
 ---

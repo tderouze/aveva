@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"Company":"Yinson","Year":2022,"Industry":"Oil & Gas","permalink":"/aveva/customer-stories/2022/2022-yinson-single-slide/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Yinson","Year":2022,"Industry":"Oil & Gas","Tags":["BusinessImpact/Maintenance","BusinessImpact/Sustainability/GHGEmissions","AVEVA_Product/AIM"],"permalink":"/aveva/customer-stories/2022/2022-yinson-single-slide/","dgPassFrontmatter":true}
 ---
 
-https://aveva.highspot.com/items/646b6fd951f2a37d03cc474a?lfrm=srp.1
-#BusinessImpact/Maintenance #BusinessImpact/Sustainability/GHGEmissions
-
-#Product/AVEVA/AIM 
+https://aveva.highspot.com/items/646b6fd951f2a37d03cc474a?lfrm=srp.1 
 
 ---
 ## Yinson's Results

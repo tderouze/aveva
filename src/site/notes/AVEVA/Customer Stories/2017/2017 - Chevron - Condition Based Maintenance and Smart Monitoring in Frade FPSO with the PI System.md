@@ -1,5 +1,5 @@
 ---
-{"Title":"Condition Based Maintenance and Smart Monitoring in Frade FPSO with the PI System","Year":2017,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/Condition-Based-Maintenance-and-Smart-Monitoring-in-Frade-FPSO-with-the-PI-System/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02OG06_Chevron_CBritto_ConditionBasedMaintenanceandSmartMonitoring.pdf","Company":"Chevron","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-chevron-condition-based-maintenance-and-smart-monitoring-in-frade-fpso-with-the-pi-system/","dgPassFrontmatter":true}
+{"Title":"Condition Based Maintenance and Smart Monitoring in Frade FPSO with the PI System","Year":2017,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/Condition-Based-Maintenance-and-Smart-Monitoring-in-Frade-FPSO-with-the-PI-System/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02OG06_Chevron_CBritto_ConditionBasedMaintenanceandSmartMonitoring.pdf","Company":"Chevron","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-chevron-condition-based-maintenance-and-smart-monitoring-in-frade-fpso-with-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## Chevron's Results
@@ -29,7 +29,7 @@ Results included $350k savings on offshore systems, $300k/year potential savings
 - Condition Based Maintenance
 - CBM
 - Smart Monitoring
-- PI System
+- PISystem
 - PI Coresight
 - PI AF
 - PI Asset Analytics

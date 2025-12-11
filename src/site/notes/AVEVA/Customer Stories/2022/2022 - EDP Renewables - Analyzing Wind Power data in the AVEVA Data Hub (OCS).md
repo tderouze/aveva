@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"EDP Renewables","Industry":"Renewables","Year":2022,"Title":"Analyzing Wind Power data in the AVEVA Data Hub (OCS)","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG030-EDPR-Valencia-Analyzing-Wind-Power-data-in-AVEVA-Data-Hub.pdf","Country":"Portugal","permalink":"/aveva/customer-stories/2022/2022-edp-renewables-analyzing-wind-power-data-in-the-aveva-data-hub-ocs/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"EDP Renewables","Industry":"Renewables","Year":2022,"Title":"Analyzing Wind Power data in the AVEVA Data Hub (OCS)","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG030-EDPR-Valencia-Analyzing-Wind-Power-data-in-AVEVA-Data-Hub.pdf","Country":"Portugal","Tags":["Screenshot/Architecture","AVEVA_Product/CONNECT/CDS","BusinessImpact/Maintenance/PredictiveMaintenance"],"permalink":"/aveva/customer-stories/2022/2022-edp-renewables-analyzing-wind-power-data-in-the-aveva-data-hub-ocs/","dgPassFrontmatter":true}
 ---
 
-#Screenshot/Architecture  #Product/AVEVA/ADH  #BusinessImpact/Maintenance/PredictiveMaintenance 
-
----
 ## EDP Renewables's Results
 ![](https://i.imgur.com/wE2oCDK.png)
 ![](https://i.imgur.com/iJMVl9C.png)

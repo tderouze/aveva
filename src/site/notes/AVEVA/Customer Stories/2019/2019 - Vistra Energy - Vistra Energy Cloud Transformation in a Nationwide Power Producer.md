@@ -1,5 +1,5 @@
 ---
-{"Title":"Vistra Energy: Cloud Transformation in a Nationwide Power Producer","Year":2019,"Industry":"Power","URL":"https://resources.osisoft.com/Presentations/Vistra-Energy--Cloud-Transformation-in-a-Nationwide-Power-Producer/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG04-VistraEnergy-Swann-Vistra-Energy-Cloud-Transformation-in-a-Nationwide-Power.pdf","Company":"Vistra Energy","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-vistra-energy-vistra-energy-cloud-transformation-in-a-nationwide-power-producer/","dgPassFrontmatter":true}
+{"Title":"Vistra Energy: Cloud Transformation in a Nationwide Power Producer","Year":2019,"Industry":"Power","URL":"https://resources.osisoft.com/Presentations/Vistra-Energy--Cloud-Transformation-in-a-Nationwide-Power-Producer/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG04-VistraEnergy-Swann-Vistra-Energy-Cloud-Transformation-in-a-Nationwide-Power.pdf","Company":"Vistra Energy","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-vistra-energy-vistra-energy-cloud-transformation-in-a-nationwide-power-producer/","dgPassFrontmatter":true}
 ---
 
 ## Vistra Energy's Results

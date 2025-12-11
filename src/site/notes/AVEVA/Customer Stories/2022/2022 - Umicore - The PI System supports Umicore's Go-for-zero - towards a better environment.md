@@ -1,10 +1,7 @@
 ---
-{"Title":"The PI System supports Umicore's Go-for-zero - towards a better environment","Year":2022,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/the-pi-system-supports-umicore-s-go-for-zero---towards-a-better-environment/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI060-Umicore-deWolf-PI-System-supports-umicore.pdf","Company":"Umicore","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/","dgPassFrontmatter":true}
+{"Title":"The PI System supports Umicore's Go-for-zero - towards a better environment","Year":2022,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/the-pi-system-supports-umicore-s-go-for-zero---towards-a-better-environment/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI060-Umicore-deWolf-PI-System-supports-umicore.pdf","Company":"Umicore","dg-publish":true,"Tags":["Product/Trendminer","Product/PowerBI","Product/AVEVA/PII4BA","BusinessImpact/Sustainability/GHGEmissions","BusinessImpact/Maintenance/CBM","Screenshot/PIVision","Scope/Equipment/Valve","Scope/Equipment/Motor","BusinessImpact/EventFrames/Instructions"],"permalink":"/aveva/customer-stories/2022/2022-umicore-the-pi-system-supports-umicore-s-go-for-zero-towards-a-better-environment/","dgPassFrontmatter":true}
 ---
 
-#Asset/Valve #Asset/Motor #BusinessImpact/EventFrames/Instructions
-#Product/Trendminer #Product/PowerBI #Product/AVEVA/PII4BA #BusinessImpact/Sustainability/GHGEmissions 
-#Screenshot/PIVision 
 
 ## Umicore's Results
 ![](https://i.imgur.com/sPD5bbG.png)

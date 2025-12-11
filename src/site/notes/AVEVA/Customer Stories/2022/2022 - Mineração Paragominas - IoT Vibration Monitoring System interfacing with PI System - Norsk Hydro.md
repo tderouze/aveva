@@ -1,5 +1,5 @@
 ---
-{"Title":"IoT Vibration Monitoring System interfacing with PI System - Norsk Hydro","Year":2022,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/iot-vibration-monitoring-system-interfacing-with-pi-system---norsk-hydro/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI040-Hydro-Costa-IoT-vibration-monitoring.pdf","Company":"Mineração Paragominas","Keywords":["CBM","Vibrations"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-mineracao-paragominas-io-t-vibration-monitoring-system-interfacing-with-pi-system-norsk-hydro/","dgPassFrontmatter":true}
+{"Title":"IoT Vibration Monitoring System interfacing with PI System - Norsk Hydro","Year":2022,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/iot-vibration-monitoring-system-interfacing-with-pi-system---norsk-hydro/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI040-Hydro-Costa-IoT-vibration-monitoring.pdf","Company":"Mineração Paragominas","Tags":["BusinessImpact/Maintenance/CBM","BusinessImpact/Vibrations"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-mineracao-paragominas-io-t-vibration-monitoring-system-interfacing-with-pi-system-norsk-hydro/","dgPassFrontmatter":true}
 ---
 
 ## Mineração Paragominas's Results

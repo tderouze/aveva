@@ -1,5 +1,5 @@
 ---
-{"Title":"2019 - Advantages of Deploying PI for the Collection of Discrete Data from an Automated Bioreactor Sampling System (Merck)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system--merckx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2LS02-Merck-ONeill-Advantages-of-Deploying-PI-for-the-Collection-of-Discrete-Data-from-an-Automated-Bioreactor.pdf","Company":"Merck & Co., Inc.","Keywords":["Golden Batch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-merck-and-co-inc-advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system-merck/","dgPassFrontmatter":true}
+{"Title":"2019 - Advantages of Deploying PI for the Collection of Discrete Data from an Automated Bioreactor Sampling System (Merck)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system--merckx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2LS02-Merck-ONeill-Advantages-of-Deploying-PI-for-the-Collection-of-Discrete-Data-from-an-Automated-Bioreactor.pdf","Company":"Merck & Co., Inc.","Tags":["UseCase/EventFrames/GoldenBatch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-merck-and-co-inc-advantages-of-deploying-pi-for-the-collection-of-discrete-data-from-an-automated-bioreactor-sampling-system-merck/","dgPassFrontmatter":true}
 ---
 
 ## Merck & Co., Inc.'s Results
@@ -19,7 +19,7 @@
 ![](https://i.imgur.com/uPuCUgK.png)
 ![](https://i.imgur.com/lOt2jJE.png)
 
-#BusinessImpact/EventFrames/GoldenBatch #Screenshot/PIVision #Screenshot/PIDataLink #Screenshot/PIProcessBook #Asset/Bioreactor #Product/SegFlow 
+#UseCase/EventFrames/GoldenBatch #Screenshot/PIVision #Screenshot/PIDataLink #Screenshot/PIProcessBook #Scope/Equipment/Bioreactor #Product/SegFlow 
 
 #### PRESENTATION
 

@@ -25,13 +25,13 @@ Decreasing number of unplanned outages; More effective predictive maintenance; R
 ---
 ### Keywords
 - CEZ
-- PI System
+- PISystem
 - Asset Management
 - Condition Based Monitoring
 - Long Term Operation
 - Energy
 - Power Generation
-- Predictive Maintenance
+- PredictiveMaintenance
 - OT Energy Services
 - LTOs
 - Alarms

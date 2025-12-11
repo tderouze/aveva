@@ -1,5 +1,5 @@
 ---
-{"Title":"CMMS - Extending Condition Based Maintenance Program to Underground Networks","Year":2011,"Industry":"General","URL":"https://resources.osisoft.com/Presentations/CMMS---Extending-Condition-Based-Maintenance-Program-to-Underground-Networks/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2011/RegionalSeminars/PDF/RS2011_NYC_PSEG_Rothweiler_Condition-Based-Maintenance.pdf","Company":"Angie Rothweiler","Keywords":["Maintenance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2011/2011-angie-rothweiler-cmms-extending-condition-based-maintenance-program-to-underground-networks/","dgPassFrontmatter":true}
+{"Title":"CMMS - Extending Condition Based Maintenance Program to Underground Networks","Year":2011,"Industry":"General","URL":"https://resources.osisoft.com/Presentations/CMMS---Extending-Condition-Based-Maintenance-Program-to-Underground-Networks/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2011/RegionalSeminars/PDF/RS2011_NYC_PSEG_Rothweiler_Condition-Based-Maintenance.pdf","Company":"Angie Rothweiler","Tags":["BusinessImpact/Maintenance"],"dg-publish":true,"permalink":"/aveva/customer-stories/2011/2011-angie-rothweiler-cmms-extending-condition-based-maintenance-program-to-underground-networks/","dgPassFrontmatter":true}
 ---
 
 ## Angie Rothweiler's Results

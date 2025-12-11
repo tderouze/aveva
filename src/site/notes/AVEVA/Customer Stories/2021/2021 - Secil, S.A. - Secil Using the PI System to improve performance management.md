@@ -1,5 +1,5 @@
 ---
-{"Title":"Secil: Using the PI System to improve performance management","Year":2021,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/secil--using-the-pi-system-to-improve-performance-management/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM630-SECIL-Moiron-SECIL-Using-PI-System.pdf","Company":"Secil, S.A.","Keywords":["Cement","Sustainability","CO2","Clinker"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-secil-s-a-secil-using-the-pi-system-to-improve-performance-management/","dgPassFrontmatter":true}
+{"Title":"Secil: Using the PI System to improve performance management","Year":2021,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/secil--using-the-pi-system-to-improve-performance-management/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM630-SECIL-Moiron-SECIL-Using-PI-System.pdf","Company":"Secil, S.A.","Tags":["Industry/Cement","BusinessImpact/Sustainability","BusinessImpact/Sustainability/CO2","Scope/Equipment/Clinker"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-secil-s-a-secil-using-the-pi-system-to-improve-performance-management/","dgPassFrontmatter":true}
 ---
 
 ## Secil, S.A.'s Results

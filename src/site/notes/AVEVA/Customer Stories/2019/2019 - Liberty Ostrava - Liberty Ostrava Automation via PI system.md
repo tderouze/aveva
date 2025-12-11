@@ -1,5 +1,5 @@
 ---
-{"Title":"2019 - Liberty Ostrava Automation via PI system","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/liberty-ostrava-automation-via-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PI02-Liberty-Ostrava-Luzny-Liberty-Ostrava-Automation-via-PI-system.pdf","Company":"Liberty Ostrava","Keywords":["Furnace","HVAC","Vibrations"],"Benefits":["+15% quality","-10% loss"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-liberty-ostrava-liberty-ostrava-automation-via-pi-system/","dgPassFrontmatter":true}
+{"Title":"2019 - Liberty Ostrava Automation via PI system","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/liberty-ostrava-automation-via-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2PI02-Liberty-Ostrava-Luzny-Liberty-Ostrava-Automation-via-PI-system.pdf","Company":"Liberty Ostrava","Tags":["Scope/Equipment/Furnace","Scope/Equipment/HVAC","BusinessImpact/Vibrations"],"Benefits":["+15% quality","-10% loss"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-liberty-ostrava-liberty-ostrava-automation-via-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## Liberty Ostrava's Results

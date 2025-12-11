@@ -24,11 +24,11 @@ Real-time access to operational data. Automated and Manual data captured with on
 
 ---
 ### Keywords
-- PI System
+- PISystem
 - Cloud
 - Operational Performance
 - District Heating
-- Data Management
+- DataManagement
 - Azure
 - Legacy Systems
 - Automation

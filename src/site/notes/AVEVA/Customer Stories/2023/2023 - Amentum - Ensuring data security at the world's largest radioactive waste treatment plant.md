@@ -4,7 +4,7 @@
 
 #BusinessImpact/Quality/ReducedWaste
 #Screenshot/Architecture 
-#CyberSecurity/DataDiode #Product/Waterfall 
+#Industry/DataDiode #Product/Waterfall 
 
 ---
 ## Amentum's Results

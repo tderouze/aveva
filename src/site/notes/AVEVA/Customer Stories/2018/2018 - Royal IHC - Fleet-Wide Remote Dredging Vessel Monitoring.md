@@ -1,5 +1,5 @@
 ---
-{"Title":"Fleet-Wide Remote Dredging Vessel Monitoring","year":2018,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/fleet-wide-remote-dredging-vessel-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR06-RoyalIHC-Thakker-Fleet-Wide-Remote-Dredging-Vessel-Monitoring.pdf","Company":"Royal IHC","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-royal-ihc-fleet-wide-remote-dredging-vessel-monitoring/","dgPassFrontmatter":true}
+{"Title":"Fleet-Wide Remote Dredging Vessel Monitoring","year":2018,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/fleet-wide-remote-dredging-vessel-monitoring/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2TR06-RoyalIHC-Thakker-Fleet-Wide-Remote-Dredging-Vessel-Monitoring.pdf","Company":"Royal IHC","Tags":["Industry/Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-royal-ihc-fleet-wide-remote-dredging-vessel-monitoring/","dgPassFrontmatter":true}
 ---
 
 ## Royal IHC's Results

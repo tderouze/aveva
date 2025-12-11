@@ -30,7 +30,7 @@ Enables prioritization of downtime reasons, identifies issues preventing product
 - OEE
 - MTBF
 - MTTR
-- PI System
+- PISystem
 - OSIsoft
 - Asset Availability
 - Uptime

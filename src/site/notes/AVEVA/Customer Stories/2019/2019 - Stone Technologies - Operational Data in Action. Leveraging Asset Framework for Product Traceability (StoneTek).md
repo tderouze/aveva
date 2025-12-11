@@ -1,5 +1,5 @@
 ---
-{"Title":"2019 - Operational Data in Action. Leveraging Asset Framework for Product Traceability (StoneTek)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/operational-data-in-action--leveraging-asset-framework-for-product-traceability--stonetekx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2FB02-StoneTechnologies-Gallant-Operational-Data-in-Action-Leveraging-Asset-Framework.pdf","Company":"Stone Technologies","Keywords":["Golden Batch","Traceability","Genealogy"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-stone-technologies-operational-data-in-action-leveraging-asset-framework-for-product-traceability-stone-tek/","dgPassFrontmatter":true}
+{"Title":"2019 - Operational Data in Action. Leveraging Asset Framework for Product Traceability (StoneTek)","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/presentations/operational-data-in-action--leveraging-asset-framework-for-product-traceability--stonetekx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2FB02-StoneTechnologies-Gallant-Operational-Data-in-Action-Leveraging-Asset-Framework.pdf","Company":"Stone Technologies","Tags":["UseCase/EventFrames/GoldenBatch","UseCase/EventFrames/Traceability","UseCase/EventFrames/Genealogy"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-stone-technologies-operational-data-in-action-leveraging-asset-framework-for-product-traceability-stone-tek/","dgPassFrontmatter":true}
 ---
 
 
@@ -15,8 +15,8 @@
 ![](https://i.imgur.com/e20si0T.png)
 ![](https://i.imgur.com/CYokWCR.png)
 
-#BusinessImpact/EventFrames/Traceability #BusinessImpact/EventFrames/GoldenBatch   #BusinessImpact/EventFrames/Genealogy
-#CustomDataReference 
+#UseCase/EventFrames/Traceability #UseCase/EventFrames/GoldenBatch   #UseCase/EventFrames/Genealogy
+#Technology/CustomDataReference 
 
 #### PRESENTATION
 

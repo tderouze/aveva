@@ -1,5 +1,5 @@
 ---
-{"Title":"Harnessing the power of human ingenuity at Kellogg's","Year":2022,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/harnessing-the-power-of-human-ingenuity-at-kellogg-s/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D1KY050-Kellogg-Dean-The-Role-Of-Human-Ingenuity.pdf","Company":"Kellogg","Keywords":["Energy","Digital Twin"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-kellogg-harnessing-the-power-of-human-ingenuity-at-kellogg-s/","dgPassFrontmatter":true}
+{"Title":"Harnessing the power of human ingenuity at Kellogg's","Year":2022,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/harnessing-the-power-of-human-ingenuity-at-kellogg-s/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D1KY050-Kellogg-Dean-The-Role-Of-Human-Ingenuity.pdf","Company":"Kellogg","Tags":["BusinessImpact/Energy","UseCase/DigitalTwin"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-kellogg-harnessing-the-power-of-human-ingenuity-at-kellogg-s/","dgPassFrontmatter":true}
 ---
 
 ## Kellogg's Results

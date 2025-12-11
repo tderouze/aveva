@@ -1,5 +1,5 @@
 ---
-{"Title":"Enabling IoT condition based monitoring at Vattenfall Hydro","Year":2022,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/enabling-iot-condition-based-monitoring-at-vattenfall-hydro/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG070-Vattenfall-Deden-Enabling-IoT-Condition-Based-Monitoring.pdf","Company":"Vattenfall","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-vattenfall-enabling-io-t-condition-based-monitoring-at-vattenfall-hydro/","dgPassFrontmatter":true}
+{"Title":"Enabling IoT condition based monitoring at Vattenfall Hydro","Year":2022,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/enabling-iot-condition-based-monitoring-at-vattenfall-hydro/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG070-Vattenfall-Deden-Enabling-IoT-Condition-Based-Monitoring.pdf","Company":"Vattenfall","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-vattenfall-enabling-io-t-condition-based-monitoring-at-vattenfall-hydro/","dgPassFrontmatter":true}
 ---
 
 ## Vattenfall's Results

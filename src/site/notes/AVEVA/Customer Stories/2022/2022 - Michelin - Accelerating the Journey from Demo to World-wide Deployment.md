@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Michelin","Industry":"Manufacturing","Year":2022,"Title":"Accelerating the Journey from Demo to World-wide Deployment","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT040-Michelin-Rodrigues-accelerated-journey-from-demonstrator-to-worldwide-usage.pdf","Country":"France","Business Impacts":"Energy Management, Maintenance","Benefits":"-10% energy consumption","Energy Consumption":"-10%","permalink":"/aveva/customer-stories/2022/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Michelin","Industry":"Manufacturing","Year":2022,"Title":"Accelerating the Journey from Demo to World-wide Deployment","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT040-Michelin-Rodrigues-accelerated-journey-from-demonstrator-to-worldwide-usage.pdf","Country":"France","Business Impacts":"Energy Management, Maintenance","Benefits":"-10% energy consumption","Energy Consumption":"-10%","Tags":["UseCase/Standardization/Organization","Screenshot/Architecture","UseCase/Standardization/GlobalDeployment","BusinessImpact/Energy","UseCase/EventFrames/CycleTime","BusinessImpact/Maintenance","Screenshot/PIVision","Screenshot/PIAF"],"permalink":"/aveva/customer-stories/2022/2022-michelin-accelerating-the-journey-from-demo-to-world-wide-deployment/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Standardization/Organization #Screenshot/Architecture #BusinessImpact/Standardization/GlobalDeployment #BusinessImpact/Energy #BusinessImpact/EventFrames/CycleTime #BusinessImpact/Maintenance #Screenshot/PIVision #Screenshot/PIAF 
-
----
 ## Michelin's Results
 ![](https://i.imgur.com/SWAZRzh.png)
 

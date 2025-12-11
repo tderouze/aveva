@@ -1,5 +1,5 @@
 ---
-{"Title":"2018 - AGL Energy’s Real-Time Data Journey Continues","Year":2018,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/agl-energy-s-real-time-data-journey-continues/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2PG03-AGL_Energy-DBartolo-AGL-Energys-Real-Time-Data-Journey-Continues.pdf","Company":"AGL Energy","Keywords":["Hydrogen"],"Benefits":["-60% Maintenance time"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-agl-energy-agl-energy-s-real-time-data-journey-continues/","dgPassFrontmatter":true}
+{"Title":"2018 - AGL Energy’s Real-Time Data Journey Continues","Year":2018,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/agl-energy-s-real-time-data-journey-continues/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2PG03-AGL_Energy-DBartolo-AGL-Energys-Real-Time-Data-Journey-Continues.pdf","Company":"AGL Energy","Tags":["Industry/Hydrogen"],"Benefits":["-60% Maintenance time"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-agl-energy-agl-energy-s-real-time-data-journey-continues/","dgPassFrontmatter":true}
 ---
 
 ## AGL Energy's Results
@@ -18,7 +18,7 @@
 ![](https://i.imgur.com/fMd4FDH.png)
 ![](https://i.imgur.com/CfIkkEW.png)
 
-#Asset/Hydrogen  #Product/Predict #Product/SAP #Screenshot/PIVision
+#Industry/Hydrogen  #Product/Predict #Product/SAP #Screenshot/PIVision
 
 #### PRESENTATION
 

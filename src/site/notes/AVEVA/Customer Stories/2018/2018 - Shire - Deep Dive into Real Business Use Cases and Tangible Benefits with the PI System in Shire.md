@@ -24,12 +24,12 @@ Improved centrifuge assembling, reduced maintenance costs, less production impac
 
 ---
 ### Keywords
-- PI System
+- PISystem
 - AVEVA
 - Shire
 - Pharmaceuticals
 - Manufacturing
-- Predictive Maintenance
+- PredictiveMaintenance
 - Condition Based Maintenance
 - Technical Control Center
 - Data Analysis

@@ -1,12 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Bayer","Industry":"Chemicals","Year":2012,"Title":"Requirements & Benefits of an Energy Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/RegionalSeminars/Germany/PDF/RS2012_DACH_Frankfurt_Bayer_MaterialScience_Then_Energy_Management_BayerMaterialScience.pdf","permalink":"/aveva/customer-stories/2012/2012-bayer-requirements-and-benefits-of-an-energy-management-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Bayer","Industry":"Chemicals","Year":2012,"Title":"Requirements & Benefits of an Energy Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2012/RegionalSeminars/Germany/PDF/RS2012_DACH_Frankfurt_Bayer_MaterialScience_Then_Energy_Management_BayerMaterialScience.pdf","Tags":["BusinessImpact/Energy/EnergyLossCascade","BusinessImpact/Sustainability/GHGEmissions","BusinessImpact/Energy/EnergyManagementSystem"],"permalink":"/aveva/customer-stories/2012/2012-bayer-requirements-and-benefits-of-an-energy-management-system/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/EnergyLossCascade #BusinessImpact/Sustainability/GHGEmissions 
-#BusinessImpact/Sustainability/EnergyLossCascade #BusinessImpact/Energy/EMS
- 
-
----
 ## Bayer's Results
 ![](https://i.imgur.com/ojnWqQw.png)
 ![](https://i.imgur.com/KmqAcb0.png)

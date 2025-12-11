@@ -1,8 +1,8 @@
 ---
-{"Title":"Amcor :  Enterprise analytics and visualization of MES/process data","Year":2024,"Industry":"Manufacturing","URL":"https://www.aveva.com/en/perspectives/presentations/2024/amcor----enterprise-analytics-and-visualization-of-mes-process-data/","PDF":"https://cdn.mediavalet.com/eunl/content/Y5JJoJTGNkCmFVthQRsAzA/tOBmi0pDS0Oyx4VcxaocAA/Original/Amcor%20%3A%20%20Enterprise%20analytics%20and%20visualization%20of%20MES%2Fprocess%20data.pdf","Company":"Amcor Rigid Packaging","Keywords":["AAA"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-amcor-enterprise-analytics-and-visualization-of-me-sprocess-data/","dgPassFrontmatter":true}
+{"Title":"Amcor :  Enterprise analytics and visualization of MES/process data","Year":2024,"Industry":"Manufacturing","URL":"https://www.aveva.com/en/perspectives/presentations/2024/amcor----enterprise-analytics-and-visualization-of-mes-process-data/","PDF":"https://cdn.mediavalet.com/eunl/content/Y5JJoJTGNkCmFVthQRsAzA/tOBmi0pDS0Oyx4VcxaocAA/Original/Amcor%20%3A%20%20Enterprise%20analytics%20and%20visualization%20of%20MES%2Fprocess%20data.pdf","Company":"Amcor Rigid Packaging","Tags":["AVEVA_Product/AdvancedAnalytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-amcor-enterprise-analytics-and-visualization-of-me-sprocess-data/","dgPassFrontmatter":true}
 ---
 
-#Product/AVEVA/AAA 
+#AVEVA_Product/AdvancedAnalytics 
 ## Amcor Rigid Packaging's Results
 
 ---

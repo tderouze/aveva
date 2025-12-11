@@ -24,4 +24,4 @@ C'est là que la magie opère. En permettant un accès simple et enrichis aux do
   
 Si ces histoires vous intéressent également, vous pourrez en découvrir de nouvelles le 19 octobre à PI World : https://piworld.osisoft.com/aveva21
 
-#Sustainability
+#BusinessImpact/Sustainability

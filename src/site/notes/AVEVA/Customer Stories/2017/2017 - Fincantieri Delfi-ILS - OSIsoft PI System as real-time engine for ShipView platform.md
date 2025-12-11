@@ -1,5 +1,5 @@
 ---
-{"Title":"2017 - OSIsoft PI System as real-time engine for ShipView platform","Year":2017,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/osisoft-pi-system-as-real-time-engine-for-shipview-platform/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TR05-DelfiILS-DeFrancesco-PIRealtimeEngineShipviewPlatform.pdf","Company":"Fincantieri Delfi-ILS","dg-publish":true,"Keywords":["Ships"],"permalink":"/aveva/customer-stories/2017/2017-fincantieri-delfi-ils-os-isoft-pi-system-as-real-time-engine-for-ship-view-platform/","dgPassFrontmatter":true}
+{"Title":"2017 - OSIsoft PI System as real-time engine for ShipView platform","Year":2017,"Industry":"Marine","URL":"https://resources.osisoft.com/presentations/osisoft-pi-system-as-real-time-engine-for-shipview-platform/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2TR05-DelfiILS-DeFrancesco-PIRealtimeEngineShipviewPlatform.pdf","Company":"Fincantieri Delfi-ILS","dg-publish":true,"Tags":["Industry/Ships"],"permalink":"/aveva/customer-stories/2017/2017-fincantieri-delfi-ils-os-isoft-pi-system-as-real-time-engine-for-ship-view-platform/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,9 +1,7 @@
 ---
 {"dg-publish":true,"Company":"Lonza","Industry":"CPG","Year":2019,"Title":"2019 - Lonza - Productivity Improvement with operational Technology","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2FB02-Lonza-Lacaille-PIVOT-Productivity-Improvement-with-operational-Technology.pdf","Business Impacts":null,"Screenshots":null,"permalink":"/aveva/customer-stories/2019/2019-lonza-productivity-improvement-with-operational-technology/","dgPassFrontmatter":true}
 ---
- 
 
----
 ## Lonza's Results
 ![](https://i.imgur.com/QimnP62.png)
 

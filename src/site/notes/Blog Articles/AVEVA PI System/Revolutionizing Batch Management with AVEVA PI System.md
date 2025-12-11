@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["AssetFramework","EventFrames","PISystem"],"permalink":"/blog-articles/aveva-pi-system/revolutionizing-batch-management-with-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["PISystem/AssetFramework","UseCase/EventFrames","PISystem"],"permalink":"/blog-articles/aveva-pi-system/revolutionizing-batch-management-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 In today's data-driven industrial landscape, the AVEVA PI System stands as a cornerstone for transforming batch operations across various sectors. This powerful tool is reshaping how businesses approach batch management, quality control, and process optimization.

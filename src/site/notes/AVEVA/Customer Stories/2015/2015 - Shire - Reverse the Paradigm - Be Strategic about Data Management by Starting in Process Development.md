@@ -28,7 +28,7 @@ Faster and more confident data analysis; Scientists spend time analyzing instead
 - OSIsoft PI System
 - Process Development
 - Technology Transfer
-- Data Management
+- DataManagement
 - Shire Pharmaceuticals
 - Bioreactors
 - Manufacturing

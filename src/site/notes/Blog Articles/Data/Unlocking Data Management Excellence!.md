@@ -15,7 +15,5 @@ Why is this a big deal? 🤔 Simply because we are leveraging the best of this t
   
 📢 Curious to see it in action? 🎥 Check out this short video to explore the incredible benefits of PI Datalink. Embrace the power of synergy! 💪
 
- 
-
-#DataManagement #AVEVA #PIDatalink #ExcelRevolution #YTVideo
+  #YTVideo
 

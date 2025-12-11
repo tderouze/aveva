@@ -1,5 +1,5 @@
 ---
-{"Title":"2022 - PI AF, our cornerstone to leverage smart innovative operations - Air Liquide","Year":2022,"Industry":"[\"Chemicals & Petrochemicals\",\"Oil & Gas\"]","URL":"https://resources.osisoft.com/presentations/pi-af--our-cornerstone-to-leverage-smart-innovative-operations---air-liquide/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2CH050-Air-Liquide-Gentil-How-AF-is-becoming-an-essential-cornerstone.pdf","Company":"Air Liquide","Keywords":"PRiSM","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-air-liquide-pi-af-our-cornerstone-to-leverage-smart-innovative-operations-air-liquide/","dgPassFrontmatter":true}
+{"Title":"2022 - PI AF, our cornerstone to leverage smart innovative operations - Air Liquide","Year":2022,"Industry":"[\"Chemicals & Petrochemicals\",\"Oil & Gas\"]","URL":"https://resources.osisoft.com/presentations/pi-af--our-cornerstone-to-leverage-smart-innovative-operations---air-liquide/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2CH050-Air-Liquide-Gentil-How-AF-is-becoming-an-essential-cornerstone.pdf","Company":"Air Liquide","Tags":"AVEVA_Product/PredictiveAnalytics","dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-air-liquide-pi-af-our-cornerstone-to-leverage-smart-innovative-operations-air-liquide/","dgPassFrontmatter":true}
 ---
 
 

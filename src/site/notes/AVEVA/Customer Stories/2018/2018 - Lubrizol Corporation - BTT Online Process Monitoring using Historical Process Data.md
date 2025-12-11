@@ -1,5 +1,5 @@
 ---
-{"Title":"2018 - BTT: Online Process Monitoring using Historical Process Data","Year":2018,"Industry":"[\"Facilities & Data Centers\",\"Pharmaceuticals & Life Sciences\"]","URL":"https://resources.osisoft.com/presentations/btt--online-process-monitoring-using-historical-process-data/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2LS05-Lubrizol-Martin-BTT-Online-Process-Monitoring-using-Historical-Process-Data.pdf","Company":"Lubrizol Corporation","Keywords":["Golden Batch","Batch Overlay"],"Benefits":["+56% Quality"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-lubrizol-corporation-btt-online-process-monitoring-using-historical-process-data/","dgPassFrontmatter":true}
+{"Title":"2018 - BTT: Online Process Monitoring using Historical Process Data","Year":2018,"Industry":"[\"Facilities & Data Centers\",\"Pharmaceuticals & Life Sciences\"]","URL":"https://resources.osisoft.com/presentations/btt--online-process-monitoring-using-historical-process-data/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-emea-barcelona/UC18EU-D2LS05-Lubrizol-Martin-BTT-Online-Process-Monitoring-using-Historical-Process-Data.pdf","Company":"Lubrizol Corporation","Tags":["UseCase/EventFrames/GoldenBatch","UseCase/EventFrames/BatchOverlay"],"Benefits":["+56% Quality"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-lubrizol-corporation-btt-online-process-monitoring-using-historical-process-data/","dgPassFrontmatter":true}
 ---
 
 ## Lubrizol Corporation's Results
@@ -20,7 +20,7 @@
 ![](https://i.imgur.com/pMZvtB5.png)
 ![](https://i.imgur.com/BBO8uTJ.png)
 
-#BusinessImpact/EventFrames/GoldenBatch #BusinessImpact/EventFrames/BatchOverlay #Asset/Latex 
+#UseCase/EventFrames/GoldenBatch #UseCase/EventFrames/BatchOverlay #Scope/Material/Latex 
 
 #### PRESENTATION
 

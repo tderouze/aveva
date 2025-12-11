@@ -1,5 +1,5 @@
 ---
-{"Title":"Amcor: A strategic journey to increasing line performance","Year":2023,"Industry":"General","URL":"https://resources.osisoft.com/presentations/amcor--a-strategic-journey-to-increasing-line-performance/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2HSU03-AmcorRigidPackaging-Paredes-Amcor-A-strategic-journey-to-increasing-line-performance.pdf","Company":"Amcor Rigid Packaging","Keywords":["Microstops","OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-amcor-rigid-packaging-amcor-a-strategic-journey-to-increasing-line-performance/","dgPassFrontmatter":true}
+{"Title":"Amcor: A strategic journey to increasing line performance","Year":2023,"Industry":"General","URL":"https://resources.osisoft.com/presentations/amcor--a-strategic-journey-to-increasing-line-performance/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2HSU03-AmcorRigidPackaging-Paredes-Amcor-A-strategic-journey-to-increasing-line-performance.pdf","Company":"Amcor Rigid Packaging","Tags":["UseCase/EventFrames/Microstops","BusinessImpact/OEE"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-amcor-rigid-packaging-amcor-a-strategic-journey-to-increasing-line-performance/","dgPassFrontmatter":true}
 ---
 
 ## Amcor Rigid Packaging's Results
@@ -36,7 +36,7 @@ Improved OEE by 2% YoY in Blow Molding; 3% improvement in production cycle time;
 - AVEVA
 - Amcor
 - MES
-- System Platform
+- SystemPlatform
 - OEE
 - Digital Transformation
 - Manufacturing Execution Systems

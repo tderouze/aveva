@@ -27,4 +27,4 @@ Il n'est donc plus étonnant de découvrir la contribution de nos clients (Miche
   
 💡Et maintenant, la sobriété numérique pour rendre les entreprises responsables, ça vous parle ?
 
-#Sustainability 
+#BusinessImpact/Sustainability 

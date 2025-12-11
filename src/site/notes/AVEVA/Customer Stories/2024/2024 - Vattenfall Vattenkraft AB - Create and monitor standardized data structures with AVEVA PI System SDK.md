@@ -1,5 +1,5 @@
 ---
-{"Title":"Vattenfall Vattenkraft AB:  Create and monitor standardized data structures with AVEVA PI System SDK","Year":2024,"Industry":"Power and Utilities","URL":"https://www.aveva.com/en/perspectives/presentations/2024/vattenfall-vattenkraft-ab---create-and-monitor-standardized-data-structures-with-aveva-pi-system-sdk/","PDF":"https://cdn.mediavalet.com/eunl/content/EN5Y43mPHkaLS8Q78dCsyQ/fYuBYmiwR0KlFO7nJ64wsg/Original/Vattenfall%20Vattenkraft%20AB%3A%20%20Create%20and%20monitor%20standardized%20data%20structures%20with%20AVEVA%20PI%20System%20SDK.pdf","Company":"Vattenfall","Keywords":["CBM","Maintenance","Python","PSA","Data Quality"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-vattenfall-vattenkraft-ab-create-and-monitor-standardized-data-structures-with-aveva-pi-system-sdk/","dgPassFrontmatter":true}
+{"Title":"Vattenfall Vattenkraft AB:  Create and monitor standardized data structures with AVEVA PI System SDK","Year":2024,"Industry":"Power and Utilities","URL":"https://www.aveva.com/en/perspectives/presentations/2024/vattenfall-vattenkraft-ab---create-and-monitor-standardized-data-structures-with-aveva-pi-system-sdk/","PDF":"https://cdn.mediavalet.com/eunl/content/EN5Y43mPHkaLS8Q78dCsyQ/fYuBYmiwR0KlFO7nJ64wsg/Original/Vattenfall%20Vattenkraft%20AB%3A%20%20Create%20and%20monitor%20standardized%20data%20structures%20with%20AVEVA%20PI%20System%20SDK.pdf","Company":"Vattenfall","Tags":["BusinessImpact/Maintenance/CBM","BusinessImpact/Maintenance","Technology/Python","PISystem/PSA","UseCase/DataQuality"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-vattenfall-vattenkraft-ab-create-and-monitor-standardized-data-structures-with-aveva-pi-system-sdk/","dgPassFrontmatter":true}
 ---
 
 ## Vattenfall's Results
@@ -32,7 +32,7 @@ The implementation of the SDK-based solution resulted in several benefits, inclu
 ---
 ### Keywords
 - AVEVA
-- PI System
+- PISystem
 - SDK
 - Vattenfall
 - Hydro Power

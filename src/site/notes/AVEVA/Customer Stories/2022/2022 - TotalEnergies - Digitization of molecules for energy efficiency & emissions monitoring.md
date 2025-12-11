@@ -1,5 +1,5 @@
 ---
-{"Title":"2022 - Two Talks: #1- Data governance  #2 - Digitization of molecules for energy efficiency & emissions monitoring - TotalEnergies","Year":2022,"Industry":"[\"Chemicals & Petrochemicals\",\"Oil & Gas\",\"Power\"]","URL":"https://resources.osisoft.com/presentations/two-talks---1--data-governance---2---digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring---totalenergies/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2OG020-TotalEnergies-Segard-Bernadi-Data-Mgt-Molecules-Digitaliz.pdf","Company":"TotalEnergies","Keywords":["Furnace","Boiler","Data Governance","France"],"Benefits":["-hundreds k€/y"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-total-energies-digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring/","dgPassFrontmatter":true}
+{"Title":"2022 - Two Talks: #1- Data governance  #2 - Digitization of molecules for energy efficiency & emissions monitoring - TotalEnergies","Year":2022,"Industry":"[\"Chemicals & Petrochemicals\",\"Oil & Gas\",\"Power\"]","URL":"https://resources.osisoft.com/presentations/two-talks---1--data-governance---2---digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring---totalenergies/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2OG020-TotalEnergies-Segard-Bernadi-Data-Mgt-Molecules-Digitaliz.pdf","Company":"TotalEnergies","Tags":["Scope/Equipment/Furnace","Scope/Equipment/Boiler","UseCase/Standardization/DataGovernance","France"],"Benefits":["-hundreds k€/y"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-total-energies-digitization-of-molecules-for-energy-efficiency-and-emissions-monitoring/","dgPassFrontmatter":true}
 ---
 
 
@@ -35,7 +35,7 @@
 
 ## 2022 - AVEVA PI World Amsterdam - Oil and Gas
 
-### Two Talks: #1- Data governance #2 - Digitization of molecules for energy efficiency & emissions monitoring - TotalEnergies
+### Two Talks: # 1- Data governance # 2 - Digitization of molecules for energy efficiency & emissions monitoring - TotalEnergies
 
 There will be 2 TotalEnergies presentations in the 45 minute period:
 

@@ -31,7 +31,7 @@ Improved equipment availability, reduced the impact of abnormal transformer heat
 - Real-Time Monitoring
 - SharePoint
 - PI WebParts
-- Event Frames
+- EventFrames
 - PI Analysis Services
 - Maintenance
 - Operations

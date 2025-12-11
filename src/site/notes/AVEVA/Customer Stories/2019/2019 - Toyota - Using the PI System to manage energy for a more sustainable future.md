@@ -40,11 +40,11 @@ Hard benefits: Tangible energy reduction in pilot plant. Soft benefits: Empoweri
 - Toyota
 - Toyota Motor Europe
 - AVEVA
-- PI System
-- energy monitoring
+- PISystem
+- EnergyMonitoring
 - manufacturing
 - sustainability
-- data management
+- DataManagement
 - centralization
 - asset framework
 - ISO 50001

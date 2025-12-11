@@ -4,7 +4,7 @@
 
 https://resources.osisoft.com/presentations/nigeria-lng--nlng-s-digital-transformation/
 
-#Product/AVEVA/AIM  #BusinessImpact/DigitalTwin  
+#AVEVA_Product/AIM  #UseCase/DigitalTwin  
 
 ---
 ## Nigeria LNG's Results

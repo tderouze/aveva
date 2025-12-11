@@ -1,8 +1,7 @@
 ---
-{"Title":"Quebec Iron Ore: Improving reliability of critical assets and enhancing traceability from pit to port","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/quebec-iron-ore--improving-reliability-of-critical-assets-and-enhancing-traceability-from-pit-to-port/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI05-QuebecIronOre-Cote-Improving-reliability-of-critical-assets.pdf","Company":"Quebec Iron Ore","Keywords":["System Platform","ASP+PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-quebec-iron-ore-quebec-iron-ore-improving-reliability-of-critical-assets-and-enhancing-traceability-from-pit-to-port/","dgPassFrontmatter":true}
+{"Title":"Quebec Iron Ore: Improving reliability of critical assets and enhancing traceability from pit to port","Year":2023,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/quebec-iron-ore--improving-reliability-of-critical-assets-and-enhancing-traceability-from-pit-to-port/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI05-QuebecIronOre-Cote-Improving-reliability-of-critical-assets.pdf","Company":"Quebec Iron Ore","Tags":["AVEVA_Product/SystemPlatform","PISystem/ASP_PI","Product/SAP","Technology/PowerBI","AVEVA_Product/CONNECT/CDS","AVEVA_Product/PredictiveAnalytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-quebec-iron-ore-quebec-iron-ore-improving-reliability-of-critical-assets-and-enhancing-traceability-from-pit-to-port/","dgPassFrontmatter":true}
 ---
 
-#Product/SAP #Product/PowerBI  #Product/AVEVA/ADH #Product/AVEVA/APA_PRiSM 
 ## Quebec Iron Ore's Results
 ![](https://i.imgur.com/TMdQBWX.png)
 
@@ -40,7 +39,7 @@ Improved health tracking of critical equipment; Catch equipment anomalies during
 - Bloom Lake
 - Reliability
 - Predictive Analytics
-- PI System
+- PISystem
 - Data Hub
 - Operations Control
 - Production Management

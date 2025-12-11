@@ -1,5 +1,5 @@
 ---
-{"Title":"Smart Monitoring of Cement Plants for Energy Efficiency","Year":2010,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/smart-monitoring-of-cement-plants-for-energy-efficiency/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2010/UsersConference2010/PDF/UC2010_BRS1700_CEMEX_Farrera_Palacios.pdf","Company":"CEMEX","Keywords":["Cement"],"dg-publish":true,"permalink":"/aveva/customer-stories/2010/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/","dgPassFrontmatter":true}
+{"Title":"Smart Monitoring of Cement Plants for Energy Efficiency","Year":2010,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/smart-monitoring-of-cement-plants-for-energy-efficiency/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2010/UsersConference2010/PDF/UC2010_BRS1700_CEMEX_Farrera_Palacios.pdf","Company":"CEMEX","Tags":["Industry/Cement"],"dg-publish":true,"permalink":"/aveva/customer-stories/2010/2010-cemex-smart-monitoring-of-cement-plants-for-energy-efficiency/","dgPassFrontmatter":true}
 ---
 
 ## CEMEX's Results

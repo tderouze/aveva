@@ -33,4 +33,3 @@ In our tale, John Snow, not an esteemed epidemiologist but a hero nonetheless, u
 💡 **People with Data can Transform their World:** We believe in the transformative power of data. Equip your experts, unravel mysteries, and paint a brighter future. 
 
 If these ideas resonate with you or if you have your own story to tell on this topic, feel free to connect, I'd be more than happy to discuss!
-#DataManagement  #ExpertiseMatters #PISystem

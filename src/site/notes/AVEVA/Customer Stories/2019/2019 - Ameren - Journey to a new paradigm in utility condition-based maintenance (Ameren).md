@@ -1,5 +1,5 @@
 ---
-{"Title":"Journey to a new paradigm in utility condition-based maintenance (Ameren)","Year":2019,"Industry":"Power","URL":"https://resources.osisoft.com/Presentations/Journey-to-a-new-paradigm-in-utility-condition-based-maintenance--Amerenx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D1EI03-Ameren-Poindexter-Journey-to-a-new-paradigm-in-utility-condition-based.pdf","Company":"Ameren","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-ameren-journey-to-a-new-paradigm-in-utility-condition-based-maintenance-ameren/","dgPassFrontmatter":true}
+{"Title":"Journey to a new paradigm in utility condition-based maintenance (Ameren)","Year":2019,"Industry":"Power","URL":"https://resources.osisoft.com/Presentations/Journey-to-a-new-paradigm-in-utility-condition-based-maintenance--Amerenx/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D1EI03-Ameren-Poindexter-Journey-to-a-new-paradigm-in-utility-condition-based.pdf","Company":"Ameren","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-ameren-journey-to-a-new-paradigm-in-utility-condition-based-maintenance-ameren/","dgPassFrontmatter":true}
 ---
 
 ## Ameren's Results

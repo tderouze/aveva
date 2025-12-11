@@ -1,9 +1,9 @@
 ---
-{"Title":"GSK Vaccines' Vision of the Integrated Factory: From Process Data to Information Management","Year":2015,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/gsk-vaccines--vision-of-the-integrated-factory--from-process-data-to-information-management/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH03_GSKVaccines_Ripaccioli_GSKVaccinesVisionoftheIntegratedFactoryFromProcessDatatoInformationManagement.pdf","Company":"GSK Vaccines","Keywords":["RtReports"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-gsk-vaccines-gsk-vaccines-vision-of-the-integrated-factory-from-process-data-to-information-management/","dgPassFrontmatter":true}
+{"Title":"GSK Vaccines' Vision of the Integrated Factory: From Process Data to Information Management","Year":2015,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/gsk-vaccines--vision-of-the-integrated-factory--from-process-data-to-information-management/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH03_GSKVaccines_Ripaccioli_GSKVaccinesVisionoftheIntegratedFactoryFromProcessDatatoInformationManagement.pdf","Company":"GSK Vaccines","Tags":["PISystem/RtReports"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-gsk-vaccines-gsk-vaccines-vision-of-the-integrated-factory-from-process-data-to-information-management/","dgPassFrontmatter":true}
 ---
 
 
-#BusinessImpact/Standardization/Backbone
+#UseCase/Standardization/Backbone
 [Benefits:: -40% report approval time; -60% manual BPR entry; +20% production increase]
 #Product/DataSource/DeltaV 
 

@@ -4,7 +4,7 @@
 
 
 [Benefits:: +280% Time at the desired production rate]
-#Screenshot/Architecture  #BusinessImpact/Standardization/Governance #BusinessImpact/EventFrames 
+#Screenshot/Architecture  #UseCase/Standardization/Governance #UseCase/EventFrames 
 
 ---
 ## BASF's Results

@@ -27,7 +27,7 @@ Gearbox failure predicted, Turbine made available for 2 peak wind months, Annual
 - Renewable Energy
 - OSIsoft PI System
 - Orion
-- Predictive Maintenance
+- PredictiveMaintenance
 - O&M Challenges
 - Real-time Monitoring
 - Big Data

@@ -1,5 +1,5 @@
 ---
-{"Title":"2024 - CSL:  Path to Net-Zero Carbon of our Vessel Operations","Year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/csl-group---path-to-net-zero-carbon-of-our-vessel-operations/","PDF":"https://cdn.mediavalet.com/eunl/content/3-3RjT4g-EeyFwoveBkH_w/rDkXT7Z940KKkmpRn4LWMQ/Original/CSL%20Group%3A%20%20Path%20to%20Net-Zero%20Carbon%20of%20our%20Vessel%20Operations.pdf","Company":"CSL","Keywords":["Sustainability","Ships","Advanced Analytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-csl-path-to-net-zero-carbon-of-our-vessel-operations/","dgPassFrontmatter":true}
+{"Title":"2024 - CSL:  Path to Net-Zero Carbon of our Vessel Operations","Year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/csl-group---path-to-net-zero-carbon-of-our-vessel-operations/","PDF":"https://cdn.mediavalet.com/eunl/content/3-3RjT4g-EeyFwoveBkH_w/rDkXT7Z940KKkmpRn4LWMQ/Original/CSL%20Group%3A%20%20Path%20to%20Net-Zero%20Carbon%20of%20our%20Vessel%20Operations.pdf","Company":"CSL","Tags":["BusinessImpact/Sustainability","Industry/Ships","AVEVA_Product/AdvancedAnalytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-csl-path-to-net-zero-carbon-of-our-vessel-operations/","dgPassFrontmatter":true}
 ---
 
 

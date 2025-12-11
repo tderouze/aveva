@@ -1,5 +1,5 @@
 ---
-{"Title":"Utilizando o PI Notifications na Manutenção Preditiva","Year":2015,"Industry":"General","URL":"https://resources.osisoft.com/presentations/utilizando-o-pi-notifications-na-manuten%C3%A7%C3%A3o-preditiva/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/RS2015_SaoPaulo/PDF/RS2015_SaoPaulo_Klabin_Goulart_UtilizandooPINotificationsnaManutenoPreditiva.pdf","Company":"Klabin","Keywords":["Braincube"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-klabin-utilizando-o-pi-notifications-na-manutencao-preditiva/","dgPassFrontmatter":true}
+{"Title":"Utilizando o PI Notifications na Manutenção Preditiva","Year":2015,"Industry":"General","URL":"https://resources.osisoft.com/presentations/utilizando-o-pi-notifications-na-manuten%C3%A7%C3%A3o-preditiva/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/RS2015_SaoPaulo/PDF/RS2015_SaoPaulo_Klabin_Goulart_UtilizandooPINotificationsnaManutenoPreditiva.pdf","Company":"Klabin","Tags":["Product/Braincube"],"dg-publish":true,"permalink":"/aveva/customer-stories/2015/2015-klabin-utilizando-o-pi-notifications-na-manutencao-preditiva/","dgPassFrontmatter":true}
 ---
 
 ## Klabin's Results

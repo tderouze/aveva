@@ -2,7 +2,7 @@
 {"dg-publish":true,"Company":"Pepco","Industry":"Power","Year":2015,"Title":"The Ultimate Tool for EMS Data, both Inside and Outside the Control Room","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_PepcoHoldingsInc_Beglin_PISystemTheUltimateRealtimeDataInfrastructureforEMSDatabothInsideandOutsidetheControlRoom.pdf","Country":"US","Benefits":"+99% data retrieval","permalink":"/aveva/customer-stories/2015/2015-pepco-the-ultimate-tool-for-ems-data-both-inside-and-outside-the-control-room/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/EMS
+#BusinessImpact/Energy/EnergyManagementSystem
 
 ---
 ## Pepco's Results

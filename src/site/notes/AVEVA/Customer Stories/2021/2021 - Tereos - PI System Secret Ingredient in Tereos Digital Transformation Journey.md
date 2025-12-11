@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Tereos","Industry":"CPG","Year":2021,"Title":"PI System, Secret Ingredient in Tereos Digital Transformation Journey","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2FB050-Tereos-deMello-PI-System-Secret-ingredient-in.pdf","Country":"France","permalink":"/aveva/customer-stories/2021/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Tereos","Industry":"CPG","Year":2021,"Title":"PI System, Secret Ingredient in Tereos Digital Transformation Journey","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2FB050-Tereos-deMello-PI-System-Secret-ingredient-in.pdf","Country":"France","Tags":["UseCase/Newsletter","UseCase/Standardization/Governance","UseCase/Standardization/GlobalDeployment","BusinessImpact/Maintenance","UseCase/Analytics/ControlLoop#Screenshot/PIVision#Product/AVEVA/Notifications","Product/Telegram","Product/AWS","Product/Alexa","Scope/Material/Sugar"],"permalink":"/aveva/customer-stories/2021/2021-tereos-pi-system-secret-ingredient-in-tereos-digital-transformation-journey/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Newsletter #BusinessImpact/Standardization/Governance #BusinessImpact/Standardization/GlobalDeployment #BusinessImpact/Maintenance #BusinessImpact/Analytics/ControlLoop#Screenshot/PIVision#Product/AVEVA/Notifications   #Product/Telegram #Product/AWS  #Product/Alexa  #Asset/Sugar
-
----
 ## Tereos's Results
 ![](https://i.imgur.com/FrNSL0b.png)
 

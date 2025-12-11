@@ -23,7 +23,7 @@ An update of our journey in grid analytics for network operations, grid planning
 Solutions:
 
 - Analytics & Predictive Analytics
-- Digital Twin
+- DigitalTwin
 
 OSIsoft Products:
 

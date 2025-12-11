@@ -14,5 +14,3 @@ Enfin, l'ouvrage met en lumière la vérité comme vecteur de liberté, tout en 
 En ces temps de bouleversements rapides et de montée en puissance de l'intelligence artificielle, ces réflexions prennent une importance autrement particulière.  
   
 ⭐Je recommande chaudement ce livre inspirant et clairvoyant sur notre époque, qui présente une analyse fine pas seulement du leadership, mais aussi de l'humain et de la remise en question des priorités de notre temps
-
-#Leadership 

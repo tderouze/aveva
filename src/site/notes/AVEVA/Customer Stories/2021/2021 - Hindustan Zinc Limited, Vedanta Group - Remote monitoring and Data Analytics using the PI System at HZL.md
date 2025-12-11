@@ -1,5 +1,5 @@
 ---
-{"Title":"Remote monitoring and Data Analytics using the PI System at HZL","Year":2021,"Industry":"Manufacturing","URL":"https://resources.osisoft.com/presentations/remote-monitoring-and-data-analytics-using-the-pi-system-at-hzl/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM070-Vendanta-Mahajan-IOT-opportunities-with-industry.pdf","Company":"Hindustan Zinc Limited, Vedanta Group","Keywords":["Zinc","Grinding"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-hindustan-zinc-limited-vedanta-group-remote-monitoring-and-data-analytics-using-the-pi-system-at-hzl/","dgPassFrontmatter":true}
+{"Title":"Remote monitoring and Data Analytics using the PI System at HZL","Year":2021,"Industry":"Manufacturing","URL":"https://resources.osisoft.com/presentations/remote-monitoring-and-data-analytics-using-the-pi-system-at-hzl/","PDF":"https://cdn.osisoft.com/osi/presentations/2021-aveva-pi-world/UC21NA-D2MM070-Vendanta-Mahajan-IOT-opportunities-with-industry.pdf","Company":"Hindustan Zinc Limited, Vedanta Group","Tags":["Scope/Material/Zinc","Scope/Process/Grinding"],"dg-publish":true,"permalink":"/aveva/customer-stories/2021/2021-hindustan-zinc-limited-vedanta-group-remote-monitoring-and-data-analytics-using-the-pi-system-at-hzl/","dgPassFrontmatter":true}
 ---
 
 ## Hindustan Zinc Limited, Vedanta Group's Results

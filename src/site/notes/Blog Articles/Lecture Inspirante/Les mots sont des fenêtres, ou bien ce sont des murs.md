@@ -22,4 +22,4 @@ Ce livre est une réelle pépite qui offre une boîte à outils précieuse pour 
   
 Bonnes lectures estivales et de belles conversations en perspective ! ☀️📖
 
-#CNV #CommunicationNonViolente #SoftSkills 
+#SoftSkills/CommunicationNonViolente #SoftSkills 

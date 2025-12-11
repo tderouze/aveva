@@ -1,5 +1,5 @@
 ---
-{"Title":"Improving Runtime Through Actionable Insights from the PI System","Year":2017,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/improving-runtime-through-actionable-insights-from-the-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02MM04_UNACEM_JAljovin_ImprovingRuntime.pdf","Company":"UNION ANDINA DE CEMENTOS S.A.A.","Keywords":["Cement","Grinding"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-union-andina-de-cementos-s-a-a-improving-runtime-through-actionable-insights-from-the-pi-system/","dgPassFrontmatter":true}
+{"Title":"Improving Runtime Through Actionable Insights from the PI System","Year":2017,"Industry":"Metals Mining & Materials","URL":"https://resources.osisoft.com/presentations/improving-runtime-through-actionable-insights-from-the-pi-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02MM04_UNACEM_JAljovin_ImprovingRuntime.pdf","Company":"UNION ANDINA DE CEMENTOS S.A.A.","Tags":["Industry/Cement","Scope/Process/Grinding"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-union-andina-de-cementos-s-a-a-improving-runtime-through-actionable-insights-from-the-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## UNION ANDINA DE CEMENTOS S.A.A.'s Results

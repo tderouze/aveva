@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"New Gold","Industry":"Metals Mining & Materials","Year":2013,"Title":"ISO 50001 Focused Energy Management Information System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_NewGold_AndrewCooper_ISO50001FocusedEnergymanagementInformationSystem.pdf","Country":"Canda","permalink":"/aveva/customer-stories/2013/2013-new-gold-iso-50001-focused-energy-management-information-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"New Gold","Industry":"Metals Mining & Materials","Year":2013,"Title":"ISO 50001 Focused Energy Management Information System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_NewGold_AndrewCooper_ISO50001FocusedEnergymanagementInformationSystem.pdf","Country":"Canda","Tags":["BusinessImpact/Energy/EnergyManagementSystem","BusinessImpact/Energy/ISO50001"],"permalink":"/aveva/customer-stories/2013/2013-new-gold-iso-50001-focused-energy-management-information-system/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/EMS #BusinessImpact/Energy/ISO50001  
-
----
 ## New Gold's Results
 
 ---

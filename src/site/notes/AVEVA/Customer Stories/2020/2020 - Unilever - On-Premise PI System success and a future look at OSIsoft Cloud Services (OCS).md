@@ -1,8 +1,7 @@
 ---
-{"Title":"On-Premise PI System success and a future look at OSIsoft Cloud Services (OCS)","Year":2020,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/on-premise-pi-system-success-and-a-future-look-at-osisoft-cloud-services--ocsx/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D6FB35-Unilever-Gutgesell-On-Premise-PI-System.pdf","Company":"Unilever","Keywords":["Packaging Line"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/","dgPassFrontmatter":true}
+{"Title":"On-Premise PI System success and a future look at OSIsoft Cloud Services (OCS)","Year":2020,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/on-premise-pi-system-success-and-a-future-look-at-osisoft-cloud-services--ocsx/","PDF":"https://cdn.osisoft.com/osi/presentations/2020-industry-summits/UC20EU-D6FB35-Unilever-Gutgesell-On-Premise-PI-System.pdf","Company":"Unilever","Tags":["BusinessImpact/PackagingLine","Screenshot/PIAF","Screenshot/PIVision","BusinessImpact/Analytics/OEE","Screenshot/PIDataLink","Screenshot/Notifications","Screenshot/Architecture","Product/DataSource/Foxboro","Product/DataSource/Rockwell","Product/Azure"],"dg-publish":true,"permalink":"/aveva/customer-stories/2020/2020-unilever-on-premise-pi-system-success-and-a-future-look-at-os-isoft-cloud-services-ocs/","dgPassFrontmatter":true}
 ---
 
-#Screenshot/PIAF #Screenshot/PIVision #BusinessImpact/Analytics/OEE  #Screenshot/PIDataLink #Screenshot/Notifications #Screenshot/Architecture #Product/DataSource/Foxboro #Product/DataSource/Rockwell #Product/Azure 
 
 ## Unilever's Results
 ![](https://i.imgur.com/aWTFEF1.png)

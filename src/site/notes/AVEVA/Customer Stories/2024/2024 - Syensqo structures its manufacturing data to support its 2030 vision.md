@@ -1,5 +1,5 @@
 ---
-{"Title":"Syensqo structures its manufacturing data to support its 2030 vision","Year":2024,"Industry":"Chemicals","URL":"https://www.aveva.com/en/perspectives/presentations/2024/syensqo-structures-its-manufacturing-data-to-support-its-2030-vision/","PDF":"https://cdn.mediavalet.com/eunl/content/S3jQVcczB06Dnd5qLqPKrw/7L6XVBcbtk6odtoyyAEuzA/Original/Syensqo%20structures%20its%20manufacturing%20data%20to%20support%20its%202030%20vision.pdf","Company":"Syensqo","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-syensqo-structures-its-manufacturing-data-to-support-its-2030-vision/","dgPassFrontmatter":true}
+{"Title":"Syensqo structures its manufacturing data to support its 2030 vision","Year":2024,"Industry":"Chemicals","URL":"https://www.aveva.com/en/perspectives/presentations/2024/syensqo-structures-its-manufacturing-data-to-support-its-2030-vision/","PDF":"https://cdn.mediavalet.com/eunl/content/S3jQVcczB06Dnd5qLqPKrw/7L6XVBcbtk6odtoyyAEuzA/Original/Syensqo%20structures%20its%20manufacturing%20data%20to%20support%20its%202030%20vision.pdf","Company":"Syensqo","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-syensqo-structures-its-manufacturing-data-to-support-its-2030-vision/","dgPassFrontmatter":true}
 ---
 
 ## Syensqo's Results

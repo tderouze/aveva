@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Toyota","Industry":"Manufacturing","Year":2022,"Title":"Energy abnormality elimination with PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT030-TOYOTA-BIASCIUTTI-Energy-abnormality-eliminationwith-PI-System.pdf","Country":"France","Business Impacts":null,"Benefits":"-35% energy consumption; -28% CO2e","CO2e":"-28%","Energy Consumption":"-35%","permalink":"/aveva/customer-stories/2022/2022-toyota-energy-abnormality-elimination-with-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Toyota","Industry":"Manufacturing","Year":2022,"Title":"Energy abnormality elimination with PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2MT030-TOYOTA-BIASCIUTTI-Energy-abnormality-eliminationwith-PI-System.pdf","Country":"France","Business Impacts":null,"Benefits":"-35% energy consumption; -28% CO2e","CO2e":"-28%","Energy Consumption":"-35%","Tags":["Screenshot/PIVision","Screenshot/PIDataLink#Product/AVEVA/Notifications"],"permalink":"/aveva/customer-stories/2022/2022-toyota-energy-abnormality-elimination-with-pi-system/","dgPassFrontmatter":true}
 ---
 
-#Screenshot/PIVision #Screenshot/PIDataLink#Product/AVEVA/Notifications
-
----
 ## Toyota's Results
 ![](https://i.imgur.com/K06qhji.png)
 ![](https://i.imgur.com/dafsgCh.png)

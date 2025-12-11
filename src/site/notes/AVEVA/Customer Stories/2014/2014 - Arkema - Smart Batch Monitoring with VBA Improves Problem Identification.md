@@ -1,5 +1,5 @@
 ---
-{"Title":"2014 - Smart Batch Monitoring with VBA Improves Problem Identification","Year":2014,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/smart-batch-monitoring-with-vba-improves-problem-identification/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_Arkema_Duffy_SmartBatchMonitoringwithVBAImprovesProblemIdentification.pdf","Company":"Arkema","Keywords":["Golden Batch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-arkema-smart-batch-monitoring-with-vba-improves-problem-identification/","dgPassFrontmatter":true}
+{"Title":"2014 - Smart Batch Monitoring with VBA Improves Problem Identification","Year":2014,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/smart-batch-monitoring-with-vba-improves-problem-identification/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_Arkema_Duffy_SmartBatchMonitoringwithVBAImprovesProblemIdentification.pdf","Company":"Arkema","Tags":["UseCase/EventFrames/GoldenBatch"],"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-arkema-smart-batch-monitoring-with-vba-improves-problem-identification/","dgPassFrontmatter":true}
 ---
 
 ## Arkema's Results

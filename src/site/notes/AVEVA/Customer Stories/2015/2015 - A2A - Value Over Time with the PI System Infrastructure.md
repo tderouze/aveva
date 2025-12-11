@@ -1,11 +1,7 @@
 ---
-{"dg-publish":true,"Company":"A2A","Industry":null,"Year":2015,"Title":"Value Over Time with the PI System Infrastructure","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG06_a2a_Andrico_ValueOverTimewiththePISystemInfrastructure.pdf","Country":"Italy","permalink":"/aveva/customer-stories/2015/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"A2A","Industry":null,"Year":2015,"Title":"Value Over Time with the PI System Infrastructure","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PG06_a2a_Andrico_ValueOverTimewiththePISystemInfrastructure.pdf","Country":"Italy","Tags":["UseCase/DataQuality","BusinessImpact/Energy/Waste-to-energy","Screenshot/Architecture"],"permalink":"/aveva/customer-stories/2015/2015-a2-a-value-over-time-with-the-pi-system-infrastructure/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/Waste-to-energy
-#Screenshot/Architecture  
-
----
 ## A2A's Results
 ![](https://i.imgur.com/7adL2hD.png)
 
@@ -53,17 +49,17 @@ D. A revolution in a Company Culture
 - OSIsoft PI System
 - Power Generation
 - Waste Management
-- Data Management
+- DataManagement
 - Real-time Data
 - Operational Intelligence
 - IT Infrastructure
 - Middleware
 - SCADA
 - PLC
-- Event Frames
+- EventFrames
 - Asset Framework
 - Remote Monitoring
-- Predictive Maintenance
+- PredictiveMaintenance
 
 ## Description
 a2a is the biggest multi-utility in Italy operating in power generation, heat distribution, waste-to-energy, and networks. One of its divisions, Edipower, started using the PI System several years ago for real-time data gathering and it has helped operate the plant more efficiently. Since then the PI System Infrastructure has been evolving and increased its adoption and usage in areas such as quality, energy management and operation management. The PI Server implementation has also increased, first installed in thermo power plants and now in idro power plants and waste recycling plants.

@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Wood","Industry":"Metals Mining & Materials","Year":2022,"Title":"Unlocking lasting value from your asset a lifecycle","permalink":"/aveva/customer-stories/2022/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Wood","Industry":"Metals Mining & Materials","Year":2022,"Title":"Unlocking lasting value from your asset a lifecycle","Tags":["UseCase/DigitalTwin","AVEVA_Product/AIM"],"permalink":"/aveva/customer-stories/2022/2022-wood-unlocking-lasting-value-from-your-asset-a-lifecycle/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/DigitalTwin #Product/AVEVA/AIM 
 https://resources.osisoft.com/presentations/wood--unlocking-lasting-value-from-your-asset-%E2%80%93-a-lifecycle-approach-to-digital-twin-strategy/
 ---
 ## Wood's Results

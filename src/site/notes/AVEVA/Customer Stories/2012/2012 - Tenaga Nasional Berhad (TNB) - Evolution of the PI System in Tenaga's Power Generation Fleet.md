@@ -27,7 +27,7 @@ The implementation of the PI System resulted in plant data being available to al
 - Tenaga Nasional Berhad
 - TNB
 - AVEVA
-- PI System
+- PISystem
 - Power Generation
 - Real-time Data
 - Data Unification

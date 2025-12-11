@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Baxalta","Industry":"Pharmaceuticals & Life Sciences","Year":2015,"Title":"From Energy Monitoring to an Engineering Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH06_Baxalta_Bugl_FromEnergyMonitoringtoanEngineeringManagementSystem.pdf","Country":"US","permalink":"/aveva/customer-stories/2015/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Baxalta","Industry":"Pharmaceuticals & Life Sciences","Year":2015,"Title":"From Energy Monitoring to an Engineering Management System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH06_Baxalta_Bugl_FromEnergyMonitoringtoanEngineeringManagementSystem.pdf","Country":"US","Tags":["BusinessImpact/Energy/ISO50001","BusinessImpact/Energy/EnergyManagementSystem"],"permalink":"/aveva/customer-stories/2015/2015-baxalta-from-energy-monitoring-to-an-engineering-management-system/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/ISO50001 #BusinessImpact/Energy/EMS 
----
 ## Baxalta's Results
 ![](https://i.imgur.com/H0JIDf7.png)
 ![](https://i.imgur.com/0JUYHo4.png)

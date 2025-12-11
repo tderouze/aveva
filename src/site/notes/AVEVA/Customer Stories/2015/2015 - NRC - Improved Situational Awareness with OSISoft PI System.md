@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"NRC","Industry":"Nuclear","Year":2015,"Title":"Improved Situational Awareness with OSISoft PI System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_USNuclearRegulatoryCommissionNRC_SageMattMcDonald_USNuclearRegulatoryCommissionNRCImprovedSituationalAwarenesswithOSISoftPISystem.pdf","permalink":"/aveva/customer-stories/2015/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"NRC","Industry":"Nuclear","Year":2015,"Title":"Improved Situational Awareness with OSISoft PI System","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_USNuclearRegulatoryCommissionNRC_SageMattMcDonald_USNuclearRegulatoryCommissionNRCImprovedSituationalAwarenesswithOSISoftPISystem.pdf","Tags":["UseCase/EventFrames/RootCauseAnalysis#Screenshot/Architecture","Product/ESRI"],"permalink":"/aveva/customer-stories/2015/2015-nrc-improved-situational-awareness-with-osi-soft-pi-system/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/EventFrames/RootCauseAnalysis#Screenshot/Architecture #Product/ESRI 
-
----
 ## NRC's Results
 ![](https://i.imgur.com/9jYDawi.png)
 ![](https://i.imgur.com/7q21iaV.png)

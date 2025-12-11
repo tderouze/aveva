@@ -1,5 +1,5 @@
 ---
-{"Title":"Advance monitoring and analytics combined cycle gas plant - A2A","Year":2022,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/advance-monitoring-and-analytics-combined-cycle-gas-plant---a2a/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG050-A2A-Panzeri-Advance-Monitoring-and-Analytics-Combined-Cycle-Gas-Plant.pdf","Company":"A2A","Keywords":["Biogas","Biomass"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-a2-a-advance-monitoring-and-analytics-combined-cycle-gas-plant-a2-a/","dgPassFrontmatter":true}
+{"Title":"Advance monitoring and analytics combined cycle gas plant - A2A","Year":2022,"Industry":"Power","URL":"https://resources.osisoft.com/presentations/advance-monitoring-and-analytics-combined-cycle-gas-plant---a2a/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PG050-A2A-Panzeri-Advance-Monitoring-and-Analytics-Combined-Cycle-Gas-Plant.pdf","Company":"A2A","Tags":["Scope/Process/Biogas","Scope/Process/Biomass"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-a2-a-advance-monitoring-and-analytics-combined-cycle-gas-plant-a2-a/","dgPassFrontmatter":true}
 ---
 
 ## A2A's Results

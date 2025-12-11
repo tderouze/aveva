@@ -1,9 +1,7 @@
 ---
 {"dg-publish":true,"Company":"ODEC","Industry":"Nuclear","Year":2018,"Title":"From Challenge to Enterprise View","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2PG02-ODEC-SBurnettKRyan-ODECs-EA-Journey-FromChallenge-to-Enterprise-View.pdf","Screenshots":null,"permalink":"/aveva/customer-stories/2018/2018-odec-s-ea-journey-from-challenge-to-enterprise-view/","dgPassFrontmatter":true}
 ---
- 
 
----
 ## ODEC's Results
 ![](https://i.imgur.com/VEX6M5Q.png)
 

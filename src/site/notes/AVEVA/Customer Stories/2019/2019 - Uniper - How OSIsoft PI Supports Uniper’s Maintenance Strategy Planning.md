@@ -46,7 +46,7 @@ Next generation maintenance planning based on reliable and live data. Accurate h
 - CAPEX Reduction
 - Energy
 - Power Generation
-- Predictive Maintenance
+- PredictiveMaintenance
 - Asset Framework
 - Enerlytics
 - Data Lake

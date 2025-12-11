@@ -1,5 +1,5 @@
 ---
-{"Title":"2017 - Demystifying the Data Center","Year":2017,"Industry":"[\"Facilities & Data Centers\",\"General\"]","URL":"https://resources.osisoft.com/presentations/demystifying-the-data-center/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC1702NAFW05_DigitalRealty_SGupana_BLake_DemystifyingtheDataCenter.pdf","Company":"CASNE Engineering","Keywords":["Data Centers"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-casne-engineering-demystifying-the-data-center/","dgPassFrontmatter":true}
+{"Title":"2017 - Demystifying the Data Center","Year":2017,"Industry":"[\"Facilities & Data Centers\",\"General\"]","URL":"https://resources.osisoft.com/presentations/demystifying-the-data-center/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC1702NAFW05_DigitalRealty_SGupana_BLake_DemystifyingtheDataCenter.pdf","Company":"CASNE Engineering","Tags":["Industry/DataCenters"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-casne-engineering-demystifying-the-data-center/","dgPassFrontmatter":true}
 ---
 
 #### PRESENTATION

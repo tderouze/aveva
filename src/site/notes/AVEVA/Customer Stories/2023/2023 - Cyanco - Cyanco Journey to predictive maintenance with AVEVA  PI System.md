@@ -1,5 +1,5 @@
 ---
-{"Title":"Cyanco: Journey to predictive maintenance with AVEVA  PI System","Year":2023,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/cyanco--journey-to-predictive-maintenance-with-aveva%E2%84%A2-pi-system%E2%84%A2/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI07-Cyanco-Vinayak-Cyanco-Journey-to-predictive-maintenance-with-AVEVAPI-System.pdf","Company":"Cyanco","Keywords":["CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-cyanco-cyanco-journey-to-predictive-maintenance-with-aveva-pi-system/","dgPassFrontmatter":true}
+{"Title":"Cyanco: Journey to predictive maintenance with AVEVA  PI System","Year":2023,"Industry":"Chemicals & Petrochemicals","URL":"https://resources.osisoft.com/presentations/cyanco--journey-to-predictive-maintenance-with-aveva%E2%84%A2-pi-system%E2%84%A2/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2PRI07-Cyanco-Vinayak-Cyanco-Journey-to-predictive-maintenance-with-AVEVAPI-System.pdf","Company":"Cyanco","Tags":["BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-cyanco-cyanco-journey-to-predictive-maintenance-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 ## Cyanco's Results

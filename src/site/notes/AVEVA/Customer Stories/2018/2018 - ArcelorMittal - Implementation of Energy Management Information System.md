@@ -1,5 +1,5 @@
 ---
-{"Title":"Implementation of Energy Management Information System","Year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/implementation-of-energy-management-information-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2MI04-ArcelorMittalLongProductsCanadaGP-JStOnge-Implementation-Energy-Magt-Information-System.pdf","Company":"ArcelorMittal","Keywords":["Energy Management System"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-arcelor-mittal-implementation-of-energy-management-information-system/","dgPassFrontmatter":true}
+{"Title":"Implementation of Energy Management Information System","Year":2018,"Industry":"General","URL":"https://resources.osisoft.com/presentations/implementation-of-energy-management-information-system/","PDF":"https://cdn.osisoft.com/osi/presentations/2018-uc-san-francisco/UC18NA-D2MI04-ArcelorMittalLongProductsCanadaGP-JStOnge-Implementation-Energy-Magt-Information-System.pdf","Company":"ArcelorMittal","Tags":["BusinessImpact/Energy/EnergyManagementSystem"],"dg-publish":true,"permalink":"/aveva/customer-stories/2018/2018-arcelor-mittal-implementation-of-energy-management-information-system/","dgPassFrontmatter":true}
 ---
 
 ## ArcelorMittal's Results

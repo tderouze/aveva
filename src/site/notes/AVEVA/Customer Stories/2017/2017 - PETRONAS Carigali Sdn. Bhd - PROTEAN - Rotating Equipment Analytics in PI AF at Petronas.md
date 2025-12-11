@@ -1,5 +1,5 @@
 ---
-{"Title":"PROTEAN - Rotating Equipment Analytics in PI AF at Petronas","Year":2017,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/Presentations/PROTEAN---Rotating-Equipment-Analytics-in-PI-AF-at-Petronas/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2OG06-Petronas-Khabri-PROTEAN--Rotating-Equipment-Analytics-in-PI-AF.pdf","Company":"PETRONAS Carigali Sdn. Bhd","Keywords":["CBM","Rotating Equipment"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-petronas-carigali-sdn-bhd-protean-rotating-equipment-analytics-in-pi-af-at-petronas/","dgPassFrontmatter":true}
+{"Title":"PROTEAN - Rotating Equipment Analytics in PI AF at Petronas","Year":2017,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/Presentations/PROTEAN---Rotating-Equipment-Analytics-in-PI-AF-at-Petronas/","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2OG06-Petronas-Khabri-PROTEAN--Rotating-Equipment-Analytics-in-PI-AF.pdf","Company":"PETRONAS Carigali Sdn. Bhd","Tags":["BusinessImpact/Maintenance/CBM","Scope/Equipment/RotatingEquipment"],"dg-publish":true,"permalink":"/aveva/customer-stories/2017/2017-petronas-carigali-sdn-bhd-protean-rotating-equipment-analytics-in-pi-af-at-petronas/","dgPassFrontmatter":true}
 ---
 
 ## PETRONAS Carigali Sdn. Bhd's Results

@@ -1,5 +1,5 @@
 ---
-{"Title":"Driving Sustainable Results in Energy Reduction","Year":2016,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/driving-sustainable-results-in-energy-reduction/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/FA162080_Kellogg_Gothberg_DrivingSustainableResultsinEnergyReduction.pdf","Company":"Kellogg","Keywords":["HVAC","Boiler","Energy Monitoring"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-kellogg-driving-sustainable-results-in-energy-reduction/","dgPassFrontmatter":true}
+{"Title":"Driving Sustainable Results in Energy Reduction","Year":2016,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/driving-sustainable-results-in-energy-reduction/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2016/UsersConference2016/PDF/FA162080_Kellogg_Gothberg_DrivingSustainableResultsinEnergyReduction.pdf","Company":"Kellogg","Tags":["Scope/Equipment/HVAC","Scope/Equipment/Boiler","BusinessImpact/Energy/EnergyMonitoring"],"dg-publish":true,"permalink":"/aveva/customer-stories/2016/2016-kellogg-driving-sustainable-results-in-energy-reduction/","dgPassFrontmatter":true}
 ---
 
 

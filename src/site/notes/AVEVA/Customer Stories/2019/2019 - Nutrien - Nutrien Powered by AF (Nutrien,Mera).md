@@ -1,5 +1,5 @@
 ---
-{"Title":"Nutrien Powered by AF (Nutrien,Mera)","year":2019,"Industry":"[\"General\",\"Oil & Gas\",\"Power\",\"Pulp & Paper\"]","URL":"https://resources.osisoft.com/presentations/nutrien-powered-by-af--nutrien-merax/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2MM04-Nutrien-McIntyre-Nutrien-Powered-by-AF-Nutrien-Mera.pdf","Company":"Nutrien","Keywords":["Phosphate"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-nutrien-nutrien-powered-by-af-nutrien-mera/","dgPassFrontmatter":true}
+{"Title":"Nutrien Powered by AF (Nutrien,Mera)","year":2019,"Industry":"[\"General\",\"Oil & Gas\",\"Power\",\"Pulp & Paper\"]","URL":"https://resources.osisoft.com/presentations/nutrien-powered-by-af--nutrien-merax/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2MM04-Nutrien-McIntyre-Nutrien-Powered-by-AF-Nutrien-Mera.pdf","Company":"Nutrien","Tags":["Scope/Material/Phosphate"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-nutrien-nutrien-powered-by-af-nutrien-mera/","dgPassFrontmatter":true}
 ---
 
 ## Nutrien's Results

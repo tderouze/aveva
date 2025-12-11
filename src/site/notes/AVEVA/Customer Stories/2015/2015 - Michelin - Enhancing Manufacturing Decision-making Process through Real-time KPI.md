@@ -2,7 +2,7 @@
 {"dg-publish":true,"Company":"Michelin","Industry":"Manufacturing","Year":2015,"Title":"Enhancing Manufacturing Decision-making Process through Real-time KPI","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/EMEA2015/PDF/UC15EU02PH04_Michelin_Forest_EnhancingManufacturingDecisionmakingProcessthroughRealtimeKPI_v2.pdf","Country":"France","permalink":"/aveva/customer-stories/2015/2015-michelin-enhancing-manufacturing-decision-making-process-through-real-time-kpi/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Quality/SPC 
+#UseCase/Analytics/SPC 
 
 ---
 ## Michelin's Results

@@ -2,7 +2,7 @@
 {"dg-publish":true,"Company":"Southwest Power Pool","Industry":"Transmission & Distribution","Year":2015,"Title":"Building a Large Scale AF Model Enabling Operational Intelligence","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/UsersConference2015/PDF/UsersConference2015_SouthwestPowerPool_ParkerJeffParker_BuildingaLargeScaleAFModelEnablingOperationalIntelligence.pdf","Country":"US","permalink":"/aveva/customer-stories/2015/2015-southwest-power-pool-building-a-large-scale-af-model-enabling-operational-intelligence/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Energy/EMS
+#BusinessImpact/Energy/EnergyManagementSystem
 ---
 ## Southwest Power Pool's Results
 ![](https://i.imgur.com/riiVrlM.png)

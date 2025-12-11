@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"Company":"Black & Veatch","Industry":"Infrastructure/Water","Year":2015,"Title":"Using Data Analytics and OSIsoft’s Connected Services to Remotely Monitor and Optimize Energy Usage","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/RS2015_KansasCity/PDF/RS15NA01O104_BlackVeatch_Neeman_UsingDataAnalyticsandOSIsoftsConnectedServicestoRemotelyMonitorandOptimizeEnergyUsage.pdf","Country":"US","permalink":"/aveva/customer-stories/2015/2015-black-and-veatch-using-data-analytics-and-os-isoft-s-connected-services-to-remotely-monitor-and-optimize-energy-usage/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Black & Veatch","Industry":"Infrastructure/Water","Year":2015,"Title":"Using Data Analytics and OSIsoft’s Connected Services to Remotely Monitor and Optimize Energy Usage","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2015/RegionalSeminars/RS2015_KansasCity/PDF/RS15NA01O104_BlackVeatch_Neeman_UsingDataAnalyticsandOSIsoftsConnectedServicestoRemotelyMonitorandOptimizeEnergyUsage.pdf","Country":"US","Tags":["BusinessImpact/Maintenance/Leaks ,","BusinessImpact/Energy/EnergyConsumption","BusinessImpact/Energy"],"permalink":"/aveva/customer-stories/2015/2015-black-and-veatch-using-data-analytics-and-os-isoft-s-connected-services-to-remotely-monitor-and-optimize-energy-usage/","dgPassFrontmatter":true}
 ---
 
-#BusinessImpact/Maintenance/Leaks , #BusinessImpact/Sustainability/EnergyConsumption #BusinessImpact/Energy 
----
 ## Black & Veatch's Results
 ![](https://i.imgur.com/U7YAoNu.png)
 ![](https://i.imgur.com/eDk2CY1.png)

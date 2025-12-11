@@ -1,5 +1,5 @@
 ---
-{"Title":"DEME:  Enhancing Dredging Operations with AVEVA PI System","year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/deme---enhancing-dredging-operations-with-aveva-pi-system/","PDF":"https://cdn.mediavalet.com/eunl/content/yTIAk4BWHUiPw3IqrBaCFg/IM6Z-12aBU2nNcJtRLGIIw/Original/DEME%3A%20%20Enhancing%20Dredging%20Operations%20with%20AVEVA%20PI%20System.pdf","Company":"DEME","Keywords":["Ships"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-deme-enhancing-dredging-operations-with-aveva-pi-system/","dgPassFrontmatter":true}
+{"Title":"DEME:  Enhancing Dredging Operations with AVEVA PI System","year":2024,"Industry":"Marine","URL":"https://www.aveva.com/en/perspectives/presentations/2024/deme---enhancing-dredging-operations-with-aveva-pi-system/","PDF":"https://cdn.mediavalet.com/eunl/content/yTIAk4BWHUiPw3IqrBaCFg/IM6Z-12aBU2nNcJtRLGIIw/Original/DEME%3A%20%20Enhancing%20Dredging%20Operations%20with%20AVEVA%20PI%20System.pdf","Company":"DEME","Tags":["Industry/Ships","UseCase/DataQuality"],"dg-publish":true,"permalink":"/aveva/customer-stories/2024/2024-deme-enhancing-dredging-operations-with-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 

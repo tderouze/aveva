@@ -1,5 +1,5 @@
 ---
-{"Title":"2019 - How Air Liquide leverages on PI technologies to optimize its operations - SIO.Optim program","Year":2019,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations---sio-optim-program/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2OG07-AirLiquide-Zhang-How-Air-Liquide-leverages-on-PI-technologies-to-optimize-its-operations.pdf","Company":"Air Liquide","Keywords":["Hydrogen","Energy","Predictive Maintenance","Sustainability"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/","dgPassFrontmatter":true}
+{"Title":"2019 - How Air Liquide leverages on PI technologies to optimize its operations - SIO.Optim program","Year":2019,"Industry":"Oil & Gas","URL":"https://resources.osisoft.com/presentations/how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations---sio-optim-program/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2OG07-AirLiquide-Zhang-How-Air-Liquide-leverages-on-PI-technologies-to-optimize-its-operations.pdf","Company":"Air Liquide","Tags":["Industry/Hydrogen","BusinessImpact/Energy","BusinessImpact/Maintenance/PredictiveMaintenance","BusinessImpact/Sustainability","BusinessImpact/Energy/EnergyConsumption","BusinessImpact/Sustainability/GHGEmissions","Screenshot/Architecture","Screenshot/PIAF","Product/Seeq","AVEVA_Product/PredictiveAnalytics"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-air-liquide-how-air-liquide-leverages-on-pi-technologies-to-optimize-its-operations-sio-optim-program/","dgPassFrontmatter":true}
 ---
 
 ## Air Liquide's Results
@@ -17,8 +17,7 @@
 ![](https://i.imgur.com/dlQqPoU.png)
 ![](https://i.imgur.com/vgYeFgY.png)
 
-#BusinessImpact/Maintenance/PredictiveMaintenance #BusinessImpact/Sustainability/EnergyConsumption #BusinessImpact/Sustainability/GHGEmissions #Screenshot/Architecture  #Screenshot/PIAF
-#Product/Seeq #Asset/Hydrogen  #Product/AVEVA/PRISM  
+  
 
 #### PRESENTATION
 

@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"Company":"General Atomics Aeronautical","Industry":"Manufacturing","Year":2020,"Title":"Monitoring manufacturing quality and device health","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2MT08-General-Atomics-Manson-Monitoring-Manufacturing-Quality-and-Device-Health.pdf","Business Impacts":null,"permalink":"/aveva/customer-stories/2020/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"General Atomics Aeronautical","Industry":"Manufacturing","Year":2020,"Title":"Monitoring manufacturing quality and device health","PDF":"https://cdn.osisoft.com/osi/presentations/2020-uc-san-francisco-online/UC20NA-D2MT08-General-Atomics-Manson-Monitoring-Manufacturing-Quality-and-Device-Health.pdf","Tags":["Scope/Equipment/CNC"],"permalink":"/aveva/customer-stories/2020/2020-general-atomics-aeronautical-monitoring-manufacturing-quality-and-device-health/","dgPassFrontmatter":true}
 ---
- 
-#Asset/CNC
 
----
 ## General Atomics Aeronautical's Results
 ![](https://i.imgur.com/VUk9MdH.png)
 

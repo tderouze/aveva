@@ -1,5 +1,5 @@
 ---
-{"Title":"How to take advantage of your data to create added value for the business - Ence","Year":2022,"Industry":"Pulp & Paper","URL":"https://resources.osisoft.com/presentations/how-to-take-advantage-of-your-data-to-create-added-value-for-the-business---ence/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI070-ENCE-Gutierrez-Operational-Transformation.pdf","Company":"Ence","Keywords":["Biomass"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-ence-how-to-take-advantage-of-your-data-to-create-added-value-for-the-business-ence/","dgPassFrontmatter":true}
+{"Title":"How to take advantage of your data to create added value for the business - Ence","Year":2022,"Industry":"Pulp & Paper","URL":"https://resources.osisoft.com/presentations/how-to-take-advantage-of-your-data-to-create-added-value-for-the-business---ence/","PDF":"https://cdn.osisoft.com/osi/presentations/2022-AVEVA-Amsterdam/UC22EU-D2PI070-ENCE-Gutierrez-Operational-Transformation.pdf","Company":"Ence","Tags":["Scope/Process/Biomass"],"dg-publish":true,"permalink":"/aveva/customer-stories/2022/2022-ence-how-to-take-advantage-of-your-data-to-create-added-value-for-the-business-ence/","dgPassFrontmatter":true}
 ---
 
 ## Ence's Results
@@ -26,7 +26,7 @@ Reduced manual tasks by 60%, 3500 MWh saved, 135 analyzers working reliably, and
 ### Keywords
 - ENCE
 - AVEVA
-- PI System
+- PISystem
 - Pulp & Paper
 - Pulp Processing
 - Energy Efficiency
@@ -34,11 +34,11 @@ Reduced manual tasks by 60%, 3500 MWh saved, 135 analyzers working reliably, and
 - Process Variability
 - Automation
 - Asset Framework
-- Event Frames
+- EventFrames
 - Notifications
 - PI Vision
 - Environmental Monitoring
-- Predictive Maintenance
+- PredictiveMaintenance
 - CMMS
 
 ## Description

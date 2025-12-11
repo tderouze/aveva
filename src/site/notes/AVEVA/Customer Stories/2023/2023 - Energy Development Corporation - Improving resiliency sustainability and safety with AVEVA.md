@@ -2,9 +2,6 @@
 {"dg-publish":true,"Company":"Energy Development Corporation","Industry":"Power","Year":2023,"Title":"Improving resiliency, sustainability and safety with AVEVA","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2INF07-EnergyDevelopmentCorporation-Portugal-Energy.pdf","Country":"Portugal","permalink":"/aveva/customer-stories/2023/2023-energy-development-corporation-improving-resiliency-sustainability-and-safety-with-aveva/","dgPassFrontmatter":true}
 ---
 
-  
-
----
 ## Energy Development Corporation's Results
 ![](https://i.imgur.com/WnKcJyz.jpg)
 

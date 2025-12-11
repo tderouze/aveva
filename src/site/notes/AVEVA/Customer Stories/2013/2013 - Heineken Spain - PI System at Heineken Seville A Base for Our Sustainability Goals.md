@@ -1,5 +1,5 @@
 ---
-{"Title":"PI System at Heineken Seville: A Base for Our Sustainability Goals","Year":2013,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/pi-system-at-heineken-seville--a-base-for-our-sustainability-goals/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/EMEA2013/PDF/EMEA13_Heineken_Carmona_PISystemAtHeinekenSevilleBrewery.pdf","Company":"Heineken Spain","Keywords":["Packaging Line"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-heineken-spain-pi-system-at-heineken-seville-a-base-for-our-sustainability-goals/","dgPassFrontmatter":true}
+{"Title":"PI System at Heineken Seville: A Base for Our Sustainability Goals","Year":2013,"Industry":"Food & Beverage","URL":"https://resources.osisoft.com/presentations/pi-system-at-heineken-seville--a-base-for-our-sustainability-goals/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/EMEA2013/PDF/EMEA13_Heineken_Carmona_PISystemAtHeinekenSevilleBrewery.pdf","Company":"Heineken Spain","Tags":["BusinessImpact/PackagingLine"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-heineken-spain-pi-system-at-heineken-seville-a-base-for-our-sustainability-goals/","dgPassFrontmatter":true}
 ---
 
 

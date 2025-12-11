@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["PISystem","CyberSecurity","Architecture"],"permalink":"/blog-articles/aveva-pi-system/data-diode-architecture-for-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["PISystem","Technology/CyberSecurity","Architecture"],"permalink":"/blog-articles/aveva-pi-system/data-diode-architecture-for-aveva-pi-system/","dgPassFrontmatter":true}
 ---
 
 The AVEVA PI System can effectively operate in highly secure environments using a data diode architecture, providing robust protection for critical infrastructure and sensitive data. This approach ensures unidirectional data flow, significantly enhancing cybersecurity while maintaining operational efficiency.
