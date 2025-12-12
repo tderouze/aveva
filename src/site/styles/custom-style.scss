@@ -1,182 +1,205 @@
-// colors
-$color-bg: #f6f6f9;
-$color-surface: #ffffff;
-$color-surface-alt: #f0f2f8;
-$color-primary: #7a2bc2;   // violet inspiré AVEVA mais modifié
-$color-primary-dark: #5d1f92;
-$color-text: #1f2430;
-$color-text-muted: #5c6475;
-$color-border-subtle: #dde1ee;
+/* Custom styles for the site */
 
-// typography
-$font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+/* Custom icon selectors */
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="chest"]::before,
+body.filetree-note-icon .filename[data-note-icon="chest"]::before,
+body.links-note-icon .internal-link[data-note-icon="chest"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="chest"]::before {
+    background-image: url(/img/chest.png);
+}
 
-// layout
-$max-width-page: 1080px;
-$space-xs: 0.25rem;
-$space-sm: 0.5rem;
-$space-md: 1rem;
-$space-lg: 2rem;
-$space-xl: 3rem;
-$radius-sm: 4px;
-$radius-md: 8px;
-$shadow-soft: 0 16px 40px rgba(15, 23, 42, 0.12);
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="exit"]::before,
+body.filetree-note-icon .filename[data-note-icon="exit"]::before,
+body.links-note-icon .internal-link[data-note-icon="exit"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="exit"]::before {
+    background-image: var(--note-icon-exit);
+}
 
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="signpost"]::before,
+body.filetree-note-icon .filename[data-note-icon="signpost"]::before,
+body.links-note-icon .internal-link[data-note-icon="signpost"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="signpost"]::before {
+    background-image: url(/img/signpost.png);
+}
 
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="stone"]::before,
+body.filetree-note-icon .filename[data-note-icon="stone"]::before,
+body.links-note-icon .internal-link[data-note-icon="stone"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="stone"]::before {
+    background-image: url(/img/stone.png);
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="withered"]::before,
+body.filetree-note-icon .filename[data-note-icon="withered"]::before,
+body.links-note-icon .internal-link[data-note-icon="withered"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="withered"]::before {
+    background-image: url(/img/withered.png);
+}
+
+/* Dark mode styles */
 body {
-  margin: 0;
-  font-family: $font-sans;
-  color: $color-text;
-  background: $color-bg;
-  -webkit-font-smoothing: antialiased;
-}
+  #search-results .searchresult {
+    font-size: 1rem;
+  }
+  #search-results {
+    max-height: 70vh;
+  }
+  .filetree-sidebar {
+      width: 400px;
+      filter:drop-shadow(0 0 .5rem rgb(0,0,0));
+  }
+  .search-link {
+      font-size: 1.1rem;
+  }
+  
+  &.theme-dark {
+    
+    /* Floating links on right */
+    #floating-links {
+      position: fixed;
+      color: var(--link-color);
+      bottom: 1vmax;
+      right: 1.2vmax;
+      font-size: 24px;
+      z-index: 999999;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 5px;
 
-.page {
-  max-width: $max-width-page;
-  margin: 0 auto;
-  padding: $space-lg $space-md;
-}
+      .svg-icon,
+      i {
+        cursor: pointer;
+        height: 24px;
+        width: auto;
+      }
+    }
 
-main {
-  display: block;
-}
-
-
-h1, h2, h3, h4 {
-  font-family: $font-sans;
-  font-weight: 650;
-  letter-spacing: -0.01em;
-  color: $color-text;
-  margin: 0 0 $space-sm;
-}
-
-h1 { font-size: 2.1rem; }
-h2 { font-size: 1.6rem; margin-top: $space-lg; }
-h3 { font-size: 1.25rem; margin-top: $space-md; }
-
-p {
-  margin: 0 0 $space-md;
-  line-height: 1.6;
-  color: $color-text;
-}
-
-a {
-  color: $color-primary;
-  text-decoration: none;
-  font-weight: 500;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: $space-lg;
-}
-
-.card {
-  background: $color-surface;
-  border-radius: $radius-md;
-  padding: $space-lg $space-md;
-  box-shadow: 0 10px 30px rgba(15,23,42,.08);
-}
-
-.card__title {
-  font-size: 1.1rem;
-  margin-bottom: $space-xs;
-}
-
-.card__meta {
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  color: $color-text-muted;
-  margin-bottom: $space-sm;
-}
-
-
-.section {
-  padding: $space-lg 0;
-}
-
-.section--alt {
-  background: $color-surface-alt;
-}
-
-.section__heading {
-  font-size: 1.6rem;
-  margin-bottom: $space-sm;
-}
-
-.section__subheading {
-  max-width: 42rem;
-  color: $color-text-muted;
-  margin-bottom: $space-md;
-}
-
-
-.button,
-.btn-primary {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.75rem 1.5rem;
-  border-radius: 999px;
-  border: none;
-  cursor: pointer;
-  font-weight: 600;
-  font-size: 0.95rem;
-  text-decoration: none;
-  color: #fff;
-  background: $color-primary;
-  box-shadow: 0 10px 24px rgba(0,0,0,.15);
-  transition: background .15s ease, transform .15s ease, box-shadow .15s ease;
-}
-
-.button:hover,
-.btn-primary:hover {
-  background: $color-primary-dark;
-  transform: translateY(-1px);
-  box-shadow: 0 14px 32px rgba(0,0,0,.18);
-}
-
-.btn-secondary {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.7rem 1.4rem;
-  border-radius: 999px;
-  border: 1px solid $color-border-subtle;
-  background: transparent;
-  color: $color-primary;
-  font-weight: 600;
-  text-decoration: none;
-}
-
-.hero {
-  padding: $space-xl 0 $space-lg;
-  text-align: left;
-}
-
-.hero__eyebrow {
-  text-transform: uppercase;
-  letter-spacing: .08em;
-  font-size: 0.8rem;
-  color: $color-text-muted;
-  margin-bottom: $space-sm;
-}
-
-.hero__title {
-  font-size: clamp(2.4rem, 4vw, 3.2rem);
-  line-height: 1.1;
-  margin-bottom: $space-md;
-}
-
-.hero__subtitle {
-  max-width: 40rem;
-  font-size: 1.05rem;
-  color: $color-text-muted;
-  margin-bottom: $space-lg;
+    /* Dungeon visualization styles */
+    #dungeon-map {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-bottom: 10px;
+      flex-direction: column;
+      width: 100%;
+      
+      .dungeon-body {
+        display: inline-flex;
+        flex-direction: column;
+        margin: 24px;
+        margin-top: 0px;
+        margin-bottom: 12px;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        
+        /* Grid background */
+        &::before {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-image: 
+            linear-gradient(to right, var(--text-muted) 1px, transparent 1px),
+            linear-gradient(to bottom, var(--text-muted) 1px, transparent 1px);
+          background-position: 0 0;
+          background-size: 26px 26px; /* Adjusted to match cell size + margin */
+          opacity: 0.1;
+          z-index: -1;
+          border: 1px solid var(--text-muted);
+          border-radius: 4px;
+        }
+        
+        @media (max-width: 575.99px) {
+          transform: scale(0.7);
+        }
+        
+        .dungeon-row {
+          display: flex;
+          flex-direction: row;
+          align-items: center !important;
+          vertical-align: center !important;
+          justify-content: center !important; /* Center cells horizontally */
+          height: 26px; /* Fixed height to ensure consistent rows */
+          
+          .dungeon-cell, .empty-cell {
+            width: 24px;
+            height: 24px;
+            display: flex;
+            justify-content: center !important;
+            align-items: center !important;
+            vertical-align: center !important;
+            margin: 1px;
+            box-sizing: border-box;
+          }
+          
+          .dungeon-cell {
+            background-color: rgba(128, 128, 128, 0.2); // Gray background with 0.2 opacity
+            border-radius: 2px;
+            position: relative; /* Ensure proper positioning context */
+            
+            a.dungeon-icon-link {
+              cursor: pointer;
+              width: 100%;
+              height: 100%;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              z-index: 2; /* Ensure icons are above the cell background */
+              
+              img {
+                width: 19px;
+                height: 19px;
+                object-fit: contain;
+                transition: transform 0.2s ease;
+                display: block; /* Ensure proper display */
+              }
+              
+              img:hover {
+                transform: scale(1.25);
+              }
+            }
+            
+            .empty-dungeon {
+              width: 100%;
+              height: 100%;
+            }
+          }
+          
+          .empty-cell {
+            background-color: transparent; // Transparent background for non-dungeon cells
+          }
+        }
+      }
+      
+      .dungeon-legends {
+        display: flex;
+        gap: 5px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        vertical-align: middle;
+        flex-wrap: wrap;
+        font-size: 0.7em;
+        color: var(--text-muted);
+        
+        .dungeon-legend {
+          display: flex;
+          align-items: center;
+          vertical-align: middle !important;
+          gap: 5px;
+        }
+        
+        img {
+          height: 1.33em;
+          vertical-align: text-bottom !important;
+          align-items: center;
+          width: auto;
+        }
+      }
+    }
+  }
 }
