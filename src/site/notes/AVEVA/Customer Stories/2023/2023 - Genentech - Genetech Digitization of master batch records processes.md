@@ -1,5 +1,5 @@
 ---
-{"Title":"Genetech: Digitization of master batch records processes","Year":2023,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/genetech--digitization-of-master-batch-records-processes/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2MAN05-Genentech-Himmelman-Genetech-Digitization-of-master-batch-records-processes.pdf","Company":"Genentech","Tags":["AVEVA_Product/SystemPlatform","PISystem/ASP_PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-genentech-genetech-digitization-of-master-batch-records-processes/","dgPassFrontmatter":true}
+{"Title":"Genetech: Digitization of master batch records processes","Year":2023,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/genetech--digitization-of-master-batch-records-processes/","PDF":"https://cdn.osisoft.com/osi/presentations/2023-AVEVA-San-Francisco/UC23NA-2MAN05-Genentech-Himmelman-Genetech-Digitization-of-master-batch-records-processes.pdf","Company":"Genentech","Tags":["AVEVA_Product/SystemPlatform","PISystem/Synergies/ASP_PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2023/2023-genentech-genetech-digitization-of-master-batch-records-processes/","dgPassFrontmatter":true}
 ---
 
 ## Genentech's Results

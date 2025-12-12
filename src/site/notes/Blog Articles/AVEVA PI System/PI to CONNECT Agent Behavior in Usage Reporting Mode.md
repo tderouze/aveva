@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/aveva-pi-system/pi-to-connect-agent-behavior-in-usage-reporting-mode/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["PISystem/PI-to-CONNECT","PISystem/CONNECT-to-PI"],"permalink":"/blog-articles/aveva-pi-system/pi-to-connect-agent-behavior-in-usage-reporting-mode/","dgPassFrontmatter":true}
 ---
 
 ## **1. Overview**
 
 The **PI to CONNECT Agent** serves as a secure and reliable communication bridge between on‑premises PI Systems and **AVEVA Connect**. Its primary function is to facilitate data exchange and system registration with AVEVA’s cloud environment in accordance with corporate security and licensing policies.
 
-When configured in **Usage‑Reporting‑Only** mode, the Agent restricts outbound data transmission solely to essential licensing and usage metrics required by AVEVA Flex licensing. This operational mode is designed to protect sensitive operational data by minimizing exposure while maintaining full compliance with licensing terms. It ensures that no real‑time process or asset information is ever transmitted beyond the customer network.
+When configured in **Usage‑Reporting‑Only** mode, the Agent restricts outbound data transmission solely to essential licensing and usage metrics required by AVEVA Flex licensing. This mode is enabled through a dedicated toggle, which customers can switch off at any time if they decide to transmit operational data from the PI Data Archive.
+
+While the toggle is active, the Agent enforces strict security measures: it does not query or access any process or asset databases, focusing exclusively on collecting usage metrics. This design minimizes exposure of sensitive operational data while maintaining full compliance with licensing terms, ensuring that no real‑time process or asset information is ever transmitted beyond the customer network.
 
 ---
 
@@ -32,12 +34,17 @@ When configured in **Usage‑Reporting‑Only** mode, the Agent restricts outbou
 - **Outbound Data in Usage‑Reporting‑Only Mode:**  
     The following fields represent the complete set of outbound data transmitted in this mode:
     
-    - PI Server name
+    - PI Server name (optional). Customers have ability to set any alternative display name in agent's configuration utility to hide the real server name.
         
     - Licensed tag count (total number of PI points under license)
         
     - Basic usage metrics necessary for **AVEVA Flex** licensing validation
-        
+- **PI to CONNECT Agent API Calls to the PI Server:**  
+	If the agent is configured only to send usage information it will only use the following API from data archive:
+	
+	- Connect to Data Archive and get basic information (Id, Name, Version, Collective Structure, etc). 
+	- Get License Information
+	- Get Snapshot Statistic (to get total number of points)
 - **Exclusion of Operational Data:**  
     No time‑series records, tag names, timestamps, values, or AF attributes are included in the transmitted payload. Operational data remains entirely within the on‑premises environment.
     

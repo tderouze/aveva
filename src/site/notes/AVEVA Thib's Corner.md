@@ -13,15 +13,15 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 
 ### My Last Blog Post
 
+- 2025-12-11 - [[Blog Articles/AVEVA PI System/Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud\|Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/PI to CONNECT Agent Behavior in Usage Reporting Mode\|PI to CONNECT Agent Behavior in Usage Reporting Mode]]
-- 2025-12-10 - [[Blog Articles/AVEVA PI System/Untitled\|Untitled]]
+- 2025-12-10 - [[Blog Articles/AVEVA PI System/Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics\|Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics]]
 - 2025-12-10 - [[Blog Articles/Tech/Ollama vs LM Studio - quel outil pour exécuter des modèles IA en local\|Ollama vs LM Studio - quel outil pour exécuter des modèles IA en local]]
 - 2025-12-05 - [[Blog Articles/AVEVA PI System/Node-RED, Crosser, and n8n - Operational Workflow Tools for Industrial Automation\|Node-RED, Crosser, and n8n - Operational Workflow Tools for Industrial Automation]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Deploying AVEVA PI System at Scale - A Comprehensive Guide\|Deploying AVEVA PI System at Scale - A Comprehensive Guide]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
 
 { .block-language-dataview}

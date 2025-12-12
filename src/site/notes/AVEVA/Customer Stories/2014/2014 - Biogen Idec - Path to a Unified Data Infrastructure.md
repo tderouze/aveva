@@ -1,5 +1,5 @@
 ---
-{"Title":"Path to a Unified Data Infrastructure","Year":2014,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/path-to-a-unified-data-infrastructure/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_BiogenIdec_Green_PathtoaUnifiedDataInfrastructure.pdf","Company":"Biogen Idec","Tags":["AVEVA_Product/AVEVAHistorian","PISystem/ASP_PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-biogen-idec-path-to-a-unified-data-infrastructure/","dgPassFrontmatter":true}
+{"Title":"Path to a Unified Data Infrastructure","Year":2014,"Industry":"Pharmaceuticals & Life Sciences","URL":"https://resources.osisoft.com/presentations/path-to-a-unified-data-infrastructure/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2014/UsersConference2014/PDF/UC2014_BiogenIdec_Green_PathtoaUnifiedDataInfrastructure.pdf","Company":"Biogen Idec","Tags":["AVEVA_Product/AVEVAHistorian","PISystem/Synergies/ASP_PI"],"dg-publish":true,"permalink":"/aveva/customer-stories/2014/2014-biogen-idec-path-to-a-unified-data-infrastructure/","dgPassFrontmatter":true}
 ---
 
 ## Biogen Idec's Results

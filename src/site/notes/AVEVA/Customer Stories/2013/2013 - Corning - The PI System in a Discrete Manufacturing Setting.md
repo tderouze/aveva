@@ -1,5 +1,5 @@
 ---
-{"Title":"The PI System in a Discrete Manufacturing Setting","Year":2013,"Industry":"Glass","URL":"https://resources.osisoft.com/presentations/the-pi-system-in-a-discrete-manufacturing-setting/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/RegionalSeminars/NewYork/PDFs/RS2012_NewYork_Corning_JohnDolewa_ThePISysteminaDiscreteManufacturingSetting.pdf","Company":"Corning","Tags":["UseCase/HighAvailability","Technology/CMMS","PISystem/PI-MES","Product/DataSource/Kepware","Product/Tabware"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/","dgPassFrontmatter":true}
+{"Title":"The PI System in a Discrete Manufacturing Setting","Year":2013,"Industry":"Glass","URL":"https://resources.osisoft.com/presentations/the-pi-system-in-a-discrete-manufacturing-setting/","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/RegionalSeminars/NewYork/PDFs/RS2012_NewYork_Corning_JohnDolewa_ThePISysteminaDiscreteManufacturingSetting.pdf","Company":"Corning","Tags":["UseCase/HighAvailability","Technology/CMMS","PISystem/Synergies/PI-MES","Product/DataSource/Kepware","Product/Tabware"],"dg-publish":true,"permalink":"/aveva/customer-stories/2013/2013-corning-the-pi-system-in-a-discrete-manufacturing-setting/","dgPassFrontmatter":true}
 ---
 
 ## Corning's Results
