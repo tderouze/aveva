@@ -1,14 +1,20 @@
 ---
-{"Title":"Experience using the PI System for Full-Featured Vibration Monitoring at Portland General Electric","Year":2019,"Industry":"Power","URL":"https://resources.osisoft.com/Presentations/Experience-using-the-PI-System-for-Full-Featured-Vibration-Monitoring-at-Portland-General-Electric/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.pdf","Company":"Portland General Electric","Tags":["BusinessImpact/Maintenance/CBM","BusinessImpact/Vibrations"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-portland-general-electric-experience-using-the-pi-system-for-full-featured-vibration-monitoring-at-portland-general-electric/","dgPassFrontmatter":true}
+{"Title":"Experience using the PI System for Full-Featured Vibration Monitoring at Portland General Electric","Year":2019,"Industry":"General","URL":"https://resources.osisoft.com/Presentations/Experience-using-the-PI-System-for-Full-Featured-Vibration-Monitoring-at-Portland-General-Electric/","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.pdf?_ga=2.257673419.1929167743.1743491492-877513685.1741348354","Company":"Portland General Electric","Tags":["BusinessImpact/Vibrations","BusinessImpact/Maintenance/CBM"],"dg-publish":true,"permalink":"/aveva/customer-stories/2019/2019-portland-general-electric-experience-using-the-pi-system-for-full-featured-vibration-monitoring-at-portland-general-electric/","dgPassFrontmatter":true}
 ---
 
 ## Portland General Electric's Results
 
 ## Screenshots
 
+## 2019 - PI World - San Francisco - Power Generation
+
+### Experience using the PI System for Full-Featured Vibration Monitoring at Portland General Electric
+
+<video src="https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.mp4" poster="https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.jpg" id="ctl00_MainContent_ctl00_presVideo" class="embed-responsive-item" style="background-color: black; max-width: 640px; max-height: 360px" preload="none" controls="controls"></video>
+
 Portland General Electric (PGE) Company is a vertically integrated, investor-owned energy utility in Northwest Oregon. It operates numerous generating facilities and has a diverse portfolio of 17 assets, including 400 wind turbines, 2 large hydro complexes, 4 combined-cycle plants, a coal-fired plant, which the company is retiring in 2020, and a network of solar facilities. The OSIsoft PI System is used throughout PGE’s generating facilities as an operational data historian and in 2015, PGE became aware of new technology that would allow it to use its PI System for adding condition monitoring capabilities to its installed base of permanent vibration monitoring systems. This case history explores how the technology was applied at PGE’s Beaver plant, a combined-cycle facility with seven gas turbines and one steam turbine. PGE’s experience installing and using the system to date will be covered, along with the reasons a PI-based Condition Monitoring solution was so compelling.
 
-[Download Presentation](https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.pdf)
+[Download Presentation](https://cdn.osisoft.com/osi/presentations/2019-uc-san-francisco/US19NA-D2PG02-PortlandGeneralElectric-Curtis-Experience-using-the-PI-System-for-Full-Featured.pdf?_ga=2.257673419.1929167743.1743491492-877513685.1741348354)
 
 #### Industry
 

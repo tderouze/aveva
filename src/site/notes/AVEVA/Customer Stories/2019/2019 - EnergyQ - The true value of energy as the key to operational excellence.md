@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"EnergyQ","Industry":"Power","Year":2019,"Title":"The true value of energy as the key to operational excellence","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2UT06-enerGQ-Burghard-The-true-value-of-energy-as-the-key-to-operational-excellence.pdf","Country":"Neitherland","Business Impacts":[["Business Impacts"]],"permalink":"/aveva/customer-stories/2019/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"EnergyQ","Industry":"Power","Year":2019,"Title":"The true value of energy as the key to operational excellence","PDF":"https://cdn.osisoft.com/osi/presentations/2019-uc-gothenburg/UC19EU-D2UT06-enerGQ-Burghard-The-true-value-of-energy-as-the-key-to-operational-excellence.pdf","Country":"Neitherland","permalink":"/aveva/customer-stories/2019/2019-energy-q-the-true-value-of-energy-as-the-key-to-operational-excellence/","dgPassFrontmatter":true}
 ---
 
 ## EnergyQ's Results

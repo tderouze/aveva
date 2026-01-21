@@ -13,6 +13,7 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 
 ### My Last Blog Post
 
+- 2026-01-21 - [[Blog Articles/Lectures ou Podcasts Inspirants/Récapitulatif de l’épisode « IA & Avant‑vente »\|Récapitulatif de l’épisode « IA & Avant‑vente »]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud\|Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/PI to CONNECT Agent Behavior in Usage Reporting Mode\|PI to CONNECT Agent Behavior in Usage Reporting Mode]]
 - 2025-12-10 - [[Blog Articles/AVEVA PI System/Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics\|Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics]]
@@ -22,7 +23,6 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
 - 2025-11-28 - [[Blog Articles/AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/PI AF 10 Commandments - Your Guide to Data Management Excellence\|PI AF 10 Commandments - Your Guide to Data Management Excellence]]
 
 { .block-language-dataview}
 
