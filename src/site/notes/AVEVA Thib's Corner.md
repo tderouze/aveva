@@ -15,6 +15,7 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 
 - 2026-06-29 - [[Blog Articles/AVEVA PI System/Comparison/AVEVA PI System vs IP.21 - Two Historians, Two Philosophies for Operational Data\|AVEVA PI System vs IP.21 - Two Historians, Two Philosophies for Operational Data]]
 - 2026-06-29 - [[Blog Articles/AVEVA PI System/Comparison/PI Vision vs Power BI - Choosing the Right Visualization Layer for Industrial Operational Data\|PI Vision vs Power BI - Choosing the Right Visualization Layer for Industrial Operational Data]]
+- 2026-06-29 - [[Blog Articles/AVEVA PI System/Comparison/AVEVA PI System vs AVEVA System Platform - Where Each One Fits in an Industrial Architecture\|AVEVA PI System vs AVEVA System Platform - Where Each One Fits in an Industrial Architecture]]
 - 2026-02-12 - [[Blog Articles/AVEVA PI System/PI Vision Custom Symbols - Universal Data Entry\|PI Vision Custom Symbols - Universal Data Entry]]
 - 2026-02-11 - [[Blog Articles/Tech/n8n\|n8n]]
 - 2026-02-09 - [[Blog Articles/Tech/My AI Magic Move\|My AI Magic Move]]
@@ -22,7 +23,6 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 - 2026-01-27 - [[Blog Articles/AVEVA PI System/CONNECT Communities - The Future of Secure Industrial Data Sharing\|CONNECT Communities - The Future of Secure Industrial Data Sharing]]
 - 2026-01-21 - [[Blog Articles/Lectures ou Podcasts Inspirants/Récapitulatif de l’épisode « IA & Avant‑vente »\|Récapitulatif de l’épisode « IA & Avant‑vente »]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud\|Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud]]
-- 2025-12-11 - [[Blog Articles/AVEVA PI System/PI to CONNECT Agent Behavior in Usage Reporting Mode\|PI to CONNECT Agent Behavior in Usage Reporting Mode]]
 
 { .block-language-dataview}
 
