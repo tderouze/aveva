@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/aveva-thib-s-corner/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home":true,"permalink":"/aveva-thib-s-corner/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Welcome to Thib's Corner
@@ -13,16 +13,16 @@ From Elicitator to AI Prompt Architect, via Ultracrepidarianist, I am just a nor
 
 ### My Last Blog Post
 
+- 2026-06-29 - [[Blog Articles/AVEVA PI System/Comparison/AVEVA PI System vs IP.21 - Two Historians, Two Philosophies for Operational Data\|AVEVA PI System vs IP.21 - Two Historians, Two Philosophies for Operational Data]]
+- 2026-06-29 - [[Blog Articles/AVEVA PI System/Comparison/PI Vision vs Power BI - Choosing the Right Visualization Layer for Industrial Operational Data\|PI Vision vs Power BI - Choosing the Right Visualization Layer for Industrial Operational Data]]
+- 2026-02-12 - [[Blog Articles/AVEVA PI System/PI Vision Custom Symbols - Universal Data Entry\|PI Vision Custom Symbols - Universal Data Entry]]
+- 2026-02-11 - [[Blog Articles/Tech/n8n\|n8n]]
+- 2026-02-09 - [[Blog Articles/Tech/My AI Magic Move\|My AI Magic Move]]
+- 2026-01-28 - [[Blog Articles/Video/Incrustez des Sous-Titres Pro avec ASS et FFmpeg- Guide Complet\|Incrustez des Sous-Titres Pro avec ASS et FFmpeg- Guide Complet]]
+- 2026-01-27 - [[Blog Articles/AVEVA PI System/CONNECT Communities - The Future of Secure Industrial Data Sharing\|CONNECT Communities - The Future of Secure Industrial Data Sharing]]
 - 2026-01-21 - [[Blog Articles/Lectures ou Podcasts Inspirants/Récapitulatif de l’épisode « IA & Avant‑vente »\|Récapitulatif de l’épisode « IA & Avant‑vente »]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud\|Infography - Connecting Your On-Premises Pl System and the AVEVA Cloud]]
 - 2025-12-11 - [[Blog Articles/AVEVA PI System/PI to CONNECT Agent Behavior in Usage Reporting Mode\|PI to CONNECT Agent Behavior in Usage Reporting Mode]]
-- 2025-12-10 - [[Blog Articles/AVEVA PI System/Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics\|Infographie - Guide des Bonnes Pratiques pour Asset Framework & Analytics]]
-- 2025-12-10 - [[Blog Articles/Tech/Ollama vs LM Studio - quel outil pour exécuter des modèles IA en local\|Ollama vs LM Studio - quel outil pour exécuter des modèles IA en local]]
-- 2025-12-05 - [[Blog Articles/AVEVA PI System/Node-RED, Crosser, and n8n - Operational Workflow Tools for Industrial Automation\|Node-RED, Crosser, and n8n - Operational Workflow Tools for Industrial Automation]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments\|AVEVA PI System vs Cloud Historian - Why PI Excels in Industrial Environments]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey\|Comparing AVEVA PI System and Optimistik – Which Fits Your Operational Data Journey]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs\|CONNECT vs PI Integrator - Choosing the Right Tool for Your Industrial Data Needs]]
-- 2025-11-28 - [[Blog Articles/AVEVA PI System/Data Diode Architecture for AVEVA PI System\|Data Diode Architecture for AVEVA PI System]]
 
 { .block-language-dataview}
 

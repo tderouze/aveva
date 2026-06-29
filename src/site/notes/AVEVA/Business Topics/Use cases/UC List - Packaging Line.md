@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-packaging-line/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-packaging-line/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

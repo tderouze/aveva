@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/technical-topics/aveva-pi-system-system-requirements/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/technical-topics/aveva-pi-system-system-requirements/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

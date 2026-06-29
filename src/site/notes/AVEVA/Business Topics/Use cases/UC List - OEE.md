@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-oee/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-oee/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 | File                                                                                                                                                                                                                                                                                                                            | Lien                                                                                                                                                                                                 | PDF                                                                                                                                                                                                                                     |

@@ -1,5 +1,5 @@
 ---
-{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7100448410134028288/","dg-publish":true,"permalink":"/blog-articles/lectures-ou-podcasts-inspirants/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/","dgPassFrontmatter":true}
+{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7100448410134028288/","dg-publish":true,"permalink":"/blog-articles/lectures-ou-podcasts-inspirants/les-mots-sont-des-fenetres-ou-bien-ce-sont-des-murs/","dgPassFrontmatter":true,"dg-note-properties":{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7100448410134028288/"}}
 ---
 
 

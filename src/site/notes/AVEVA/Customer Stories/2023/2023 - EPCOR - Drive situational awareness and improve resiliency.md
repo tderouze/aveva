@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"EPCOR","Industry":"Infrastructure/Water","Year":2023,"Title":"Drive situational awareness and improve resiliency","permalink":"/aveva/customer-stories/2023/2023-epcor-drive-situational-awareness-and-improve-resiliency/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"EPCOR","Industry":"Infrastructure/Water","Year":2023,"Title":"Drive situational awareness and improve resiliency","permalink":"/aveva/customer-stories/2023/2023-epcor-drive-situational-awareness-and-improve-resiliency/","dgPassFrontmatter":true,"dg-note-properties":{"Company":"EPCOR","Industry":"Infrastructure/Water","Year":2023,"Title":"Drive situational awareness and improve resiliency"}}
 ---
 
 ## EPCOR's Results

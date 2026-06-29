@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/industry/uc-list-ships/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/industry/uc-list-ships/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 | File                                                                                                                                                                                                                                                                                                                        | Lien                                                                                                                                                                                                                                        | PDF                                                                                                                                                                                                                                                                      |

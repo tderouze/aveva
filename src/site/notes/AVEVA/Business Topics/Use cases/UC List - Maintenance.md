@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-maintenance/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/use-cases/uc-list-maintenance/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -11,8 +11,8 @@
 - Food & Beverage - 2020 - Kellogg : [2020 - Kellogg's Uses of PI System in Consumer Goods Industry](https://resources.osisoft.com/presentations/kellogg-s-uses-of-pi-system-in-consumer-goods-industry/)
 - Food & Beverage - 2021 - Kellogg : [Digitalizing the food industry with the PI System](https://resources.osisoft.com/presentations/digitalizing-the-food-industry-with-the-pi-system/)
 - General - 2011 - Angie Rothweiler : [CMMS - Extending Condition Based Maintenance Program to Underground Networks](https://resources.osisoft.com/Presentations/CMMS---Extending-Condition-Based-Maintenance-Program-to-Underground-Networks/)
-- General - 2016 - EQT Corporation : [EQT Midstream - Reliability Centered Maintenance Program](https://resources.osisoft.com/Presentations/EQT-Midstream---Reliability-Centered-Maintenance-Program/)
 - General - 2016 - Las Vegas Valley Water District : [Evaluating Efficiency and Predicting Maintenance with Existing Data Using PI AF and Asset Analytics](https://resources.osisoft.com/Presentations/Evaluating-Efficiency-and-Predicting-Maintenance-with-Existing-Data-Using-PI-AF-and-Asset-Analytics/)
+- General - 2016 - EQT Corporation : [EQT Midstream - Reliability Centered Maintenance Program](https://resources.osisoft.com/Presentations/EQT-Midstream---Reliability-Centered-Maintenance-Program/)
 - General - 2017 - STM : [Les actifs fixes du métro, un procédé en continu](https://resources.osisoft.com/presentations/les-actifs-fixes-du-m%C3%A9tro--un-proc%C3%A9d%C3%A9-en-continu/)
 - General - 2019 - Portland General Electric : [Experience using the PI System for Full-Featured Vibration Monitoring at Portland General Electric](https://resources.osisoft.com/Presentations/Experience-using-the-PI-System-for-Full-Featured-Vibration-Monitoring-at-Portland-General-Electric/)
 - Infrastructure/Water - 2009 - King County Wastewater Treatment Division : [PI as a Maintenance Tool](https://resources.osisoft.com/Presentations/PI-as-a-Maintenance-Tool/)
@@ -34,8 +34,8 @@
 - Oil & Gas - 2022 - Yinson : \-
 - Oil & Gas - 2024 - Yinson : [Yinson:  How to get the value from Real-Time Operational Data in FPSO for maintenance, safety and carbon footprint](https://www.aveva.com/en/perspectives/presentations/2024/yinson---how-to-get-the-value-from-real-time-operational-data-in-fpso-for-maintenance--safety-and-carbon-footprint/)
 - Power - 2011 - GenOn Energy : [Proactive Maintenance at GenOn: the Proactive Maintenance Data Gateway Built on the OSIsoft PI System Infrastructure](https://resources.osisoft.com/Presentations/Proactive-Maintenance-at-GenOn--the-Proactive-Maintenance-Data-Gateway-Built-on-the-OSIsoft-PI-System-Infrastructure/)
-- Power - 2015 - UniEnergy Technologies : \-
 - Power - 2015 - Vattenfall : [Deploying a Condition-Based Maintenance Strategy in the Hydro Power Business](https://resources.osisoft.com/presentations/deploying-a-condition-based-maintenance-strategy-in-the-hydro-power-business/)
+- Power - 2015 - UniEnergy Technologies : \-
 - Power - 2016 - ESB : [ESB: Using the PI System in Power Generation Operation and Maintenance to Optimise Commercial, Environmen](https://resources.osisoft.com/Presentations/ESB--Using-the-PI-System-in-Power-Generation-Operation-and-Maintenance-to-Optimise-Commercial--Environmen/)
 - Power - 2018 - Silicon Valley Power : [Optimizing Predictive Maintenance by Integrating Vibration Data and Process Data](https://resources.osisoft.com/Presentations/Optimizing-Predictive-Maintenance-by-Integrating-Vibration-Data-and-Process-Data/)
 - Power - 2019 - Ameren : [Journey to a new paradigm in utility condition-based maintenance (Ameren)](https://resources.osisoft.com/Presentations/Journey-to-a-new-paradigm-in-utility-condition-based-maintenance--Amerenx/)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/tech/ollama-vs-lm-studio-quel-outil-pour-executer-des-modeles-ia-en-local/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/blog-articles/tech/ollama-vs-lm-studio-quel-outil-pour-executer-des-modeles-ia-en-local/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Depuis quelques mois, les outils permettant d’exécuter de grands modèles de langage (**LLM**) en local se multiplient. Parmi les plus populaires, **Ollama** et **LM Studio** se distinguent. Tous deux visent à simplifier l’installation et l’utilisation de modèles comme **Llama 3**, **Mistral**, ou encore **Phi-3**, directement sur votre machine, sans dépendre d’un serveur distant. Mais leurs approches et leurs usages diffèrent. Voici un comparatif clair pour vous aider à choisir celui qui vous correspond.

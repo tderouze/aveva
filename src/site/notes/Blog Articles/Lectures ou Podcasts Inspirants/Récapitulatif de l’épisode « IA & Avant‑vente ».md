@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/lectures-ou-podcasts-inspirants/recapitulatif-de-l-episode-ia-and-avant-vente/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/blog-articles/lectures-ou-podcasts-inspirants/recapitulatif-de-l-episode-ia-and-avant-vente/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **🗞️ Newsletter – Récapitulatif de l’épisode « IA & Avant‑vente »**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["PISystem/PI-to-CONNECT","PISystem/CONNECT-to-PI"],"permalink":"/blog-articles/aveva-pi-system/pi-to-connect-agent-behavior-in-usage-reporting-mode/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["PISystem/PI-to-CONNECT","PISystem/CONNECT-to-PI"],"permalink":"/blog-articles/aveva-pi-system/pi-to-connect-agent-behavior-in-usage-reporting-mode/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["PISystem/PI-to-CONNECT","PISystem/CONNECT-to-PI"]}}
 ---
 
 ## **1. Overview**

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["UseCase/EventFrames","PISystem","PISystem/AssetFramework"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-event-frames-in-aveva-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":["UseCase/EventFrames","PISystem","PISystem/AssetFramework"],"permalink":"/blog-articles/aveva-pi-system/unlocking-the-power-of-event-frames-in-aveva-pi-system/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["UseCase/EventFrames","PISystem","PISystem/AssetFramework"]}}
 ---
 
 In today's fast-paced industrial landscape, data management and analysis are crucial for maintaining a competitive edge. AVEVA PI System, a leading data management solution, has revolutionized how industries handle their operational data. One of its most powerful features is Event Frames, which offers numerous advantages for businesses across various sectors. Let's explore why adopting Event Frames in your AVEVA PI System is a game-changer.
@@ -17,7 +17,7 @@ Event Frames bring a new level of flexibility to data management:
 
 Event Frames excel at bringing disparate data together:
 
-- **Unified Data Storage**: Store various types of data - [[Blog Articles/AVEVA PI System/Revolutionizing Batch Management with AVEVA PI System\|batch]], downtime, and excursion - simultaneously against a unit, providing a comprehensive view of operations[1].
+- **Unified Data Storage**: Store various types of data - [[Blog Articles/AVEVA PI System/Industry/Revolutionizing Batch Management with AVEVA PI System\|batch]], downtime, and excursion - simultaneously against a unit, providing a comprehensive view of operations[1].
 - **Centralized Reporting**: With all event data in one place, generating reports becomes more straightforward and insightful.
 - **Integrated Event View**: Gain a holistic perspective of your operations by viewing different event types in a single, integrated interface.
 - **Advanced Analysis**: Compare and analyze events across different timeframes and units, uncovering patterns and opportunities for optimization.

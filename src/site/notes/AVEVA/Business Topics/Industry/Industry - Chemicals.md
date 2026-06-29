@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/industry/industry-chemicals/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/industry/industry-chemicals/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

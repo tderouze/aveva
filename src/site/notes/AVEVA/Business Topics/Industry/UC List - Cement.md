@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/industry/uc-list-cement/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/industry/uc-list-cement/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
@@ -11,8 +11,8 @@
 - 2018 - Flank Engineering Inc : [Metallurgy Analytics: Transforming Plant Data to Actionable Insights](https://resources.osisoft.com/presentations/metallurgy-analytics--transforming-plant-data-to-actionable-insights/)
 - 2019 - CEMEX : [Artificial Intelligence-enabled autonomous operations at CEMEX with Petuum Industrial AI Autopilot](https://resources.osisoft.com/presentations/artificial-intelligence-enabled-autonomous-operations-at-cemex-with-petuum-industrial-ai-autopilot/)
 - 2021 - Secil, S.A. : [Secil: Using the PI System to improve performance management](https://resources.osisoft.com/presentations/secil--using-the-pi-system-to-improve-performance-management/)
-- 2022 - OYAK Cement Concrete Paper : [Decarbonisation with AI & Digital Transformation - OYAK Cement](https://resources.osisoft.com/presentations/decarbonisation-with-ai-and-digital-transformation---oyak-cement/)
 - 2022 - SCG : [How SCG Chemicals  Digital Reliability Platform harnesses AI-infused APM to prevent unplanned downtime](https://resources.osisoft.com/presentations/how-scg-chemicals--digital-reliability-platform-harnesses-ai-infused-apm-to-prevent-unplanned-downtime/)
+- 2022 - OYAK Cement Concrete Paper : [Decarbonisation with AI & Digital Transformation - OYAK Cement](https://resources.osisoft.com/presentations/decarbonisation-with-ai-and-digital-transformation---oyak-cement/)
 - 2023 - Martin Marietta : [Martin Marietta: Streamlining system maintenance with unattended AVEVA  System Platform client installs](https://resources.osisoft.com/presentations/martin-marietta--streamlining-system-maintenance-with-unattended-aveva%E2%84%A2-system-platform-client-installs/)
 
 { .block-language-dataview}

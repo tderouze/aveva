@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Exelon","Industry":"Nuclear","Year":2013,"Title":"Advanced Performance Monitoring","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_Exelon_MohammedYousuf_AdvanedPerformanceMonitoring_1.pdf","permalink":"/aveva/customer-stories/2013/2013-exelon-corporation-advanced-performance-monitoring/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Exelon","Industry":"Nuclear","Year":2013,"Title":"Advanced Performance Monitoring","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_Exelon_MohammedYousuf_AdvanedPerformanceMonitoring_1.pdf","permalink":"/aveva/customer-stories/2013/2013-exelon-corporation-advanced-performance-monitoring/","dgPassFrontmatter":true,"dg-note-properties":{"Company":"Exelon","Industry":"Nuclear","Year":2013,"Title":"Advanced Performance Monitoring","PDF":"https://cdn.osisoft.com/corp/en/media/presentations/2013/UsersConference2013/PDF/UC2013_Exelon_MohammedYousuf_AdvanedPerformanceMonitoring_1.pdf"}}
 ---
 
 ## Exelon's Results

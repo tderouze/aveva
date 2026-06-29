@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog-articles/soft-skills/the-presales-therapy-episode-1/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/blog-articles/soft-skills/the-presales-therapy-episode-1/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 

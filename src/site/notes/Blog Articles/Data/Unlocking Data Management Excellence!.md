@@ -1,5 +1,5 @@
 ---
-{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7136365147790430208/","dg-publish":true,"permalink":"/blog-articles/data/unlocking-data-management-excellence/","dgPassFrontmatter":true}
+{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7136365147790430208/","dg-publish":true,"permalink":"/blog-articles/data/unlocking-data-management-excellence/","dgPassFrontmatter":true,"dg-note-properties":{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:7136365147790430208/"}}
 ---
 
 

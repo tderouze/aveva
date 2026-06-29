@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Yorkshire Water","Industry":"Infrastructure/Water","Year":2017,"Title":"Predicting Leakage Events Across Yorkshire Using the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2PI01-YorkshireWater-Sewell-PredictingLeakageEvents.pdf","Country":"UK","permalink":"/aveva/customer-stories/2017/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Yorkshire Water","Industry":"Infrastructure/Water","Year":2017,"Title":"Predicting Leakage Events Across Yorkshire Using the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2PI01-YorkshireWater-Sewell-PredictingLeakageEvents.pdf","Country":"UK","permalink":"/aveva/customer-stories/2017/2017-yorkshire-water-predicting-leakage-events-across-yorkshire-using-the-pi-system/","dgPassFrontmatter":true,"dg-note-properties":{"Company":"Yorkshire Water","Industry":"Infrastructure/Water","Year":2017,"Title":"Predicting Leakage Events Across Yorkshire Using the PI System","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-emea-london/UC17EU-D2PI01-YorkshireWater-Sewell-PredictingLeakageEvents.pdf","Country":"UK"}}
 ---
 
 ## Yorkshire Water's Results

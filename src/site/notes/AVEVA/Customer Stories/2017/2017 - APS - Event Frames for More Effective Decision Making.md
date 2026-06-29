@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"APS","Industry":"Nuclear","Year":2017,"Title":"Event Frames for More Effective Decision Making","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02PG01_APS_GShupe_EventFramesForMoreEffectiveDecisionMaking_ANuclearMSIVApplication.pdf","Business Impacts":null,"Benefits":"-40% pressure swings","permalink":"/aveva/customer-stories/2017/2017-aps-event-frames-for-more-effective-decision-making/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"APS","Industry":"Nuclear","Year":2017,"Title":"Event Frames for More Effective Decision Making","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02PG01_APS_GShupe_EventFramesForMoreEffectiveDecisionMaking_ANuclearMSIVApplication.pdf","Business Impacts":null,"Benefits":"-40% pressure swings","permalink":"/aveva/customer-stories/2017/2017-aps-event-frames-for-more-effective-decision-making/","dgPassFrontmatter":true,"dg-note-properties":{"Company":"APS","Industry":"Nuclear","Year":2017,"Title":"Event Frames for More Effective Decision Making","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02PG01_APS_GShupe_EventFramesForMoreEffectiveDecisionMaking_ANuclearMSIVApplication.pdf","Business Impacts":null,"Benefits":"-40% pressure swings"}}
 ---
 
 ## APS's Results

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/technology/uc-list-data-diodes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/technology/uc-list-data-diodes/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ## Knowledge Base Articles:

@@ -1,5 +1,5 @@
 ---
-{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:6728219534672707584","dg-publish":true,"permalink":"/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/","dgPassFrontmatter":true}
+{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:6728219534672707584","dg-publish":true,"permalink":"/blog-articles/sustainability/la-sobriete-numerique-ca-vous-parle/","dgPassFrontmatter":true,"dg-note-properties":{"Source":"https://www.linkedin.com/feed/update/urn:li:activity:6728219534672707584"}}
 ---
 
 

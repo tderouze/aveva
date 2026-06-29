@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Company":"Lilly","Industry":"CPG","Year":2017,"Title":"Data Sharing in a Contract Manufacturing Environment","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02LS04_EliLilly_BGoldingerAPadillaDBergCMoore_DataSharinginaContractManufacturingEnvironment_fordistribution.pdf","Country":"US","permalink":"/aveva/customer-stories/2017/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/","dgPassFrontmatter":true}
+{"dg-publish":true,"Company":"Lilly","Industry":"CPG","Year":2017,"Title":"Data Sharing in a Contract Manufacturing Environment","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02LS04_EliLilly_BGoldingerAPadillaDBergCMoore_DataSharinginaContractManufacturingEnvironment_fordistribution.pdf","Country":"US","permalink":"/aveva/customer-stories/2017/2017-lilly-data-sharing-in-a-contract-manufacturing-environment/","dgPassFrontmatter":true,"dg-note-properties":{"Company":"Lilly","Industry":"CPG","Year":2017,"Title":"Data Sharing in a Contract Manufacturing Environment","PDF":"https://cdn.osisoft.com/osi/presentations/2017-uc-san-francisco/UC17NA02LS04_EliLilly_BGoldingerAPadillaDBergCMoore_DataSharinginaContractManufacturingEnvironment_fordistribution.pdf","Country":"US"}}
 ---
 
 ## Lilly's Results

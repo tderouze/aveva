@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/aveva/business-topics/technology/uc-list-braincube/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/aveva/business-topics/technology/uc-list-braincube/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 
